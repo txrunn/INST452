@@ -2,8 +2,6 @@
 
 ## Module 1: Introduction to R and Health Data Analytics
 
-### Health Data Analytics
-
 #### What is analytics?
 
 - The discovery of meaningful patterns in data.
