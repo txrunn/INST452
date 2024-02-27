@@ -1,0 +1,103 @@
+---
+title: "NHANES 2011-2012 Data Analysis"
+author: "Your Name Here"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+install.packages("readxl")
+```
+
+## Introduction
+
+This document presents an analysis of the NHANES 2011-2012 survey data, focusing on demographics, insurance status, past medical history, vital signs, labs, medications, habits, grip strength, pulmonary function tests, physical activity levels, and light levels. The analysis includes data importation, examination of the dataset's structure, and statistical summaries of specific variables.
+
+## Import the `readxl` Library
+
+The `readxl` library is necessary for importing Excel files into R.
+
+```{r import-readxl}
+# Load the readxl package for reading Excel files
+library(readxl)
+```
+
+## Import NHANES Data
+
+Import the NHANES data from the specified Excel file. The actual data is located in the second tab of the spreadsheet.
+
+```{r import-data}
+# Import NHANES data from the second tab of the spreadsheet
+nhanes_df <- read_xlsx("/Module 4/NHANES_2011_2012.xlsx", sheet = 2)
+```
+
+## Dataset Structure
+
+### Output Number of Rows and Columns
+
+```{r dimensions}
+# Display the number of rows and columns in the NHANES dataset
+dim(nhanes_df)
+```
+
+### Output Column Names
+
+```{r column-names}
+# Print the column names of the NHANES dataset
+names(nhanes_df)
+```
+
+## Data Exploration
+
+### Display the First 10 Observations
+
+```{r first-ten}
+# Show the first 10 observations from the NHANES dataset
+head(nhanes_df, 10)
+```
+
+### Display the Last 10 Observations
+
+```{r last-ten}
+# Show the last 10 observations from the NHANES dataset
+tail(nhanes_df, 10)
+```
+
+## Variable Types and Summary Statistics
+
+### Variable Type for "# Drinks/Day Over Last Year"
+
+```{r type-drinks-per-day}
+# Output the data type of the "# drinks/day over last year" variable
+# Replace `DrinksPerDay` with the correct column name from your dataset
+class(nhanes_df$DrinksPerDay)
+```
+
+### Mean for "White Blood Count"
+
+```{r mean-white-blood-count}
+# Calculate the mean for the "white blood cell count" variable
+# Replace `WhiteBloodCount` with the correct column name
+mean(nhanes_df$WhiteBloodCount, na.rm = TRUE)
+```
+
+### Variable Type for "Ever Told You Have Heart Failure?"
+
+```{r type-heart-failure}
+# Output the data type of the "Ever told you have heart failure?" variable
+# Replace `HeartFailure` with the correct column name
+class(nhanes_df$HeartFailure)
+```
+
+### Mean for "# Drinks/Day Over Last Year"
+
+```{r mean-drinks-per-day}
+# Calculate the mean for the "# drinks/day over last year" variable
+# Ensure this matches the exact column name
+mean(nhanes_df$DrinksPerDay, na.rm = TRUE)
+```
+
+## Conclusion
+
+This analysis provided an overview of the NHANES 2011-2012 survey data, focusing on basic data structure, exploration, and summary statistics for selected variables. Further analysis is required to uncover more insights from the dataset.
