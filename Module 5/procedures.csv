@@ -1,0 +1,1199 @@
+DATE,ID,ENCOUNTER,CODE,Procedure,BASE_COST,REASONCODE,REASONDESCRIPTION
+6/18/17,2016000541,b86c6047-c25b-4b9c-90df-5712852902aa,430193006,Medication Reconciliation (procedure),744.9,,
+2/12/10,2016001351,ae97dfe0-c619-44c1-a687-f215d7fac984,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+12/14/09,2016001532,6a6caa2e-961b-432b-8b6d-6e408ef5157f,14768001,Peripheral blood smear interpretation,516.65,,
+12/14/09,2016001780,6a6caa2e-961b-432b-8b6d-6e408ef5157f,415300000,Review of systems (procedure),516.65,,
+12/14/09,2016002149,6a6caa2e-961b-432b-8b6d-6e408ef5157f,430193006,Medication Reconciliation (procedure),565.52,,
+12/14/09,2016003433,6a6caa2e-961b-432b-8b6d-6e408ef5157f,162676008,Brief general examination (procedure),516.65,,
+12/20/10,2016003440,862318f9-b7a5-458d-84d6-3d9db560a97b,430193006,Medication Reconciliation (procedure),948.68,,
+11/27/11,2016003933,fa79c090-06dd-41de-81e3-1b9252191287,430193006,Medication Reconciliation (procedure),873.17,,
+9/12/14,2016003999,dccbc613-e1e7-4929-9855-4e19585ca350,14768001,Peripheral blood smear interpretation,516.65,,
+9/12/14,2016004382,dccbc613-e1e7-4929-9855-4e19585ca350,415300000,Review of systems (procedure),516.65,,
+9/12/14,2016004483,dccbc613-e1e7-4929-9855-4e19585ca350,430193006,Medication Reconciliation (procedure),591.07,,
+9/12/14,2016004493,dccbc613-e1e7-4929-9855-4e19585ca350,162676008,Brief general examination (procedure),516.65,,
+1/8/18,2016004715,7b0e63f4-b523-45b2-91fb-b5cb23693548,40701008,Echocardiography (procedure),810.8,410429000,Cardiac Arrest
+1/8/18,2016005923,7b0e63f4-b523-45b2-91fb-b5cb23693548,447365002,Insertion of biventricular implantable cardioverter defibrillator,45701.63,410429000,Cardiac Arrest
+1/8/18,2016006859,7b0e63f4-b523-45b2-91fb-b5cb23693548,18286008,Catheter ablation of tissue of heart,12579.49,410429000,Cardiac Arrest
+12/2/12,2016011562,0e474df7-e139-4f99-a186-7a72ded8e102,430193006,Medication Reconciliation (procedure),639.97,,
+12/8/13,2016011819,98708ba5-eaa6-4b6c-885c-94821c20c091,430193006,Medication Reconciliation (procedure),556.68,,
+12/14/14,2016013227,b9d77750-5791-4011-a025-b48d4af511e2,430193006,Medication Reconciliation (procedure),575.76,,
+12/20/15,2016001033,7fb7ed1b-d3dd-4910-83a3-4df8efdf25f1,430193006,Medication Reconciliation (procedure),681.1,,
+10/9/09,2016003212,3d8a7f09-d062-420c-874b-bbb7356d14b0,118001005,Streptococcus pneumoniae group B antigen test,2486.46,72892002,Normal pregnancy
+10/9/09,2016003855,3d8a7f09-d062-420c-874b-bbb7356d14b0,274804006,Evaluation of uterine fundal height,6498.07,72892002,Normal pregnancy
+10/9/09,2016004641,3d8a7f09-d062-420c-874b-bbb7356d14b0,225158009,Auscultation of the fetal heart,5040.34,72892002,Normal pregnancy
+10/23/09,2016007484,e5b8b174-b9d7-4b45-ba55-333d4a97702d,274804006,Evaluation of uterine fundal height,6122.35,72892002,Normal pregnancy
+10/23/09,2016007748,e5b8b174-b9d7-4b45-ba55-333d4a97702d,225158009,Auscultation of the fetal heart,5459.42,72892002,Normal pregnancy
+12/31/17,2016007899,d14df5a6-c4f2-45c2-acd8-f2eacb880455,430193006,Medication Reconciliation (procedure),422.28,,
+10/30/09,2016008720,286673c7-e63d-41c7-915d-6379f34ad186,66348005,Childbirth,516.65,72892002,Normal pregnancy
+12/11/09,2016011028,536016de-48a1-42ac-83b9-14d1f4524c5b,5880005,Physical examination following birth,516.65,,
+12/11/09,2016012378,536016de-48a1-42ac-83b9-14d1f4524c5b,171207006,Depression screening,516.65,,
+12/16/18,2016012479,deb0e6cf-9d4c-4b5b-b3cc-a890cc78f99c,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+1/27/11,2016019631,cf5e2f88-7b7b-4c10-a431-c571ef689c60,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+10/13/09,57c9b98b-35a2-4360-9a20-9958eaaeee7c,8323a0d8-7fa1-4428-aa2f-a44c31fba019,430193006,Medication Reconciliation (procedure),587.95,,
+11/29/12,ab3533aa-8230-4608-9f06-4f4673123620,1a41455e-54cc-4517-ab6b-ea8b06265596,65200003,Insertion of intrauterine contraceptive device,14974.16,,
+4/6/12,1b37ae9f-f895-4f71-91b8-22bad1ed333a,cbbd78e9-3321-4e5c-8108-3e951646e7f0,430193006,Medication Reconciliation (procedure),779.95,,
+4/22/10,2e80ccff-35b3-47b7-b19f-bce12b7e260e,c01c79fa-0edd-4f60-a64b-749a42dc5fc7,430193006,Medication Reconciliation (procedure),853.58,,
+2/8/19,5bff9560-f815-4e21-a72d-84e40413bace,855a418d-e7fe-4ce3-8a04-df5d3449ef91,430193006,Medication Reconciliation (procedure),507.83,,
+4/30/11,c9b5fda8-649e-47f4-b394-786e15a0a9b7,f6197f83-5994-4a8a-82c7-a1b9d8f6c8af,430193006,Medication Reconciliation (procedure),660.69,,
+2/10/10,44b08ecf-2044-4a15-9eed-426a5bd3688b,7054b111-fdc3-47d6-9ef3-dcfd0e9011a5,430193006,Medication Reconciliation (procedure),463.75,,
+12/11/09,a43dfba3-ed96-4663-8beb-18a06f5ab72c,139ea489-982f-408a-85c5-15081f477ed5,430193006,Medication Reconciliation (procedure),858.9,,
+5/2/10,31c864af-38ad-476c-8061-fa3bc461a363,dd6e94e2-442d-489e-bc4a-ed87a38c9692,430193006,Medication Reconciliation (procedure),540.3,,
+4/25/12,7a2e428b-cf7d-425e-be49-6cdf280c36e1,531698ef-7311-4c36-87d9-ddb395b53376,252160004,Standard pregnancy test,8825,72892002,Normal pregnancy
+2/24/01,0ca29d43-6456-426e-be49-02136f47485c,a61dd580-8f12-480f-8f59-dbea9823116f,117015009,Throat culture (procedure),3229.44,195662009,Acute viral pharyngitis (disorder)
+11/22/12,ba3fcb7a-6d12-4f97-9358-5cdba21d15d3,006bce2a-4b7d-4ca4-97aa-119e292a372d,117015009,Throat culture (procedure),2243.06,195662009,Acute viral pharyngitis (disorder)
+11/4/10,24aba9a1-2e73-4d31-ab80-7d8a43beda74,a090f75b-8959-48c1-8c8d-66c0f273db48,288086009,Suture open wound,15221.65,284551006,Laceration of foot
+7/13/10,ced2c262-2431-4885-90b3-d5c5b776b97e,c72ed5ef-0637-4948-86f7-24a106a2ea27,430193006,Medication Reconciliation (procedure),356.21,,
+9/28/10,02b253ec-2379-4334-87fa-b959e7838ed4,cd8cf2e7-a560-4ede-b992-359ce981505a,73761001,Colonoscopy,11113.29,,
+9/26/09,8e6c298d-b33d-43be-a35c-1707fe6855a2,1cd43a34-ac5c-4783-9c8f-de831d947bbe,127783003,Spirometry (procedure),11370.56,87433001,Pulmonary emphysema (disorder)
+8/11/10,10db6001-b50d-4352-a56b-21d0c2c5b99c,b27dab82-9017-4ae1-a632-84d82d5d5434,430193006,Medication Reconciliation (procedure),841,,
+12/23/09,26e74707-55ec-4fe5-bdb7-ac6de9be3146,c3eaf464-3662-401b-8caf-c84cda160fcf,430193006,Medication Reconciliation (procedure),680.07,,
+9/13/01,4a56070d-d482-4854-a1fb-8a0aac88b889,33492ea3-d613-415a-b636-c766cea98519,127783003,Spirometry (procedure),11673.05,185086009,Chronic obstructive bronchitis (disorder)
+3/20/10,b003aafe-cb06-47fd-bd4f-f8044b64b596,d991e87f-3e98-481a-9a93-9337c3e3d20a,430193006,Medication Reconciliation (procedure),760.74,,
+4/15/10,6d8d78d3-3e54-4f82-b244-bff830358515,16ad88cf-4a69-4d0f-b4de-f7416c8cf427,252160004,Standard pregnancy test,5574.71,72892002,Normal pregnancy
+4/16/10,7747bd12-8a97-417c-a21d-d4fd77139033,b1e6b2a5-53eb-4830-a696-8b0474e58068,430193006,Medication Reconciliation (procedure),453.08,,
+4/9/12,89130e93-7fcb-4123-8e71-f8b702fe4501,87bfca55-33d4-4526-88d5-17657084d89e,430193006,Medication Reconciliation (procedure),674.76,,
+10/17/09,910da454-49f1-4828-b856-995979c53f8c,c927615c-3b2a-49d9-a5da-7b85a16b1ab4,118001005,Streptococcus pneumoniae group B antigen test,2954.95,72892002,Normal pregnancy
+11/18/09,25bd6cc0-bf0f-4888-99ca-08671df4b401,247d2d07-6d71-4ef4-a9f9-9fc6bdbf4fa1,117015009,Throat culture (procedure),2209.44,195662009,Acute viral pharyngitis (disorder)
+2/8/10,9c87abae-4487-45f4-b29c-b481a4e88bc0,d594db9c-0a69-435b-8820-83c35fb2f992,430193006,Medication Reconciliation (procedure),458.16,,
+1/24/14,5620b276-5302-4cba-81cc-d570c676958b,cbcd2443-f67f-4e29-8245-7317dffbf7d4,430193006,Medication Reconciliation (procedure),763.29,,
+9/29/14,4bd5735c-7c58-4e89-a42d-7b36402ca44d,006dbb21-dffd-49fd-9860-4fcf1db137f8,14768001,Peripheral blood smear interpretation,516.65,,
+11/24/09,a5d91b13-babe-4d88-9647-ffea605640cb,becd4f50-e2c4-486d-b407-df5afe951014,76601001,Intramuscular injection,3207.65,,
+11/13/09,de69c3c1-8366-4160-91d4-ce6fa08c11b3,6ccda15c-ac74-4aee-bcae-8906a2e9b611,269911007,Sputum examination (procedure),4843.64,10509002,Acute bronchitis (disorder)
+6/12/18,88c7be04-bc65-41df-9b97-88fcca533afc,810675e4-afce-4fa3-9aae-d4097113977a,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+8/23/10,d4517f53-dad0-48c1-9665-aa617ce81275,4a57721d-da20-4359-a3a7-3450b3180e94,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/25/09,0dfc037e-f41d-47e3-ae9b-d407eae59536,20d887e0-22ab-4d40-bf4b-69b90eff90b0,274804006,Evaluation of uterine fundal height,5369.87,72892002,Normal pregnancy
+7/16/12,c072e6ad-b03f-4eee-abe0-2dbc93bbadfe,7c2b40c8-c3b8-4e6b-9f5a-2e6bbddb4bb0,395142003,Allergy screening test,516.65,,
+4/20/10,a9df73f7-dd25-4b5b-b924-938edabfb461,ae8c270c-7521-4756-b011-192089ffe37e,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+3/31/17,a0667059-5b72-4c8e-941b-66efd98b43da,289156e7-f81d-4696-bc46-b962e0cebc6a,269911007,Sputum examination (procedure),8423.61,10509002,Acute bronchitis (disorder)
+1/2/10,677a3742-0c21-4384-9dad-8ba06103c94d,b0743867-c8a0-46a8-95d2-e678e68da207,288086009,Suture open wound,10801.28,370247008,Facial laceration
+3/9/10,bc9a941e-d611-499b-8c16-b0f3a165559e,0cc4c71a-bd87-4c74-8394-2c9922096530,430193006,Medication Reconciliation (procedure),381.53,,
+11/19/12,2dbf2669-2d65-4d84-9388-0066f3960974,5043c511-646c-4103-97d3-c1e9491ff010,430193006,Medication Reconciliation (procedure),417.15,,
+9/16/13,fa07dae4-3ab8-46d8-8e2e-766461ac7f6c,68d84a08-15cb-44a7-b8c0-9fa4b06c46d1,288086009,Suture open wound,11442.18,284551006,Laceration of foot
+10/27/09,2c405456-ee6d-475c-b0fe-e8675589845c,a15ca99e-a673-4933-a623-166aaae6a579,76601001,Intramuscular injection,3510.27,,
+6/5/13,a8296af6-7706-497b-be46-f5c101e7ce66,b48f325f-8d8b-40af-8891-2e4a6aa76680,430193006,Medication Reconciliation (procedure),764.04,,
+11/11/10,870a8160-e247-4758-a414-073fd676592d,d5b1111c-1d91-4576-8476-031afcf6715a,430193006,Medication Reconciliation (procedure),702.96,,
+7/25/11,a0a2069d-3abe-4591-a0de-7fffc37ad90d,c869f0e0-43d5-40a2-8765-6e4108aee912,430193006,Medication Reconciliation (procedure),595.32,,
+9/26/10,d41d57b4-91e6-4452-8b31-937d707d2b3f,8533ab60-49b4-43e2-9ecf-363b328abd89,180325003,Electrical cardioversion,15743.87,49436004,Atrial Fibrillation
+8/4/10,95f96486-b915-4e2c-af88-4af40370364f,86da2525-f16a-4b56-8ae7-7dbcdc4b2669,252160004,Standard pregnancy test,4399.97,72892002,Normal pregnancy
+9/12/10,858c9853-013a-40d1-9ed7-66b66b0b4c5c,bb7ea4f0-6dcc-4e85-bc1f-30e30df58260,430193006,Medication Reconciliation (procedure),564.87,,
+9/24/10,9ea28ce1-de76-48b9-aa27-e99a7020ecce,7decba05-3f0b-4b82-bb21-0b784928984d,76601001,Intramuscular injection,3572.26,,
+9/17/87,14f92538-be5c-4de6-afb7-9d404fd3a8ae,990dff73-2274-4821-b9ba-d8f6a0c58f2f,430193006,Medication Reconciliation (procedure),680.15,,
+10/20/09,976bcab3-c1c3-4141-b6ca-e7dc1d365abb,d3ce1ec3-ef9f-431b-b848-b1035d1fce5f,430193006,Medication Reconciliation (procedure),744.18,,
+10/18/10,6a59b037-c848-472c-be9a-f14c43160c6c,fd425f79-2b2b-465b-90e7-9b4bea801252,430193006,Medication Reconciliation (procedure),541.18,,
+6/4/10,949e3e66-aa54-4a00-be94-204bf0696852,dd1b12a9-d4d8-4445-a605-81edd7505dd1,430193006,Medication Reconciliation (procedure),706.31,,
+7/2/19,8ccf09f3-07c3-4d93-9389-48574072ebc7,b55c3962-88eb-4bd2-a07b-ad12088291c6,430193006,Medication Reconciliation (procedure),521.08,,
+8/9/11,7125b58e-8953-46db-9573-537b34888d8f,bd69c9d9-4132-4c98-8987-6737b4ca5857,430193006,Medication Reconciliation (procedure),525.49,,
+10/29/10,34068b8e-9f6f-4f09-b973-b64d194a1cd2,8948ab62-6b70-4261-8f83-3a62adc7ffc0,430193006,Medication Reconciliation (procedure),451.34,,
+9/1/10,3e92b479-ea5b-4191-b36b-b983746fb1b0,bc939347-e4a7-4675-be47-7f5e8df0edf1,430193006,Medication Reconciliation (procedure),554,,
+9/10/11,3c2eab1b-667c-44d2-8e63-3c41ec3d5b2b,764d6322-5cbe-416b-8850-4b5289320178,430193006,Medication Reconciliation (procedure),997.9,,
+12/16/11,013908ef-c887-4972-9275-377a6f5e1f5e,7eacec6a-6e48-4ca5-8101-62ed0eb739ff,430193006,Medication Reconciliation (procedure),535.82,,
+2/5/11,8f01ac50-19c7-4a30-b260-b7a5b725f582,ae64225f-2be3-451f-a879-16145ad9f735,430193006,Medication Reconciliation (procedure),765.36,,
+8/9/10,18f154cc-ec1c-427c-9ecc-48bae325c4d6,f654a90e-0757-493f-bdae-ccca0b8fc46b,430193006,Medication Reconciliation (procedure),486.6,,
+8/30/90,47eeb051-490c-4a27-89f8-05b85bc84a75,00026ef2-5d2a-40d1-886a-9c6606d1fe9b,430193006,Medication Reconciliation (procedure),537.34,,
+9/25/09,1f2a4648-c23f-43f3-a468-c36ab6028234,99e995ca-8ac9-4064-8e7d-8de0a2760334,430193006,Medication Reconciliation (procedure),506.41,,
+9/26/09,6343cfd0-d47f-4a20-b561-b33d6441f372,9bad759f-e222-4d37-9575-10b05ab4c287,430193006,Medication Reconciliation (procedure),778.69,,
+8/17/52,c99e64e7-3f31-4b7f-a81a-db34fead98e5,267cd6c0-f06a-4578-bf1c-470929b58bd9,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+2/21/12,7d3570f8-4282-4ef1-a049-30a53f488a07,e0bd1eed-2ce4-43e6-8834-cb9d7d7fcff1,430193006,Medication Reconciliation (procedure),362.77,,
+6/29/10,59c1abc0-90b8-4cda-94b5-3e0673f652e5,58398c56-5bd7-4828-993b-a53653892c60,68254000,Removal of intrauterine device,8847.27,,
+7/31/17,ab132b8f-1200-497d-9968-d23a7fb87c1b,c87020aa-e6c5-4cb1-9b84-e38bc55cfc05,430193006,Medication Reconciliation (procedure),389.91,,
+12/20/09,7d7c9b72-4769-4e72-b837-358754bd7f0d,8c28a56d-3db8-463b-87ff-b6145d5aada5,68254000,Removal of intrauterine device,11985.82,,
+8/21/12,fd2ad292-034b-46b2-8e56-743218d87cbf,15e0d6d1-1646-4080-a9a9-31ebb63f9016,117015009,Throat culture (procedure),2129.61,195662009,Acute viral pharyngitis (disorder)
+7/20/12,78880659-ddf6-4887-842d-a16adfd7acde,0dd0489e-f717-47e7-a3f1-f0580be46ade,430193006,Medication Reconciliation (procedure),528.7,,
+12/17/09,d9894cce-5641-4126-aafd-06acb9332fb3,0a905d5e-5663-4963-b341-73fb958764a5,430193006,Medication Reconciliation (procedure),443.81,,
+8/1/10,aa465d13-1030-4fd4-a352-a1c615ea6df2,05d19e9f-a973-40fd-82b2-987161fcec45,180325003,Electrical cardioversion,48485.75,49436004,Atrial Fibrillation
+11/27/11,a1a34756-b007-4369-93ef-61cb7b4b448c,a81be4be-d3af-4690-af1f-26db4fd2f771,430193006,Medication Reconciliation (procedure),729.56,,
+4/24/94,c89380ce-c811-4e2f-aaef-e7020efa6dfd,ba063657-972a-4fa9-96a9-8bc3879ddb6f,430193006,Medication Reconciliation (procedure),691.93,,
+3/31/10,51d10707-a8ca-46d9-81f7-e8da06a3386f,a03d047d-a94d-4b91-a410-d5875bfba42c,73761001,Colonoscopy,19916.11,,
+8/12/10,d29d3202-fa44-4efb-b1ec-bc2c4d548868,0cfa44b3-fb46-4b68-80a6-12464d0e1767,430193006,Medication Reconciliation (procedure),935.91,,
+3/18/12,164d38cf-ffa2-4cb9-b85a-e1ebaf12fbec,f16caa07-8309-4a8d-87f1-19c540ca6685,430193006,Medication Reconciliation (procedure),421.83,,
+9/13/10,8fe4ef71-0edb-405e-b3c8-ae6b5c92899f,49ea2300-c74c-4f46-b15a-489e561c177f,430193006,Medication Reconciliation (procedure),512.19,,
+11/24/09,2ed8f251-7366-4f00-a3d8-a931bd63b312,270b408a-c65c-4328-bbcb-4e8c62452cc6,430193006,Medication Reconciliation (procedure),791.51,,
+10/21/18,6f9718cf-0135-49bf-ab97-5b7d3c193f0c,356cf1b7-7b92-465e-8272-5bc1c5a364be,430193006,Medication Reconciliation (procedure),513.43,,
+10/31/10,839a1278-6a98-497b-8ee5-f3a61e58c134,1fec034f-2de9-43e1-b428-13cb40664917,252160004,Standard pregnancy test,8870.16,72892002,Normal pregnancy
+7/23/11,b9253891-6240-41f2-bb48-0582d13548c7,88b6adc9-8cb3-48eb-8dbd-ada64042e346,430193006,Medication Reconciliation (procedure),495.91,,
+12/8/09,aed1cc9f-5379-4277-b232-12593740db53,5fa4ec27-c20e-49aa-8e93-9e01debdafbb,74016001,Knee X-ray,516.65,,
+9/26/12,3c29784a-61df-498e-bc00-7697abe2c3df,fb7ee952-1a4e-488e-b856-df8b369947b8,430193006,Medication Reconciliation (procedure),717.47,,
+5/23/10,9080acbd-4ce6-4c72-90fb-feb0872c9806,2fd32db9-a3bb-4953-a017-797350d1c5cb,288086009,Suture open wound,10042.82,283385000,Laceration of thigh
+6/16/18,2da6fd52-25d1-4cf0-8d01-4a3349101aeb,50fd479e-2a91-4826-9991-9d269af17b0a,430193006,Medication Reconciliation (procedure),407.37,,
+3/27/11,01b5a96a-d586-4f1a-9f63-7ea12126d89e,cf2671df-a821-47aa-8ae3-c40a74b4a83f,430193006,Medication Reconciliation (procedure),740.89,,
+6/25/12,e11417ff-9331-4557-827a-6b608cba70b0,0c17b916-8347-4aa5-9273-acf80cabcf65,73761001,Colonoscopy,12604.52,,
+1/17/10,ffdeb4e3-eaa0-4139-bf21-2243370b31d0,df6d71cc-4c51-48c3-ba26-fb6018275f9f,430193006,Medication Reconciliation (procedure),284.87,,
+7/6/14,d9b2e4c0-ce15-4a50-b31f-d5c49a05e09e,41e8a8ff-33ec-4752-bf00-97620e9556c4,14768001,Peripheral blood smear interpretation,516.65,,
+5/14/15,27e974ae-a79e-42cd-8ead-fdf31942ed20,05a4a9f9-ebc3-4ebb-b3eb-91af7e720e50,430193006,Medication Reconciliation (procedure),604.01,,
+11/9/10,61d63628-15e5-473a-adb4-1a21ac2bfe00,ab529df2-8a8c-45f7-905a-d42364102c65,117015009,Throat culture (procedure),3141,195662009,Acute viral pharyngitis (disorder)
+1/21/10,a3b90a9b-9cc4-493c-b646-2a4edd24d23e,69a2c8a1-1b1a-4369-9e83-a31470099297,399208008,Plain chest X-ray (procedure),11243.86,10509002,Acute bronchitis (disorder)
+10/30/09,4a790a44-7955-4057-96de-1c7035c9a510,153a046f-b8dc-40b4-8e2f-d733452fde6a,169553002,Insertion of subcutaneous contraceptive,17986.43,,
+10/3/11,1776ace1-393b-4bb6-ba99-4377ea2b9a46,4198ab96-67a0-4c55-8982-6ec515ca0f33,430193006,Medication Reconciliation (procedure),637.96,,
+3/6/12,cb80f082-ef26-4b9b-8daf-1e14c0a8dc18,a384ffd7-fa96-473f-aca6-d73ba51dda40,430193006,Medication Reconciliation (procedure),573.19,,
+11/23/10,e93936a8-64bc-41b0-8d89-ad227d9565d9,d322b1fc-348c-4b62-906a-90eb4b3115b5,430193006,Medication Reconciliation (procedure),621.86,,
+12/7/09,168708f9-37f4-4162-aeb0-8629f6f30cbc,e3845f9f-9200-4c1a-abb1-3b6aa52f2707,430193006,Medication Reconciliation (procedure),473.68,,
+11/13/09,ad7f38c5-8a53-4a6c-9b6d-7ad0637164d7,7df80c9a-4ad0-4c4b-a9d6-7efbbfdbffa8,430193006,Medication Reconciliation (procedure),656.06,,
+8/13/11,2a8d0998-bf09-44bd-bf07-8532d52f2d02,3ef75757-06ef-4d5d-86cc-0a1f7888004b,430193006,Medication Reconciliation (procedure),504.09,,
+9/30/09,6505a930-34db-434b-9633-deb08f57d839,22e9949a-8fa0-457d-8b0b-75c64b3d4719,31208007,Medical induction of labor,3520.5,72892002,Normal pregnancy
+10/18/10,5e3d127e-6d70-44ba-8349-8f10a0a56b24,a2d16027-db07-4c9c-99ca-fe5822037774,430193006,Medication Reconciliation (procedure),798.43,,
+4/22/77,aefca2e5-02fc-43f3-98a9-54e82a5d156a,1b780522-ab35-4418-b489-975158f54b95,430193006,Medication Reconciliation (procedure),470.3,,
+10/28/04,520044f6-753e-49f6-8123-b63bf7fa4bef,10595da0-a8b2-4874-84f9-7c7a0e631e75,410006001,Digital examination of rectum,516.65,,
+10/5/09,f7f63ca8-d282-4520-9a68-3177e2a5db6f,70ea227e-35df-4675-a322-1e841361b166,180256009,Subcutaneous immunotherapy,21099.46,,
+11/13/09,56602fcd-6805-4e1a-85d9-eed9631af1b7,edd4bf95-6513-4461-98f6-e3c90afee928,252160004,Standard pregnancy test,6067.55,72892002,Normal pregnancy
+1/24/00,2c57a897-8381-44a6-920f-e074fa6f74cf,55af9d22-41ff-4670-ac34-1129e347a36e,430193006,Medication Reconciliation (procedure),570.57,,
+12/11/09,dc3a7408-bbdd-4963-a8ed-a7ab3448a9b3,5682367e-eedd-4112-bb75-a25a29f53cf1,252160004,Standard pregnancy test,3769.41,72892002,Normal pregnancy
+3/20/10,c1aeee74-bf6f-493a-801f-eac8c27c67f3,ea7bdf90-cb94-4e73-9ed6-113110a248c1,73761001,Colonoscopy,17900.93,,
+6/5/11,dc3a84d2-3d85-4e88-83f1-30e59241839d,be873bb5-2ee3-4605-a920-2fac0eecb186,288086009,Suture open wound,7970.65,283385000,Laceration of thigh
+5/30/14,a3c4e431-b0fb-471f-b254-81823d203839,4c3bfee4-2a41-4a53-ae30-539774aeb59a,430193006,Medication Reconciliation (procedure),671.9,,
+8/8/10,55d2706c-bf82-4ecb-90c6-d7f7e121c4b6,e998b21c-96d0-4edd-a5c0-97a1d3516518,65200003,Insertion of intrauterine contraceptive device,9819.12,,
+11/9/06,9e2653fc-49e0-4b2e-86f8-e664bbe07be3,aabab9f3-21bc-42dd-b6f3-9bfce596aeb7,430193006,Medication Reconciliation (procedure),672.36,,
+2/28/10,20df6885-5f4c-4b95-a460-a2005302e3dc,b386fd93-b292-432f-aba4-fe056533339e,76601001,Intramuscular injection,4390.61,,
+12/2/10,0875239f-f098-4192-89e0-2bb25ae09750,2cde2936-c196-4378-9da4-b8c09cf3254c,430193006,Medication Reconciliation (procedure),798.45,,
+11/15/06,943f7a75-4e53-426b-a5fb-982f95310fd0,946865b4-7f57-4a6c-a95a-4d28fa6239d9,430193006,Medication Reconciliation (procedure),565.47,,
+11/12/09,fcc88b98-5b91-4183-b360-3d6603ff267d,6303a0cd-4c26-4ca9-8d7e-3a615d49b7bd,76601001,Intramuscular injection,4687.79,,
+11/30/09,99ee2285-f0c4-45fc-85e9-9947a9fc191f,ec8da56c-476c-43da-8496-0009536efc1d,430193006,Medication Reconciliation (procedure),758.15,,
+8/5/10,e40767bd-4f64-48d5-a4fa-c0cfa8942445,29337ec9-48bb-4067-97c8-caf8629604ff,269911007,Sputum examination (procedure),10248.47,10509002,Acute bronchitis (disorder)
+1/21/12,6edf069d-ebad-4c90-8192-119fb32c84c1,a58fa26d-5495-4527-bc63-ddf58fbaa710,430193006,Medication Reconciliation (procedure),373.4,,
+3/3/10,6a490d1a-b7b5-4c4d-9f6a-14bca4bc26da,15b75a9c-48c8-4c4b-a722-b29fb2800530,430193006,Medication Reconciliation (procedure),642.57,,
+8/3/13,14973ffb-cd56-4f61-a3cb-4814e6533ad5,8b7678d4-4d1d-4c18-b79e-64bce5b77fe0,430193006,Medication Reconciliation (procedure),358.77,,
+2/27/10,31db0dc6-d5f0-4ecf-b715-cc105b87957d,9450abe5-083a-4ff8-af53-42d48306030b,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+6/5/10,5c9fcde0-bf8f-4b90-95f0-58edeac65ea1,3bda2340-df35-478b-bf35-37f603c3187b,430193006,Medication Reconciliation (procedure),680.09,,
+3/8/10,82e1ac67-6148-4b60-8b2d-94481cceaa51,14be50bd-e552-460b-9654-80f2a95e501a,430193006,Medication Reconciliation (procedure),1002.53,,
+12/8/10,276ba071-be58-40c6-a8c2-d245da2da7fb,c83549b4-a515-4f39-abf9-f25854eaa03f,430193006,Medication Reconciliation (procedure),486.58,,
+4/30/10,d41129b8-37c7-44f0-952e-fc0e51885f49,47d308bf-b364-4d83-8109-fe209d75b6a7,169553002,Insertion of subcutaneous contraceptive,11125.39,,
+7/17/11,da24e588-37fe-47aa-9780-4d154d84df5c,457c3405-2dbb-41ff-81a9-0f5b000f3ca1,430193006,Medication Reconciliation (procedure),457.99,,
+4/25/10,bd858504-3da6-4bcb-a4b0-b69df50cdabc,f8658871-b6b9-485e-bdac-cbb563538240,430193006,Medication Reconciliation (procedure),609.81,,
+1/30/10,132ff57e-a51d-425e-af89-16d95db75d0f,1725f3ab-34ef-4bcb-9a56-6a3b3b8b41ec,430193006,Medication Reconciliation (procedure),690.98,,
+12/30/10,2ce0e0f3-3263-489b-bbf3-df4748f913d1,92e4bc30-aa86-43cb-8346-937219fc1504,430193006,Medication Reconciliation (procedure),412.76,,
+9/23/10,149c3a3c-761f-4b4f-b188-74857fa28f1a,6c59a8cd-c8b3-46e5-b38a-e5f9c7e2e5c3,430193006,Medication Reconciliation (procedure),764.59,,
+4/13/12,87f9b38d-562c-4b9f-b086-4b131b6e03f0,63396ddb-8abc-47a9-a460-a9a5f81c0030,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+12/2/10,54b69988-bf39-4735-aee6-835839c36322,b0f146d4-f87d-40c1-89b2-334fd1c1eb59,252160004,Standard pregnancy test,5130.08,72892002,Normal pregnancy
+11/3/12,9dcb1f6a-0a03-46c4-84e2-a433f51a4b32,e0fe3620-d725-48c0-9c99-51638fdec67a,430193006,Medication Reconciliation (procedure),819.55,,
+6/12/11,d4dcca82-8029-4036-a064-c5eb18291b3e,e5cb74e2-496a-440f-a264-2e776b3fe478,252160004,Standard pregnancy test,7658.45,72892002,Normal pregnancy
+11/26/14,9a6bcfa2-0c84-4ee2-a4dd-8d548f6fb33e,260bb58e-1cb6-4615-ad93-07f911cb18f5,430193006,Medication Reconciliation (procedure),712.67,,
+1/14/11,8501d144-5ece-4a78-b84f-f23a2d504ff4,6562c097-d439-441a-b5a6-4c4e198b700d,117015009,Throat culture (procedure),1777.16,195662009,Acute viral pharyngitis (disorder)
+1/4/15,6b79277b-0ab1-4d4f-ad1b-e3ecb050cade,9f88ab8f-c77c-4e99-ae81-57db369fd2ac,430193006,Medication Reconciliation (procedure),423.46,,
+12/2/10,43f98ba5-3f36-4e98-9795-e1419b75df90,779439c7-a5d6-43f9-965f-7bd8202a730a,430193006,Medication Reconciliation (procedure),406.59,,
+11/10/09,2689263c-2b90-41b5-96f3-4fe53b9c6bc3,921e12a6-669e-478a-8583-b6cf2ddd3130,76601001,Intramuscular injection,4269.33,,
+1/7/11,7558b77d-83ae-40ce-976d-a612bcbe47e3,78df23a4-4332-48ae-8a78-212b1ae3890b,430193006,Medication Reconciliation (procedure),603.98,,
+6/8/15,b14bedde-dfb2-4dde-b15c-6520193199b7,7c3cbeee-05ec-4161-9cad-cb56c058aa48,430193006,Medication Reconciliation (procedure),664.38,,
+6/11/18,18a8e932-a13e-4765-90d8-aad2fd58b9ab,0b06db45-baa6-4aa8-a66e-4b19943b0e82,430193006,Medication Reconciliation (procedure),855.43,,
+5/17/16,49a83d35-a1be-48ed-8e20-acdb540462ae,e04084a6-ccbf-4238-86de-e6500d6d613f,430193006,Medication Reconciliation (procedure),555,,
+9/6/11,d92ec761-4115-4f33-abb1-d45a658ccf8b,c86fcc67-dbe4-44d3-837b-ca4690864f31,73761001,Colonoscopy,13432.32,,
+6/3/10,46ff89af-c962-4913-80e7-6c7ecbfaa5a3,3d5c475c-c85e-4d43-89c4-31a67e7fc107,430193006,Medication Reconciliation (procedure),585.66,,
+8/2/10,ec74f673-77bd-441d-a843-7b4153c5b83d,590ba796-5723-4e94-bed8-ecc7c0355aa8,430193006,Medication Reconciliation (procedure),925.45,,
+12/17/10,51da7ca8-1883-4bee-be81-a8980419b29b,2a232433-8fde-480b-8877-f666235e4eec,430193006,Medication Reconciliation (procedure),684.85,,
+10/10/09,57be8ff8-1930-4b62-96fd-daf298159f8e,e0c7e0b5-94d4-46eb-9f58-9c130fd2d3db,274804006,Evaluation of uterine fundal height,6074.9,72892002,Normal pregnancy
+12/12/87,9a9986bd-e4aa-4591-90e7-6171bdc69689,889b9cbd-bdeb-44f6-9460-2cee482f7520,14768001,Peripheral blood smear interpretation,516.65,,
+8/23/10,d506ca54-caf0-4bbe-b827-10c68c67747e,9df707a3-5c14-4d3a-8610-4482cb6df093,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+7/3/12,3a72f33b-a24b-4fc0-adf7-6d7df0b16549,d4dbeaa0-5765-45b4-a1e1-d117b87c9e87,430193006,Medication Reconciliation (procedure),669.1,,
+6/27/94,bd2a1c40-c248-4ee4-a2d1-bfa8f0cfd0f1,e49669c5-6229-46dc-b453-405417577ebb,65546002,Extraction of wisdom tooth,19981.2,,
+5/3/11,e158bd0d-2d06-4ec7-95c8-861aec0e1188,2ea53409-4be7-4f75-bfe0-9721726ee1b9,430193006,Medication Reconciliation (procedure),384.26,,
+11/7/09,d39c50f3-ee12-4bf0-9a41-eb4736cb43ad,c92541aa-0ac9-4acf-98ad-ca11320606f9,430193006,Medication Reconciliation (procedure),746.45,,
+9/24/09,b19074cc-67ca-4884-96f6-fa41fb123f6f,9fdc4a57-cee4-46f2-9609-4a0c1b2a6737,430193006,Medication Reconciliation (procedure),511.6,,
+11/18/09,0d772d75-f5d1-4e21-9d51-5bee16c6b28f,51ddcb38-e0d1-42a5-b21b-8d7e0b527e29,73761001,Colonoscopy,17958.96,,
+11/15/09,a6c42ac2-a2f0-4013-b8e2-5263ccd80df4,d70da496-290d-488d-93a0-a9bd6384ee01,430193006,Medication Reconciliation (procedure),471.62,,
+8/5/10,5974d955-60b6-4e8e-87c2-aec099ad8ad8,e25c5c3b-5cf0-4ce1-a2d0-f2c7ef3d0d3e,73761001,Colonoscopy,14893.2,,
+10/15/15,3180f2db-0e2e-43c4-b049-752919b59618,be7d88e3-5348-49a8-a729-a5f805ad533c,73761001,Colonoscopy,10910.91,,
+1/3/18,34397d5a-6ba9-45c3-9644-800a980bce4c,20eb6f67-ea5c-435d-b0c1-46d0a17f7b0d,430193006,Medication Reconciliation (procedure),576.56,,
+5/22/04,be72598d-f160-4c30-b285-59504f265315,c4290f1d-4e1a-4477-b7a2-aac2728476f2,430193006,Medication Reconciliation (procedure),491.87,,
+11/6/13,32be366a-6138-41e4-a41b-fc533ce3dafc,5e9bbeb1-19c9-49b5-bb62-79b0c6b833df,430193006,Medication Reconciliation (procedure),582.8,,
+2/15/10,86391e0d-9a6c-42f3-bf09-d459fd1b1a0d,8a5b5cb2-eb4e-48ef-9676-c1c6d2626e89,117015009,Throat culture (procedure),2793.24,195662009,Acute viral pharyngitis (disorder)
+8/15/15,68ce6edb-5fe0-438c-b161-0318cd53d5d0,79240485-447a-4de9-a524-d45a85b42578,430193006,Medication Reconciliation (procedure),504.47,,
+5/23/10,8ad14783-2eb9-42d8-9cb3-7ce463616bcb,5c2ca86c-5d3a-4b70-8779-71c66b0b6c09,430193006,Medication Reconciliation (procedure),750.6,,
+1/4/10,c85e59cb-50b9-4ae5-9961-12a5008e640a,660ded49-ee16-4aa1-9ac2-d7e929609244,430193006,Medication Reconciliation (procedure),524.14,,
+3/17/10,cc257fb6-c91f-46b6-80cb-d9a9a3fc9dd7,5d90e10d-d647-4477-96b2-8c9887386bf7,430193006,Medication Reconciliation (procedure),443.84,,
+12/15/09,f243c444-ccdc-44ff-8703-9c91722159ed,92ffa456-84f2-4f3e-94c2-88be53743e39,430193006,Medication Reconciliation (procedure),715.09,,
+6/29/16,639cdf00-e29e-43c8-97c3-ffe7bd5285a3,221ea069-4adc-4a4e-b09d-47e05002131b,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+8/28/10,c5dbbed9-124b-41d3-8d57-84952c1f4f36,2b990bba-cbf9-48bc-bb78-2cbe3370853f,430193006,Medication Reconciliation (procedure),895.88,,
+1/7/06,4876b417-adb1-4a90-9903-f9ab1757e1e0,bb0171e5-3264-420f-8aee-912b3384e7b6,430193006,Medication Reconciliation (procedure),389.23,,
+10/28/09,48068ac7-6299-430d-9996-878125ebb146,d0fcc817-5504-405d-a010-48ee489d1934,430193006,Medication Reconciliation (procedure),737.15,,
+12/4/09,44898b0e-efd6-4997-b8d7-410c7d7144c9,5a7fb0dd-f80b-4f53-ae8e-70669dbc4776,430193006,Medication Reconciliation (procedure),553.46,,
+6/26/10,cbb68e96-0b4f-4f50-992f-1e4896e0fbfb,04d70139-4637-4883-bca8-4b302c3c5242,430193006,Medication Reconciliation (procedure),468.18,,
+3/22/12,48e745da-4f8e-4e67-af03-c669215f0abe,149e7090-2c31-4b8a-925e-c273ae54188b,430193006,Medication Reconciliation (procedure),578.25,,
+1/21/10,f5e5098c-f3ec-41d2-bb40-0fb08cea6034,d61f9323-9f8f-43db-9a02-7b3176a8be9a,46706006,Replacement of contraceptive intrauterine device,8133.42,,
+10/9/13,a048d78c-1beb-4348-9ed8-5d8e29ebca49,84ad9754-69fb-4daf-9640-f34b59c8f53a,252160004,Standard pregnancy test,6377.07,72892002,Normal pregnancy
+12/23/09,4fe3a629-ad58-4f0d-a81a-dd5482376a67,cb3153cf-5b43-4af4-ac72-a8266e18885f,430193006,Medication Reconciliation (procedure),715.63,,
+8/7/11,7e0197fe-f6ea-4c8e-816e-97c5da115b92,841eaa2f-611f-4303-bad3-8573fe7e59d1,430193006,Medication Reconciliation (procedure),717.9,,
+4/20/11,22789ea7-d236-4466-b841-2a596847b219,7b57eeac-020e-4f7d-9d03-d9aae3c89596,76601001,Intramuscular injection,5054.1,,
+2/22/14,65d885f4-8ab3-46cf-a3c1-c038a7fbd277,1cc6c028-4f01-43c1-ab52-b1662d424fb6,430193006,Medication Reconciliation (procedure),641.11,,
+4/29/13,5d141bc0-4b0b-473e-89a7-15625fcccb5d,ac77d116-baff-469d-8f6d-a48c0ee4f24f,430193006,Medication Reconciliation (procedure),460.46,,
+2/5/11,51471b77-26e6-4100-9cc8-0139308245ba,fc11c5e5-e92d-4951-8cc4-48813328f8cc,430193006,Medication Reconciliation (procedure),856.5,,
+11/4/09,6f9b97ee-6341-43fa-854a-ba63105fe391,3d95e5c7-1457-48db-86c5-8f4d735b317d,430193006,Medication Reconciliation (procedure),706.62,,
+1/26/14,8b1d8f17-f3bb-45d3-b696-b88e26d2f0cf,852efc2e-2704-41b4-8448-2c5de7b2e770,430193006,Medication Reconciliation (procedure),652.24,,
+6/29/10,a4bc38a8-64f3-419c-9e03-7e31fd53eaa4,7f62efbb-21da-4a6b-8c76-f4d040d68061,430193006,Medication Reconciliation (procedure),576.31,,
+5/7/10,a8267e63-5207-4c6d-8f40-2e5ef1e0090d,50a5957f-c2a8-49ba-9b17-13e55f818c2f,127783003,Spirometry (procedure),8217.5,87433001,Pulmonary emphysema (disorder)
+10/20/13,cba7f3a8-aac3-460b-8b61-428de8c1e05c,129f1770-0ed6-4d11-b41e-d3cff1b425e1,430193006,Medication Reconciliation (procedure),477.77,,
+6/23/77,60d5bd0d-7925-473a-abb5-7b553aaee122,d0b66631-fa09-4118-9d3a-2acc4eb9922c,73761001,Colonoscopy,23259.27,,
+12/23/09,8bf37747-30fa-4458-a06c-09b7ebcb0160,525e19bc-ab2a-47fb-b163-64919a0f0024,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+4/30/10,e37800dc-d9c7-4e2d-966c-3d7af108e602,b881bee6-b36d-47d6-a0a0-72b7f6b12e91,430193006,Medication Reconciliation (procedure),555.13,,
+6/26/10,b657804a-6811-43d4-b9f3-9f5fb65145a9,22ad6000-bf76-4b0f-8ea2-1fcd13823bb2,430193006,Medication Reconciliation (procedure),440.54,,
+12/21/10,8d064cb8-df5e-4ac4-ad4b-8f43b93bc16d,b4c3e9ce-68b8-4d3c-bff0-3fe65dd2d854,430193006,Medication Reconciliation (procedure),512.49,,
+3/9/13,8690f8f7-4812-48a7-9325-57f4cf1aa521,e762169f-7849-485e-9564-e3091b41bfe6,430193006,Medication Reconciliation (procedure),686.47,,
+1/6/10,9da0dcfc-05e3-4e8e-95ff-b04b56f748be,9e063c7a-ff69-40d1-832f-fe1a71c85c7d,73761001,Colonoscopy,19689.22,,
+12/7/09,bf090b52-cda0-494e-bf98-2ad36ff83c52,235223c1-37e9-437d-9e95-a52315b2571c,76601001,Intramuscular injection,2739.61,,
+1/21/10,ebfc467b-c9b6-4dd5-b611-4aae8f77b2b6,df5d5544-8d91-4adf-9b53-931417603a30,73761001,Colonoscopy,16662.42,,
+10/23/09,ae6669f0-0200-4f8d-83cc-d977041acad5,e2d04717-8142-413f-8c0c-a4a1a9cf7e6e,430193006,Medication Reconciliation (procedure),462.75,,
+12/26/09,f12d9cd1-a264-4e91-9f3b-064302bb0332,37503d32-9b6d-4949-81b4-e183f571b9f8,430193006,Medication Reconciliation (procedure),475.1,,
+2/6/10,da6eed88-4547-4ef0-9307-16e1fd770027,927ee7de-4545-4573-99b8-704cb2babb5b,430193006,Medication Reconciliation (procedure),459.03,,
+8/12/10,4a2af0e1-fa8c-4657-a6d4-5aac86f56ebd,2561f2ce-7b48-46a8-a10e-09d2f870543b,430193006,Medication Reconciliation (procedure),340.74,,
+4/27/10,8e61d7b1-5d03-4b30-80fc-38237c2e624e,49318a36-d31f-4e13-8f77-6d338c57b679,430193006,Medication Reconciliation (procedure),350.47,,
+9/7/10,37a645cb-e429-4475-b17a-edceb9580787,01c43f09-cac8-4c8b-a61a-ad9867af0a74,127783003,Spirometry (procedure),11676.56,185086009,Chronic obstructive bronchitis (disorder)
+1/5/11,0ac47275-108c-4d50-a910-4f8334f2f0b9,4b7e907b-ec42-48f9-a56e-c11bd40e605c,288086009,Suture open wound,10189.5,370247008,Facial laceration
+12/30/10,465ce228-e53f-47ba-bd78-04308a70ecfd,04fda6d5-eadd-48c9-a5a1-6e33d32e0808,430193006,Medication Reconciliation (procedure),510.81,,
+10/26/09,fe45237f-e741-4644-acff-c1825514a586,470ce5f2-f440-4000-8a4f-1736c57da842,252160004,Standard pregnancy test,6340.48,72892002,Normal pregnancy
+1/17/04,0826685b-b061-411a-9403-a1d2277425e0,eed6a155-1241-43e3-8e2f-319e46f8a04e,117015009,Throat culture (procedure),3912.12,195662009,Acute viral pharyngitis (disorder)
+1/20/10,9007a123-a345-45b5-9c3f-5ddad834b5ae,f3b47bf3-920e-4a06-9804-100a4b18f6e2,252160004,Standard pregnancy test,5286.79,72892002,Normal pregnancy
+9/3/11,ed4701e2-ba22-4510-b55f-9a7920354780,e8e7880d-bf9a-4d35-9eac-0c9b598f01f2,430193006,Medication Reconciliation (procedure),606.58,,
+12/2/10,c790d598-778a-4a44-bded-5a444dff4b27,6f095128-9246-49aa-a184-ee3dc51e952a,430193006,Medication Reconciliation (procedure),334.72,,
+10/9/09,a50eda74-58d7-4631-aacc-008bc99ac238,d420ca4c-be57-4faa-9d0f-e30f1e0760f8,274804006,Evaluation of uterine fundal height,6556.51,72892002,Normal pregnancy
+5/23/11,8b012722-5ebc-4d39-94dd-b8d80820b4ce,2a3e1618-db64-4c34-9e15-2e87ce0fffd9,252160004,Standard pregnancy test,5591.81,72892002,Normal pregnancy
+9/26/09,12104075-54c8-4424-a0d8-a0c047519533,c44c7081-3d46-45e8-bace-c6958807440a,252160004,Standard pregnancy test,5643.45,72892002,Normal pregnancy
+11/17/09,c452f53a-bbff-47ab-b1de-ad1a251d36d4,eea8aa2f-404b-4b64-98d0-bf6a95125a7a,76601001,Intramuscular injection,1977.57,,
+10/20/15,f93c7a1e-afa1-45a1-a815-a5d1bb1cc705,88509fc3-2cc3-44b6-a1ec-3cce42bdd49f,430193006,Medication Reconciliation (procedure),943.42,,
+10/11/09,b462178c-2492-44ee-bdb4-9e186df89516,392f9f21-12f9-408b-881b-0f07a813b86b,288086009,Suture open wound,6593.9,284551006,Laceration of foot
+10/2/12,6cbea2c0-2524-415c-a95e-e0ee1bdd8ecf,6d4b151a-8915-4238-852e-c2c517221262,430193006,Medication Reconciliation (procedure),651.13,,
+3/22/06,614b9e91-dcbd-4db4-9302-1d7fecac2bed,a33786c9-a6dd-4b90-acbc-54958c0e0320,127783003,Spirometry (procedure),11589.86,185086009,Chronic obstructive bronchitis (disorder)
+5/23/12,8e0c5831-e60c-4c08-ae1c-d1af93629a6c,bfdcfeb9-dce5-45e1-b91b-911b7965d94e,430193006,Medication Reconciliation (procedure),337.72,,
+7/21/14,3968fa83-c2b7-48ee-80ed-0633801f3c3c,1fc4d432-c89d-4823-bf3b-819c530f3fc9,117015009,Throat culture (procedure),3409.65,195662009,Acute viral pharyngitis (disorder)
+1/29/10,3912696a-0aef-492e-83ef-468262b82966,8a083b2f-e503-44cd-b5a2-1b679aaf2b88,430193006,Medication Reconciliation (procedure),434.13,,
+3/6/11,9b061b82-c17c-478a-b381-dbee07149be2,a07a88e9-9f13-44d8-87b4-40ce6b1046e9,430193006,Medication Reconciliation (procedure),537.86,,
+12/3/09,83e71fff-3735-472a-b015-40cdf279190d,cbd9977c-8c90-472f-90ba-58401e728883,430193006,Medication Reconciliation (procedure),465.79,,
+10/25/09,8e4678d8-358e-4e68-b6dd-3ca88723a5db,0401aa58-b15e-417f-94da-f433948fcd7b,301807007,Removal of subcutaneous contraceptive,11445.74,,
+5/9/15,83cd3265-e2b8-4a84-95fb-491738d4fd75,a2b93773-0491-4199-8fb1-43f92b10bfed,430193006,Medication Reconciliation (procedure),631.42,,
+10/4/05,324a30f9-5353-4492-887a-21a7c79b9450,c247f3d9-1068-4134-bfb3-7aeb87fdd129,430193006,Medication Reconciliation (procedure),343.01,,
+8/13/10,5ada0174-b12a-46ba-940d-58c42eeb0f1e,6cabc57d-3026-4d55-b377-3ff815a7ffa3,430193006,Medication Reconciliation (procedure),537.68,,
+8/27/10,43dfc3fc-6fe9-410a-89ba-593861a6238e,17f09094-3414-48bf-be7f-c46dcb69b94d,430193006,Medication Reconciliation (procedure),627.93,,
+4/20/11,4f3b103d-3102-49ea-8d87-5a423e11f853,a3a05333-2a79-4606-863c-c1c3f7325736,430193006,Medication Reconciliation (procedure),445.67,,
+11/21/09,c1f4c114-a056-4622-8575-d2d8774c8a90,5431383a-f05e-40b9-aad0-700bcd6b040c,430193006,Medication Reconciliation (procedure),777.04,,
+2/7/75,3503171f-bc61-438c-a0ee-3332b8e6ac46,a17b3821-b236-433a-bee2-c841e2bedca7,430193006,Medication Reconciliation (procedure),790.04,,
+11/11/09,bffa4715-f0a8-4fd6-867b-436e4e6fbfb1,07b4778b-e346-4f71-97b7-6df1ebcd850a,76601001,Intramuscular injection,3469.75,,
+2/6/11,9b42e5bf-a139-48cd-b0b7-6e99ca903c3a,2e0e6cc8-0283-4ed0-af6a-da3276e0b7c3,269911007,Sputum examination (procedure),5800.59,10509002,Acute bronchitis (disorder)
+7/26/11,98a5a979-500a-43e3-9bb6-9342be2f74cd,3eb0e06d-8e54-4d2d-81f8-e30c5fa2f852,127783003,Spirometry (procedure),6761.17,185086009,Chronic obstructive bronchitis (disorder)
+9/10/10,ddb53fec-6ec8-40f6-b58a-45cdec2257c3,11e6fa70-089e-4b26-b549-f780413f8458,430193006,Medication Reconciliation (procedure),883.98,,
+10/7/09,5a2b8aed-ad76-438c-a117-056114c4d1e0,8bdb32c9-75ce-41b0-88ae-42432f42b764,180256009,Subcutaneous immunotherapy,12529.41,,
+7/26/10,6978b9aa-165e-495c-b1de-b7c1ad855b92,a6d6a3a5-ab73-4465-a8b6-eaa1d3ee2752,65546002,Extraction of wisdom tooth,20092.1,,
+8/12/11,0f7bcd00-821c-4c44-9843-40b82abc18e5,db0cd11e-dd03-4438-b5bc-8373fdfb6f1d,430193006,Medication Reconciliation (procedure),695.27,,
+9/13/97,1b93c7d3-4427-488d-bba4-bee6d6e1c821,02cdd0dd-f298-4674-a29a-59d7d19f9256,430193006,Medication Reconciliation (procedure),476.29,,
+1/30/11,af715913-a221-4235-a1a0-7684702d1931,3b9ccb45-3d3c-4ce0-ad0e-5e7521971490,430193006,Medication Reconciliation (procedure),633.11,,
+4/8/15,2f2033f2-3e6c-4ed9-b623-89b7038b3d56,3c8d53dc-2411-4c3d-848a-46adebc3e20f,117015009,Throat culture (procedure),2180.39,195662009,Acute viral pharyngitis (disorder)
+12/27/10,43aa201e-c99a-4008-9cb7-d74a5a347442,9ae33708-0dc4-4ab8-9951-c4025a036e74,430193006,Medication Reconciliation (procedure),444.87,,
+8/1/10,63056f6b-4cb3-4f9b-9a62-c3817991e6a1,2e9b9c62-0bfc-48e4-9a1f-13a21eb83ad3,73761001,Colonoscopy,14652.4,,
+1/19/11,7b439fc4-7ac8-48aa-9c2c-df6a8dd38621,bcc2270b-dfbc-4aac-ab80-72e30847db9e,430193006,Medication Reconciliation (procedure),311.87,,
+3/29/14,49e4037a-b643-4acf-bbfe-e29ca79b97a1,81770a73-2298-48fb-a4d6-ac2b1d5eb460,117015009,Throat culture (procedure),2694.66,195662009,Acute viral pharyngitis (disorder)
+7/25/12,fec4d8d0-77fb-43d0-ab18-781df3b83e8a,c734501f-4c38-4603-b19b-b929c6304d12,430193006,Medication Reconciliation (procedure),882.81,,
+2/12/10,0ddd0f9a-f593-4987-93a8-5a53162aa3ec,9e2d3541-a110-423b-bef5-a64715702a75,430193006,Medication Reconciliation (procedure),723.28,,
+2/6/11,0060910b-52bd-44fc-8735-05012c94a696,bd545e51-cf22-4e45-be5b-4adbdadcf0a2,430193006,Medication Reconciliation (procedure),598.38,,
+6/18/12,82dab0ca-7c12-4844-a22d-5ecfd27175cf,26a9904f-ccd5-4ff3-9c7c-b7642259995a,73761001,Colonoscopy,13008.65,,
+10/15/09,2b083021-e93f-4991-bf49-fd4f20060ef8,d1731ff7-8e5a-4c5c-9ac5-820d2a229240,430193006,Medication Reconciliation (procedure),712.47,,
+1/21/12,3445d3ef-04cf-4c5a-b02e-7510138b143a,0cff754d-217a-4531-a449-09aa0aee785d,252160004,Standard pregnancy test,6668.88,72892002,Normal pregnancy
+9/27/12,b19e6279-35fe-4140-a58e-d8f03111b247,19cb7039-21de-41a6-ba4b-11cb1c68a1b5,430193006,Medication Reconciliation (procedure),990.81,,
+12/3/11,55af98d6-fa0f-4c10-b249-8d10f59ef64d,9b9365de-2d2f-49da-8fb7-0f3813f42a1e,430193006,Medication Reconciliation (procedure),562.44,,
+8/29/10,6ed47c70-ad21-4fe0-823a-749cf805ff6b,9f885996-0730-4dbc-99f1-e780dd56618b,288086009,Suture open wound,16362.73,284549007,Laceration of hand
+8/4/14,0d99905b-876b-425d-9915-a8146dea96f3,c5eb1a83-a84a-4a00-993e-db0e4633312d,169553002,Insertion of subcutaneous contraceptive,14339.64,,
+11/4/06,402fc5c9-ce63-4ca2-af9f-14b08d95396b,c214de75-8fe9-431e-847e-598407337cef,430193006,Medication Reconciliation (procedure),314.47,,
+5/17/10,3f31e949-d916-476d-bf37-f6874ab7b1c1,85ce0af6-701e-42b9-a4ce-52f40eccd06e,430193006,Medication Reconciliation (procedure),470.94,,
+9/22/10,e7ca05cb-2e47-46cb-ab4d-4002a798a6fd,13a4ee60-0e0c-4756-b203-d756813df844,430193006,Medication Reconciliation (procedure),424.8,,
+4/7/10,b64983c8-5d76-4b8c-a2bb-06ea9dc45366,8ff8248b-0161-48cf-9b4b-4416555184b0,117015009,Throat culture (procedure),1575.97,195662009,Acute viral pharyngitis (disorder)
+6/10/11,0380d14b-33c3-4a5b-b8ae-86e1833c49c0,38458f09-8707-4751-b88e-e14d7ceb1064,430193006,Medication Reconciliation (procedure),806.59,,
+12/16/10,2e897141-c9c3-4b0e-b194-a72fb1b392d1,d97d7fe6-159a-4e7d-b75b-3617f582fab4,430193006,Medication Reconciliation (procedure),493.93,,
+2/10/12,7fe3fe78-f363-4c13-95ae-a05df266448a,acf5ad14-0c89-4892-99c1-f0d4748a03cf,46706006,Replacement of contraceptive intrauterine device,6349.13,,
+10/7/09,7af52d48-a652-4d88-a3ba-0c02d5246c02,f80eab21-8998-4778-804d-b6ef2b8dac28,180256009,Subcutaneous immunotherapy,15764.39,,
+7/23/06,c21fd57c-71cb-44ff-bb9f-fe85a23ba15a,06e86268-28eb-4fd0-8a4b-729b715b1c79,73761001,Colonoscopy,18996.66,,
+10/16/11,cd2e6a4f-0ef4-4aa7-b15e-8441a2a55fd8,bee46f2f-5de5-4572-a071-57e18d6fcb03,430193006,Medication Reconciliation (procedure),554.18,,
+1/11/10,89092a54-b7dd-47d9-b970-7979d548469a,89bf3b72-2759-48db-9406-2682d4da90e1,430193006,Medication Reconciliation (procedure),431.44,,
+10/21/13,1aef0478-e37d-4d12-b2d2-590c2a6a6e9b,e1e5399f-5823-4920-b489-625a71794c18,80146002,Appendectomy,16085.21,74400008,Appendicitis
+8/16/10,87d993a3-8364-465b-a065-1231a21262ab,6e7a98ac-247b-459a-9cd3-52691f1df981,430193006,Medication Reconciliation (procedure),747,,
+4/20/10,8e0b9e93-eada-41de-bc55-aae6e67117ab,73774e98-198a-448f-a84a-537f18b465a5,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+5/19/10,d4186ec4-719a-45d5-af11-95f630600f89,71a25856-a00e-489f-84e6-15f100aa7959,430193006,Medication Reconciliation (procedure),603.58,,
+12/16/09,6d7a098f-2c58-4e30-8770-8f1d11b67609,2c63db90-9745-4451-b033-9812dcc5a049,430193006,Medication Reconciliation (procedure),409.36,,
+2/26/19,d8f48256-4c8f-4286-a0dc-f68f24b5acc0,03a88aa8-8230-45c7-a1a7-99d131c699f6,430193006,Medication Reconciliation (procedure),423.3,,
+2/11/12,417e0431-e087-4c77-8ab2-17f135fdd596,9d5b64fc-8474-48a1-afc7-dabab43bf3ba,73761001,Colonoscopy,16374.46,,
+2/4/12,98d0b034-ed0f-4140-9736-26cfab776016,258254bf-e79b-4c6b-b39e-0c4997f02ab6,430193006,Medication Reconciliation (procedure),568.49,,
+10/5/09,82ebd61b-b406-4522-b990-72f562a2cfec,2ced2f6e-cd85-4c4f-8864-9f1fc09073f3,180256009,Subcutaneous immunotherapy,14247.61,,
+9/28/09,243d664f-91db-4a01-b154-c23445218635,23a43619-d91d-4ae1-acc3-11d5adc426e1,76601001,Intramuscular injection,2172.84,,
+2/16/10,6ae7a9f6-050b-4667-bea1-aeca2e3e16ed,2c7fcfbd-01f2-4a43-9bac-03bfe4af6086,430193006,Medication Reconciliation (procedure),304.54,,
+6/7/11,bda86ab0-85a1-43cf-8227-75f65b7a68ac,d2b86a58-6404-40ba-987a-a27564c01d28,430193006,Medication Reconciliation (procedure),518.3,,
+12/12/15,e239d7f3-a571-48ed-85d8-1adc04264ee4,c9bfec5b-2e66-4db6-852a-1c8e868acdad,14768001,Peripheral blood smear interpretation,516.65,,
+7/22/18,28d7b203-8ced-4f1c-9c7b-f920232ca4eb,b7cb3d3f-2cc2-4458-8336-9fc087ef60c6,430193006,Medication Reconciliation (procedure),791.62,,
+3/31/10,757e8a45-aa5c-4067-bb05-2d94ae05f596,9b598146-5364-420f-b939-a34a5ad60d50,73761001,Colonoscopy,14392.09,,
+3/22/11,a99b82af-6654-4101-8091-cea62bae7826,9fd9a939-aebd-4d1e-b7dc-900290c4a364,117015009,Throat culture (procedure),2514.72,43878008,Streptococcal sore throat (disorder)
+5/4/10,4fbdc06a-4ecd-4dd6-a67b-955ab2275628,7f562841-d75e-418b-a96c-a42b23734a8e,430193006,Medication Reconciliation (procedure),667.28,,
+1/26/10,b3419b44-bea5-4948-9abe-8796a1f484e8,333bfc3f-db73-438a-b6ae-a5f217758d81,252160004,Standard pregnancy test,5840.84,72892002,Normal pregnancy
+9/30/09,a82ffcdd-11db-47d9-ab30-9e5a2c51194a,bd990c0d-cfc0-44d6-b720-717986956670,118001005,Streptococcus pneumoniae group B antigen test,3612.83,72892002,Normal pregnancy
+1/14/11,27d1813b-5b58-4c28-927d-b8cc751389a1,6210ab49-57b6-491b-9332-880b7f892a8a,313191000,Injection of adrenaline,2669.2,,
+11/5/11,c81cc296-c032-4ea7-a127-6ca21d44e47a,32c16357-0d3a-4a5a-a75a-0a221504a1c6,430193006,Medication Reconciliation (procedure),586.03,,
+12/27/10,8a1a0919-820e-4d29-b7ba-383aeba08e9e,c13a6feb-b567-4890-a710-8e94ede67694,73761001,Colonoscopy,8381.76,,
+7/16/10,a28f848d-fb7e-4cf9-9b21-0d196954d809,a377544f-c64f-4414-ad7d-56b0a60cb51e,430193006,Medication Reconciliation (procedure),793.09,,
+9/8/10,1b66ed9b-bb06-4590-b89d-ad45f4850e5b,20f0a0e8-b170-43fe-b1d1-d5241863ed25,430193006,Medication Reconciliation (procedure),943.62,,
+12/25/09,d05cb90a-c2fc-4da3-ac6b-aded96bb48d5,7ca70b36-559c-404f-ba2a-a0ed2c0b8ff7,430193006,Medication Reconciliation (procedure),572.88,,
+12/7/09,6db58d94-662c-4d07-bf79-2129ca4b8f14,4eb74554-5115-4f69-837b-36a9715a1197,430193006,Medication Reconciliation (procedure),732.51,,
+4/26/10,918867a5-6206-41a9-be53-4095f35ad971,2ec127ff-42e1-4d8f-91ca-014a47b58b92,169553002,Insertion of subcutaneous contraceptive,10441.95,,
+2/16/13,e49a3b38-bea1-480d-8a6e-0914e2d5cc46,fbc1690a-7079-40db-b4ec-314e37e093e1,430193006,Medication Reconciliation (procedure),691.27,,
+9/10/73,ed9dded2-6f69-44df-bc6a-01a3334786f3,1801c7d9-19a1-4bf8-8513-87366f79d889,430193006,Medication Reconciliation (procedure),541.14,,
+8/14/17,f8329bff-a048-4054-8a6b-208f54a2a330,d892f4ae-477d-41ca-a799-d53b458d4ebf,252160004,Standard pregnancy test,4381.96,72892002,Normal pregnancy
+7/9/09,b42f8b36-6601-446c-9b12-8ae3bce44540,d8b29549-c50a-41c8-a492-5da026886105,73761001,Colonoscopy,11442.37,,
+9/22/09,33bdd4a5-00d3-4e23-89e4-e082a233185a,3dbe22ca-2609-413b-a037-ad24eee6cf1c,76601001,Intramuscular injection,1762.97,,
+7/18/19,cdc302e1-1148-467f-accd-0e3d6914b4d8,2d0252fc-711d-4f08-9c89-fd7bdc2dc058,430193006,Medication Reconciliation (procedure),492.59,,
+10/4/09,804354b5-852b-4ce4-81c2-ddda4f5237c5,1c05e48b-5f7c-4988-89bb-b0b8e835c9aa,104091002,Hemoglobin / Hematocrit / Platelet count,3543.76,72892002,Normal pregnancy
+9/6/01,c753b425-2c50-4be8-a58c-c5c722f19f6a,e5c32e98-7ca2-4a4a-a561-d7d5dc3e153a,430193006,Medication Reconciliation (procedure),549.49,,
+7/9/10,00b9bc4f-66c7-4b28-916d-2fdc2de93e48,9fc3937f-af7c-4f8d-8539-266891843093,430193006,Medication Reconciliation (procedure),503.26,,
+11/25/09,4a9a97d7-5fa5-40ed-945d-72f33872c632,4e8b09c8-ef15-40a3-8aa7-aa40f7288a25,430193006,Medication Reconciliation (procedure),634.8,,
+7/19/10,ec30dc82-6858-4d6d-a315-a80ec5319787,a6eecbde-5dd9-4793-82ee-9786884fd615,430193006,Medication Reconciliation (procedure),841.84,,
+7/15/10,00e5c917-c654-4350-808b-97d649419d85,8a14619b-a30a-4632-99d1-77e5b3f501a1,430193006,Medication Reconciliation (procedure),324.27,,
+3/9/10,8027e27d-405f-490c-a946-91d1b40c8fd0,f21b6716-3768-4079-8b02-ad417a770dd4,430193006,Medication Reconciliation (procedure),657.11,,
+6/18/11,f5aa3408-57b3-4c05-a1d3-e4511b4be50e,a27db089-1cbd-455f-a77a-3139a4b77f58,430193006,Medication Reconciliation (procedure),636.07,,
+1/5/14,ff7d25c0-30e5-401f-8c6a-d993453cb57e,8d9c8eca-ce99-4b68-95df-254308d45883,430193006,Medication Reconciliation (procedure),564.98,,
+10/27/09,d6ba1c58-400c-445a-8026-ee9d501a42fc,4e9c5322-6b7e-424a-843a-a4bb8756c39a,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+12/12/97,97086ada-a655-45a2-a501-156f9a321650,be5764bf-b563-4b96-8d7e-e3e76d78b090,1225002,Upper arm X-ray,516.65,,
+10/31/10,3b2b8775-07cb-4d4a-b930-743d0f446c9b,14b919c8-9290-47e4-9cf4-aadaec0a0521,430193006,Medication Reconciliation (procedure),954.54,,
+10/19/09,ae62d665-3fd5-418d-8f59-923f8077a0eb,320667d6-5c23-48a0-90be-e78c0261a7da,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+4/22/10,961fa5ac-1f6d-48a5-9c6d-8df9fb734879,083309ca-e0a5-45a4-9cb1-bd84b1596837,430193006,Medication Reconciliation (procedure),580.45,,
+5/28/11,948ae343-7800-448f-945f-11d3ed1a2471,24975abc-555b-41b8-adea-196019f2fc6c,269911007,Sputum examination (procedure),4365.42,10509002,Acute bronchitis (disorder)
+4/1/04,3a71494a-cd03-4b01-9925-0663d369cfe8,3008a8ab-8685-41da-89ac-f9555ece363d,703423002,Combined chemotherapy and radiation therapy (procedure),10234.06,109838007,Overlapping malignant neoplasm of colon
+8/22/07,9c508457-5256-4a34-8903-5ff4d4866313,9cc95eb9-35bc-4303-ae07-e7aebf1a346f,430193006,Medication Reconciliation (procedure),562.02,,
+10/21/09,76d58e5d-737a-419c-9d80-48fa81144cc5,61a3f652-64f5-4166-bcba-b807063d2e8d,76601001,Intramuscular injection,3514.48,,
+10/3/13,7763734c-5dfe-4b6c-bb9e-3c9b76c53fe0,18a8a95f-2511-429b-a4dc-b639074ec6a8,430193006,Medication Reconciliation (procedure),484.29,,
+10/4/10,9fa03048-c733-46d8-b0b5-0e143610cb27,7e507870-9df9-4a09-bda6-ba0f6ecdb5c9,14768001,Peripheral blood smear interpretation,516.65,,
+2/7/11,c020c5a2-9dca-4463-9564-9003a32020ad,8b1a3df0-f101-40a3-bbf9-55c105ad1027,430193006,Medication Reconciliation (procedure),793.64,,
+7/9/73,cd47ca3c-9436-46ee-9099-99339cebaed5,be328444-3285-4594-aba2-eb39c9a735df,73761001,Colonoscopy,12922.02,,
+10/29/14,4b8fb257-b3e9-45fd-8454-5c86b62cd40c,45e57bae-cead-42c5-8ca7-cdbf64242224,117015009,Throat culture (procedure),2759.57,195662009,Acute viral pharyngitis (disorder)
+7/17/98,559cea4f-e626-4be5-8851-dc13e101d2f4,454699cc-fbc8-49f5-96e1-a7ba622e6d39,14768001,Peripheral blood smear interpretation,516.65,,
+11/7/09,e66f686f-0206-4aad-a693-e717c8f20a31,8715e507-bea8-4df2-8f0a-3461710ee11c,430193006,Medication Reconciliation (procedure),529.63,,
+3/12/11,a3977ce3-93d5-41bb-a544-c93cebcbec29,f53c3197-aef3-4ead-8390-8541264de322,430193006,Medication Reconciliation (procedure),423.73,,
+8/11/66,4d2be2f7-1301-4e0d-9e89-d279c0099af4,00680e25-daad-40ce-a280-11f095908605,271442007,Fetal anatomy study,516.65,72892002,Normal pregnancy
+10/3/09,7a51b115-366c-4dee-ad66-59ebb471fb78,e109b08e-1936-478e-a759-b4cf15d962c0,274804006,Evaluation of uterine fundal height,5640.23,72892002,Normal pregnancy
+5/30/16,d2a5f025-c89f-40ce-8851-2e4093b91c9e,55db5d3c-6fd2-48aa-8241-6880388b3fa7,430193006,Medication Reconciliation (procedure),844.08,,
+12/16/10,5de0199a-1a55-416a-ad1b-352eb6374d6d,49e16cbf-56de-43fb-aa52-a7af2910092c,430193006,Medication Reconciliation (procedure),383.77,,
+11/17/09,251e7f12-c265-483f-bb28-b291457d62d0,96c6159c-f7eb-435d-8067-9a0b35ca38f1,430193006,Medication Reconciliation (procedure),668.77,,
+9/8/10,801082c3-4f07-46d3-9ab6-dc648099b376,67085a4e-cb3f-4f5c-b273-c39f2f704427,430193006,Medication Reconciliation (procedure),381.27,,
+1/10/12,51be8f78-5562-4a29-b834-ba9562dc84fb,c192fc6b-be79-43c8-8757-34648257eba0,430193006,Medication Reconciliation (procedure),419.36,,
+11/10/52,c729d477-421d-4167-a946-ca33895605e8,f65a8238-39f7-4990-a8e4-e6dfa7bf0a7e,127783003,Spirometry (procedure),11862.04,185086009,Chronic obstructive bronchitis (disorder)
+1/28/15,8cb0d869-9bd8-489b-a1ea-12898c4aab1e,cd1c8259-293e-4b29-9218-acf8373fccdb,430193006,Medication Reconciliation (procedure),517.69,,
+1/11/11,acc73077-0705-42fc-8602-f2408083b32e,5845dc0c-dadc-4a5d-a13f-39909e947c09,73761001,Colonoscopy,12916.41,,
+10/5/09,0f0ad692-94e2-42c9-b46e-7430d51aaa51,d251639a-f196-404a-89d7-b2c69b1c70ff,430193006,Medication Reconciliation (procedure),610.81,,
+1/21/15,6e4e4311-55f3-4c2d-8576-d4cb63f121b6,41fabccb-2310-4e04-8ac7-61d9ab240481,430193006,Medication Reconciliation (procedure),528.59,,
+1/13/05,01711004-06ee-4086-9ca3-1b0ffaf2e00a,4feac1cf-2a51-4dd7-a4ac-b78c4e814d75,430193006,Medication Reconciliation (procedure),887.42,,
+9/21/09,53476880-1db0-4263-a803-c515b8cbc48b,14827a75-3009-49d8-84f0-c3cd1372371b,73761001,Colonoscopy,17370.38,,
+2/27/11,563383fc-a421-40ba-93f4-911eb946fd32,dd0de585-abb1-4354-812e-25f12164844b,430193006,Medication Reconciliation (procedure),635.31,,
+4/1/11,2f0644f2-7045-46f7-85fe-f75c9505837e,e5baad8a-de34-4361-8bb9-55d78ce401b0,430193006,Medication Reconciliation (procedure),451.86,,
+1/18/33,cf74b914-0337-46ca-872d-197dc47579fa,67ae7cf4-1754-4580-9a27-8fcd11661806,269911007,Sputum examination (procedure),7555.65,10509002,Acute bronchitis (disorder)
+9/26/09,61cc3000-8b3f-423f-be13-68d21f4caa8d,e8e07d5e-04f3-4588-8ca8-7f6241b88814,430193006,Medication Reconciliation (procedure),487.54,,
+3/17/16,9e89e6a3-e383-47e5-a411-aa9b1f2792aa,b3728b69-5eda-4563-a169-6f741f95f305,430193006,Medication Reconciliation (procedure),760.23,,
+7/20/92,75cf33f8-a30b-435d-9fcd-63efcd12a6cc,ffbf309c-d3e4-4a65-b13b-26bceef4f2cd,430193006,Medication Reconciliation (procedure),688.92,,
+4/6/10,3f222cf6-5261-44c2-8acb-49820691ce66,1311319a-04b4-4508-85d5-170335f55fe5,76601001,Intramuscular injection,4097.2,,
+3/5/11,f65448e2-6c0c-4d11-bb1c-45a20ed7dd44,5ec771be-b6fe-49f1-95c6-419ff9ed7b6e,430193006,Medication Reconciliation (procedure),660.64,,
+2/15/13,10bf8a43-119e-43b7-9988-9e769f2200e6,b20b7f3b-f6c9-4fd8-b354-4bc9b22bf827,73761001,Colonoscopy,12439.14,,
+12/16/99,92e9705f-afb9-4540-853c-8060a622f51a,d3448117-5f16-4d42-91db-e680b2ffe432,430193006,Medication Reconciliation (procedure),576.82,,
+7/3/10,f25def74-1562-49f6-b369-06f903c0ae7a,31482579-e5cf-47a0-9c9b-19d874b539b1,430193006,Medication Reconciliation (procedure),946.6,,
+7/1/10,f00443c8-4444-4ba9-9199-74aa3fd358b0,ea0b4584-e8fe-4bc6-b248-4a9f966c41eb,127783003,Spirometry (procedure),9978.36,87433001,Pulmonary emphysema (disorder)
+2/5/11,0f7798a9-31ab-45ac-9e86-5d7eb152063b,c0364db8-d0d2-4b18-8696-72fb6cbcefe8,430193006,Medication Reconciliation (procedure),869.68,,
+10/14/80,b3e1def9-d4cf-4c54-a15a-38e936f06235,611bf9d1-81b7-4093-aaf8-9e3203d0e83e,410006001,Digital examination of rectum,516.65,,
+8/17/10,f9ebbf90-b9a9-4753-a84c-8661b67db9a2,dd8e86e0-cfd9-4e2b-b7f2-3d5066e7c603,430193006,Medication Reconciliation (procedure),368.69,,
+5/12/10,5e82f4d8-c23f-4e6d-bfa2-ba82724437f8,33604b07-c43d-4eea-9d92-9c90084e6e0a,430193006,Medication Reconciliation (procedure),484.58,,
+9/4/00,2e36ee7c-1795-4217-b0f3-05683f6a8e1a,33bd6bb4-31db-41a8-b93c-ab1580b2be0d,430193006,Medication Reconciliation (procedure),524.62,,
+10/11/09,d4f5e78b-8fd3-443b-925d-8da28cd48546,2c1c6e38-4cd7-48b3-8882-99d054962da6,274804006,Evaluation of uterine fundal height,8485.5,72892002,Normal pregnancy
+11/22/18,e2ce8626-dd11-4aed-b850-6158395fca43,58edd4d9-9f8d-4f7b-9d37-4902259f7e66,430193006,Medication Reconciliation (procedure),670.99,,
+1/7/12,68152059-aa58-484e-8b47-e5bc48cfac31,56da5e98-8fc9-4e3e-a20f-6f544ce2e3d2,430193006,Medication Reconciliation (procedure),798.04,,
+3/3/11,2b89462b-7059-4b36-ac52-2b343813872d,9273e35c-dd75-438c-aa67-a6ff22ee0456,430193006,Medication Reconciliation (procedure),823.41,,
+3/19/10,8e9f637d-e5fb-4b57-9c46-8e1ef1de1dbf,a2164c17-8a35-48df-895c-3819a0616873,171231001,Asthma screening,516.65,233678006,Childhood asthma
+1/8/04,c612292e-b30f-401c-8b2f-3c78705103b3,c634ecc2-e314-4dd1-a605-188bd207946f,430193006,Medication Reconciliation (procedure),614.16,,
+1/12/11,f8a08399-365a-4fa8-913d-0945b2c58dfb,f74f0889-71b1-4559-95a2-66ef0d4e7db8,430193006,Medication Reconciliation (procedure),576.43,,
+8/17/10,f1f525fc-f99a-4d1a-9f89-27a8cd80a94a,66f819f1-8f5e-4b93-ad41-bdbfc9937566,430193006,Medication Reconciliation (procedure),483.97,,
+10/7/09,751ba62c-cc9e-479b-b5d6-aace0f60f92d,d2f79c04-793f-490c-b4e5-c0934a417559,228557008,Cognitive and behavioral therapy,11807.99,192127007,Child attention deficit disorder
+7/3/89,b9efa2b1-b949-4f24-8598-d0a0218b5e18,6d8e77b7-de3d-49c2-9723-adf4f217530f,180325003,Electrical cardioversion,38991.73,49436004,Atrial Fibrillation
+10/25/54,9d888165-0c0d-48e9-a390-48ef1db97fcc,a38aef91-5327-4802-9369-34bf1483a09e,127783003,Spirometry (procedure),7667.46,87433001,Pulmonary emphysema (disorder)
+1/4/10,398877b6-38c1-41c1-ac02-5a889b1b217b,a6f27aee-547b-4bd7-8ff5-d381c080375e,269911007,Sputum examination (procedure),7210.66,10509002,Acute bronchitis (disorder)
+2/5/10,7a673feb-b029-418e-97a3-c9fae3c5b3db,f368cd87-e21d-4a27-a6bf-e7a48ade9b6c,73761001,Colonoscopy,12604.43,,
+3/20/10,9f159494-75d7-4c81-9cf5-0ccedf63653c,5662da8e-1e0d-48be-b1ab-a2a364892054,117015009,Throat culture (procedure),3081.01,195662009,Acute viral pharyngitis (disorder)
+6/13/11,4c00db79-84b6-4915-aaf7-b4fbdc164858,d5171ef6-1db5-4d80-b03a-a32249240b9b,430193006,Medication Reconciliation (procedure),654.64,,
+10/4/09,e8c8a079-22b1-4da4-b740-c29c89c0a235,5e36788f-192d-47b8-9a02-cdc14b819cc1,76601001,Intramuscular injection,3085.22,,
+9/30/16,4e6b6db6-53dd-4908-afdc-d1ef6f923f50,2d0bfca2-ff61-4322-b94b-db4d82635d8b,430193006,Medication Reconciliation (procedure),328.59,,
+3/1/10,8c631443-8b36-4660-ac2c-6d2862ea6d82,bc0c75e5-a9ce-4174-ac00-779cba98a159,430193006,Medication Reconciliation (procedure),569.6,,
+12/5/09,c335e2b9-8f41-4063-b563-064fd2f9c40d,eb2acdf4-a9e6-410d-91d1-e47a48d6e91c,65200003,Insertion of intrauterine contraceptive device,5255.43,,
+8/5/72,e1288217-b7d3-4e8a-a953-863b5cd584c6,26c8fc2b-f75a-495b-a762-750914d2367e,73761001,Colonoscopy,6786.62,,
+5/1/10,b8707729-bc9e-4f9e-8999-a64161fdd233,27edc389-d694-457d-a940-6402246bc333,117015009,Throat culture (procedure),1341.02,195662009,Acute viral pharyngitis (disorder)
+3/13/13,b7339c1a-4629-4797-81ab-3750720a690f,9639fe6c-f674-438c-a5e1-c304d7ecf6e2,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/29/09,18674d3c-26bd-46a8-b112-a3870e24392b,fbeab9bd-be57-48f2-97b3-42daa82cfee5,65200003,Insertion of intrauterine contraceptive device,13827.23,,
+10/7/09,ec1469c4-6cf8-49c8-a675-233f8770728f,4544d63f-137f-473f-909c-f4c04b25723a,14768001,Peripheral blood smear interpretation,516.65,,
+4/1/82,ddd3b584-f0e6-4e6f-9700-0502ea9261c5,1f6a7b03-bd1e-43b5-8d40-7d4caf6b638d,430193006,Medication Reconciliation (procedure),552.11,,
+7/18/11,dc35d893-b045-447a-b4be-ae77b0f7de22,22a7ef31-4b03-48a4-ac94-69e53ff128c5,430193006,Medication Reconciliation (procedure),447.86,,
+10/13/17,652b02fa-346f-473e-97b0-9124fde647dc,5043b079-ae3e-4783-aad3-13f447c57a0a,430193006,Medication Reconciliation (procedure),672.39,,
+6/11/71,62db6144-c0a8-46cc-ad05-99aa5249e0d9,448836dd-5c2d-4163-ba49-f35a9548795e,269911007,Sputum examination (procedure),5715.46,10509002,Acute bronchitis (disorder)
+10/6/09,2f8c3126-a704-45bb-af38-74a7b272ab5d,a3717c12-defa-4e2c-9e3f-01e8d6464ef5,118001005,Streptococcus pneumoniae group B antigen test,3547.57,72892002,Normal pregnancy
+4/19/76,24b1778f-54bf-4d39-b6b7-6cc780bd3f24,cb8ab4c6-f22b-428a-b647-1bdd2a905aed,312681000,Bone density scan (procedure),13326.23,,
+9/22/09,1b0fa3ec-629f-480c-85c4-61c9ec57796c,a0f9efb0-271d-49ab-bc65-ef22e0fe4dfa,367336001,Chemotherapy (procedure),516.65,,
+2/21/16,53b2b186-47c3-4aac-9356-06e3e0bd44f8,3381732c-59d3-467c-9559-7664234f6aa8,430193006,Medication Reconciliation (procedure),754.74,,
+6/14/17,46e4b560-1f4d-48a2-bf80-e4a0f53b26c4,dcb7c080-79dd-4c99-b394-7df08114759f,14768001,Peripheral blood smear interpretation,516.65,,
+2/7/13,a7a2abab-d173-408b-9b94-619598735c85,c2e2f29a-a0be-4b5f-8945-014339666678,7.56E+14,Replacement of subcutaneous contraceptive,8889.78,,
+9/16/74,59b7929e-1676-400d-a9d8-8dbb26c7c554,d3f86de7-f9b7-45a6-8edf-b9d95e540a96,127783003,Spirometry (procedure),11289.41,87433001,Pulmonary emphysema (disorder)
+12/26/01,5e840ba5-a0dc-4b3d-b0e4-41b4bbcdec02,ba814f7d-4376-4df1-9f59-00a6af742542,268425006,Pelvis X-ray,516.65,,
+10/28/04,2d297e07-d5fa-4ee7-9284-40f8e169e2ac,41af7adf-573a-4530-b61a-0433b1340cf1,430193006,Medication Reconciliation (procedure),524.38,,
+11/4/09,f49e08bc-8983-4835-b87f-26adc9ab0e24,78120a71-7c77-41c1-8b4a-e227202f8b99,76601001,Intramuscular injection,1513.61,,
+4/22/10,3bf1dbdb-6332-4bf3-949f-77c9c2c5b9f8,b12a8f5e-9399-4f05-b793-e83cee734b51,430193006,Medication Reconciliation (procedure),835.79,,
+8/20/12,50e27582-fa44-4bee-a4f6-d3174738da07,96662cfe-c877-4844-8cc0-8281f5c8bed8,269911007,Sputum examination (procedure),4816.32,10509002,Acute bronchitis (disorder)
+8/30/99,bbcb90a7-6fdf-44b8-90d9-07e436ff7330,655e9c24-500b-43c7-b4cc-f9b002401d6e,127783003,Spirometry (procedure),8526.39,185086009,Chronic obstructive bronchitis (disorder)
+4/17/10,c34a43e6-13b4-4092-97af-dea78efb5efa,d21db49d-e4be-41e7-9da4-722c058c3969,430193006,Medication Reconciliation (procedure),964.08,,
+8/2/87,ef29d12a-a4a6-4b49-b100-66efa3a01987,970d3939-ad50-46ca-b2e6-1ee02c7d026e,73761001,Colonoscopy,17996.32,,
+8/4/11,959b902e-1857-4ca5-bd69-e0ccc9880214,34cbba82-3557-4ecd-b5d5-cf2f1a165d84,430193006,Medication Reconciliation (procedure),512.13,,
+4/17/12,a3c9a579-1a73-42b1-8dd5-98ba2b806f50,c62a2977-132b-4ad4-bc45-3ceca66bd70b,430193006,Medication Reconciliation (procedure),598.13,,
+7/29/10,111aefd4-2a1c-4633-85ab-cba42030a687,4b94d747-721c-49e0-b69a-2ad049600fd6,430193006,Medication Reconciliation (procedure),708.63,,
+7/11/11,ad380bce-af02-44fe-8b6e-c2a0e9531a75,cdc4b64a-cdb5-4ae3-a7dd-e8c8e3d75196,430193006,Medication Reconciliation (procedure),894.69,,
+11/4/09,f9a0dcc8-535b-4d22-9532-9c6c21b663e2,19a315e5-f412-4476-aadc-56f84356b24a,430193006,Medication Reconciliation (procedure),639.29,,
+7/24/11,9890ee62-efe6-420d-8ceb-7f54a95ef644,0225e94a-6040-470e-9dd4-cbb0f667ec76,430193006,Medication Reconciliation (procedure),422.92,,
+6/23/10,caa79c76-699f-4847-a913-3b7d79ddca4d,7c1419fd-fc82-45f9-8ba8-5d55610c5358,430193006,Medication Reconciliation (procedure),742.36,,
+11/23/10,e308a316-c386-41ac-924e-74f933e4c908,36940cd7-afb7-4cd9-b857-a0eefdcaaa81,430193006,Medication Reconciliation (procedure),669.48,,
+2/2/10,5862bab6-1216-4971-bad9-51deb15adebb,2f312829-568f-4fd3-bf01-40b5f6f7032e,430193006,Medication Reconciliation (procedure),529.47,,
+11/7/83,278091a2-c98a-4324-bbc8-9d032aeddaa4,a198c6b0-fce9-4d57-999a-72da9dc1c7e0,430193006,Medication Reconciliation (procedure),966.93,,
+2/6/11,2a6ef24b-8454-4b67-afda-1e973ecb42c0,caa332ff-944e-4304-857c-d22147d0d40f,60027007,X-ray or wrist,516.65,,
+9/10/01,400e3e4e-4e04-4d6c-b153-0bc2ead58ed6,805a14f5-a94d-461c-a0e7-f1e2fe950463,180325003,Electrical cardioversion,28498.22,49436004,Atrial Fibrillation
+1/13/10,906c6639-1b9c-46ee-87ce-f668d42519e2,6b6ab14e-f6ae-41b4-b161-c8bef3d0d6d7,127783003,Spirometry (procedure),6638.47,87433001,Pulmonary emphysema (disorder)
+11/22/09,83a9a02b-5013-4b66-be6f-6515eed1505f,6d68dcbc-285d-4f9e-9018-31bdc49beca5,430193006,Medication Reconciliation (procedure),750,,
+9/1/10,eeaa9326-814f-45a1-80e0-01fba747321a,2ee28670-1824-49f1-8333-36cfc96bdbcc,430193006,Medication Reconciliation (procedure),801.99,,
+12/22/03,2d2b854c-a0d7-4a71-89c8-584a308e978c,70c38199-4ace-434e-8f1b-ac57487b12f7,430193006,Medication Reconciliation (procedure),577.69,,
+10/17/67,d1dfa113-6f09-4b29-be6f-753b44e54e7d,f95fcd61-0256-49c8-a1ef-e8438355c4bf,73761001,Colonoscopy,17014.49,,
+4/28/10,f29c6b62-6d1a-4dae-b2c1-e5aef842da52,518f9f6d-12de-4112-aef8-8412b84505f2,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+6/7/16,2289abbd-97eb-45b2-9ad8-6a9d85a6f8ee,cd52a40e-c974-47c0-b2b7-dce1b1b4ebed,430193006,Medication Reconciliation (procedure),375.01,,
+7/6/13,f32723e3-a3a4-4eed-84a4-7697e64e3ec8,4f7dac1e-167c-4782-8aaf-76780bd7986d,430193006,Medication Reconciliation (procedure),707.57,,
+4/8/74,2963d173-8c67-41aa-8488-f6be0ec47ab3,6aa8c93f-db72-404a-a147-814c0b8c5e00,180325003,Electrical cardioversion,36251.38,49436004,Atrial Fibrillation
+12/16/03,611e75ee-bca5-4cb4-9ccd-10f4b98e7732,9422c616-c694-4304-a71b-f0f3395e1e25,430193006,Medication Reconciliation (procedure),368.2,,
+1/18/79,f01edad6-8269-4e4c-845b-838fe7dd458b,41d63581-8c5b-4c13-9bcb-b4578c9547dc,180325003,Electrical cardioversion,40807.88,49436004,Atrial Fibrillation
+3/2/10,ed31f1e7-726b-4913-b565-2cc094779d09,4187d08f-c0cf-481f-a995-50660fb82025,269911007,Sputum examination (procedure),7266.6,10509002,Acute bronchitis (disorder)
+7/25/11,8ddf409c-ca4b-476d-9129-7cf12f6a1445,dc08f49c-6918-4f88-8c86-6e45be7a918b,430193006,Medication Reconciliation (procedure),489.75,,
+12/25/12,e95126b1-3935-4bfd-9353-b067f8dd362c,fe6e12ce-8ae8-4960-8ffe-73cf5d579557,430193006,Medication Reconciliation (procedure),742.05,,
+1/25/10,36a3f725-2f68-479f-acb1-fce4bc7ef21d,445c2cc9-44ef-43f8-b799-1f846111904a,127783003,Spirometry (procedure),9628.02,185086009,Chronic obstructive bronchitis (disorder)
+6/15/65,0a8a317d-8b27-4bc9-9504-363194a23fec,d9f9a59d-b552-43de-b137-da37053a8dff,430193006,Medication Reconciliation (procedure),407.84,,
+6/2/13,053166f7-3836-42ca-b353-ee53b4687ace,7f28fdb4-469c-43dc-a8e9-56ec77c11300,430193006,Medication Reconciliation (procedure),640.76,,
+10/20/12,7f2f8d21-65ff-4655-a913-2ca6245a7d8e,14917e07-cf0a-4c9b-a98b-8145afdcb64a,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/11/11,dec26421-27ef-4db5-a699-5abbe04b130c,32ec9f6c-b47e-4691-b8a9-89bc321e1b7c,46706006,Replacement of contraceptive intrauterine device,9662.11,,
+7/11/72,5a83f7e4-428c-4e4e-9942-6cee6f8caf29,78e37713-1498-4a05-9ad9-b417ce5d77ba,430193006,Medication Reconciliation (procedure),541.33,,
+10/12/18,25850adc-37ca-4328-b856-3827fd5df016,e27ca69f-f587-4b8e-b177-7685bda385bc,430193006,Medication Reconciliation (procedure),528.04,,
+10/12/09,6f75250d-5a9b-4465-b04d-b15a86f8218e,6630d0f3-7a83-4133-a06f-9a77aa724c97,395142003,Allergy screening test,516.65,,
+2/22/10,c71e1837-f1fb-4ac4-a05b-216cccfb0a9d,8c65a1f8-de76-4395-992d-53e6c8b28d15,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+2/27/86,de459406-04ed-481f-8a0d-69c7f5bc6257,c96d49b3-495b-4f11-9997-010d9f241663,430193006,Medication Reconciliation (procedure),558.2,,
+10/11/09,732f8085-2564-448b-8a1b-55330f1d88b7,2e7b1bfe-3111-4b0a-a1b3-3a5846ede0f2,180256009,Subcutaneous immunotherapy,14700.06,,
+12/12/09,b8c05784-7a75-4cc4-bd4c-f4947171c4f7,c3a2e200-c22f-4601-b7ea-2f626b9679ce,430193006,Medication Reconciliation (procedure),649.58,,
+12/30/10,0371d117-a8e8-4500-b658-f0b11005a0dd,f47d4a00-6938-4390-ad6f-65285a524434,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+7/16/10,148ad83c-4dbc-4cb6-9334-44e6886f1e42,6317b10c-31c2-4872-b326-cd99f0055b3f,430193006,Medication Reconciliation (procedure),562.66,,
+4/1/15,2251c918-e2b2-4dbd-918e-895a323fcf37,ae076241-280c-4c6e-b009-069ba9ed7f4a,430193006,Medication Reconciliation (procedure),696.47,,
+5/7/10,94325442-aa88-4628-8a67-a979e41f2521,482edc7e-7ff3-4403-be0f-675a2f2012af,73761001,Colonoscopy,8719.94,,
+10/18/02,d7466dac-6419-45f8-a609-6af519c76583,7a68c9f5-b4c1-49be-939e-e6202a619449,168594001,Clavicle X-ray,516.65,,
+10/25/09,03c711f9-81ae-4cdc-9dc4-929aeac069dc,fee064fa-4f60-422a-a708-ba8074067ef6,183450002,Admission to burn unit,516.65,403192003,Third degree burn
+11/28/09,985e6282-21ec-4eb6-bcae-9a1793998313,2bf8f27a-0770-44d8-bdd5-de28cafea123,76601001,Intramuscular injection,2150.68,,
+11/27/09,f50bc253-e783-4e2b-9921-723ca3877767,4143d0fb-6189-4f76-8756-dae7fb1604a1,430193006,Medication Reconciliation (procedure),652.64,,
+1/27/10,5cfa125a-b39c-442e-bd04-06f35b946f77,127d5119-26b1-4946-9406-2ea6b7c27216,430193006,Medication Reconciliation (procedure),516,,
+2/1/90,8c0556d3-54a5-4367-bccc-3831aa73abce,3b6e965d-3fba-4bea-8d4c-1d4ab87d170b,40701008,Echocardiography (procedure),837.61,230690007,Stroke
+11/5/09,1ec42a87-7b4f-4c6a-ac72-ed7188ea2d63,3c8df4cc-d2c2-46de-8fa9-60dff25bae7f,117015009,Throat culture (procedure),1356.71,195662009,Acute viral pharyngitis (disorder)
+7/23/10,69570f5e-ff4a-4ee6-818e-46cc37e2065c,0d6fd3a7-fec1-42a5-bf5a-7f0af13267ba,430193006,Medication Reconciliation (procedure),736.83,,
+2/6/10,b791e63b-1a0b-458b-9be7-caddf7132870,14253f25-6d96-461f-889c-611e819500da,65200003,Insertion of intrauterine contraceptive device,13909.83,,
+8/8/10,35ecae17-e218-4b7d-ac0b-2d39ea2853cd,42f590e8-6ec7-48b1-ab35-427ef353002b,430193006,Medication Reconciliation (procedure),561.7,,
+5/17/12,13f9c3ae-3506-40b8-b087-f30f39388d5c,c96ec7a7-d545-44db-8a17-4526a1753fce,430193006,Medication Reconciliation (procedure),618.57,,
+9/28/15,fdbe9ed1-65ec-469a-b4b1-c32a251fb784,ce0cb55f-9c34-4077-b756-fe06f2542a5e,430193006,Medication Reconciliation (procedure),583.83,,
+7/18/11,ba1bf190-f420-4cef-8c66-951e55b38a51,04157639-bde0-43c8-8241-a1fba64aade7,73761001,Colonoscopy,6998.66,,
+5/16/10,9a0c1a04-dceb-41af-b406-70b07e7faa28,0a2e6f58-7eb9-462d-aeff-589a5e77d79c,430193006,Medication Reconciliation (procedure),576.53,,
+2/11/10,b4e98c87-55bd-4302-90ed-2f2ae7057de3,52facf6b-4b76-4c8c-8d4d-49f8173de86b,430193006,Medication Reconciliation (procedure),725.07,,
+12/12/10,f7ae840f-b26b-4e66-994a-442452f239f5,57b2e61f-dd15-49c4-9cd8-5f5a7c1ec9a3,1225002,Upper arm X-ray,516.65,,
+12/2/09,369b9c8d-aab5-4d69-bdbc-fbf4a052a8a0,d971dace-2219-41ed-bd89-6ba2134cc8c4,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+11/29/17,b3d2af63-05f7-4194-910a-ce7fc4506d0d,b36610fc-35c3-42a5-95d9-30749a4c175d,430193006,Medication Reconciliation (procedure),617.03,,
+9/3/12,f9d90ffd-80e4-436f-a654-cfa0f11b032b,3c5ec34c-48d8-432f-8c29-910b52d1535c,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+2/12/12,879c29be-78f6-426a-ab1e-4a572f61a5cd,bc14f285-8f67-43dc-8989-197745f4c474,430193006,Medication Reconciliation (procedure),416.68,,
+10/27/04,a5694574-db08-428e-a140-c6e3124d43ad,6785e77d-91a2-4b3d-8341-86a58040a854,434158009,Transthoracic three dimensional ultrasonography of heart (procedure),1307.76,,
+1/31/10,eeab66c3-8cf2-4f92-87c8-52352784b63b,2af73eab-5e20-4de0-86b1-79bf6fbb046d,430193006,Medication Reconciliation (procedure),632.03,,
+4/9/83,4b3ee775-feca-4dc9-b6c3-09370cbbd926,99c9fd5b-19af-4c82-98b6-452e7e151536,127783003,Spirometry (procedure),14011.91,87433001,Pulmonary emphysema (disorder)
+4/6/10,90e8509f-7df2-4cfa-abb8-803962fb4975,9d4c9910-2422-433c-b25b-54be7aaa6b79,430193006,Medication Reconciliation (procedure),379.43,,
+6/22/11,54ec3605-08d6-4094-8800-e98e7321da6c,b7786ed1-1591-494f-ba78-ef1ca49edcc5,430193006,Medication Reconciliation (procedure),424.31,,
+4/19/10,23707b13-fc61-4988-9664-0e6e36ca86fc,59368ed2-38b5-4f6f-a9ed-c9a49a9f2158,395142003,Allergy screening test,516.65,,
+1/9/10,37d89689-be8e-425b-86d0-39afe88cd977,63f1caf7-ca70-462b-8024-4e3eb1fdb529,65200003,Insertion of intrauterine contraceptive device,16871.06,,
+5/24/97,7eca4b96-3643-48cf-9977-ca90d34fff73,fe007d93-3587-4333-b497-97ddd35a4b3c,430193006,Medication Reconciliation (procedure),415.51,,
+12/17/09,78b8a2b2-a1ce-45c1-8ce7-8c37c30f959f,85aa974c-1afa-4260-a52f-951d0b8893f6,76601001,Intramuscular injection,3028.21,,
+8/19/10,42bcbe49-ea11-498f-87e4-64f81d969f55,8ccf76ef-3948-47ed-848c-0fe06c714449,430193006,Medication Reconciliation (procedure),821.8,,
+5/30/02,f5b5e542-7999-45ed-bd61-3e21856ab21c,a5396697-c79a-41d8-9dd7-26cc13354ea3,430193006,Medication Reconciliation (procedure),865.32,,
+9/23/09,bd58d43b-a597-409c-82b1-89db75ca275a,331b036c-71df-43eb-bc32-ff4758fa0430,399208008,Plain chest X-ray (procedure),8812.6,10509002,Acute bronchitis (disorder)
+5/15/10,8d4e1c9b-69af-4d72-898f-72054e6469ac,48f2939e-0010-4609-b766-f78a6c3d7658,252160004,Standard pregnancy test,6502.2,72892002,Normal pregnancy
+12/6/11,7d922742-7df0-4660-80f1-8488c121c68f,3eafd931-7519-4333-9203-07f7c085e388,14768001,Peripheral blood smear interpretation,516.65,,
+8/26/93,68d14f83-fc5a-41ec-89af-cd264443f28b,d0bf32e2-8ea3-4058-b33b-b4af68f1536c,112790001,Nasal sinus endoscopy (procedure),7153.42,,
+7/23/10,7ae48d41-9afb-46c3-b0db-8419a211a04a,f7536bc1-de46-4bbd-80aa-101b922f97cc,430193006,Medication Reconciliation (procedure),608.05,,
+10/6/10,f4b034c1-9e82-4e3a-8eda-96d1b938692f,e4cc7130-fe0d-4c4d-a9dd-c1a9672871d4,73761001,Colonoscopy,14482.71,,
+6/17/11,4c4d682d-d436-4bd3-a618-d1fd388b583d,55e0cf55-97b6-479f-9bca-b73860684107,430193006,Medication Reconciliation (procedure),954.63,,
+8/7/10,e213923b-f41e-41be-921a-8193e4ec6a2a,65d27023-76e2-4caf-b927-0be29c114b42,127783003,Spirometry (procedure),8365.58,185086009,Chronic obstructive bronchitis (disorder)
+9/25/09,f578285c-7916-475f-8f5a-50b2539c4625,f65592d7-7d9b-44e7-8b6f-1e7d08d4d673,228557008,Cognitive and behavioral therapy,14637.93,192127007,Child attention deficit disorder
+3/21/10,5c957bbb-3035-4b18-b422-9e583c518c30,1f849eea-4758-4d88-b530-92c4418d0b50,430193006,Medication Reconciliation (procedure),289.37,,
+9/1/11,c7699f90-abed-4b2c-b7c0-3f2afd9ce9d1,41039150-9324-4dea-9bf6-e5e54d6d40d5,430193006,Medication Reconciliation (procedure),831.36,,
+5/7/12,2c075c6e-79c7-4a37-b97c-4c2cd4357542,12a7f380-f795-4bd7-a996-15d5cec11596,252160004,Standard pregnancy test,5239.02,72892002,Normal pregnancy
+10/4/10,75d3758c-f568-448f-bb24-9699dc5732e1,b63506af-1474-4405-8a36-70b2a02e08ad,430193006,Medication Reconciliation (procedure),853.99,,
+12/9/09,3e517fb8-b4da-44f1-a00f-18bd7ae2b78e,cd6dbb96-1d42-4506-b1ec-d7abfcf9756e,430193006,Medication Reconciliation (procedure),472.63,,
+8/13/14,c384498d-7bdd-43f2-9025-497ae18b4a74,8c205de0-da1c-43d5-93d5-d1244d2ac192,430193006,Medication Reconciliation (procedure),912.86,,
+8/4/06,d785bfcb-1835-42b0-9fde-18bbeba7a769,29ee5333-1e92-4802-b273-4efcc0ead075,127783003,Spirometry (procedure),6625.46,185086009,Chronic obstructive bronchitis (disorder)
+3/20/16,20326cf5-b97b-44f7-8f73-801cc02cb21a,8fa6089b-21b8-4fba-a988-5b013e3d84d7,430193006,Medication Reconciliation (procedure),743.64,,
+9/23/09,b2a052fd-dd6d-4b08-a17f-ace749ad4cbe,5d9584a4-5a68-4f50-bc9c-c7897576096a,430193006,Medication Reconciliation (procedure),500.07,,
+5/8/98,cc3c3ef8-cd7c-4feb-939b-b61f6ddea5cc,c315b2dc-a84b-4352-b81e-ccb22260d990,127783003,Spirometry (procedure),13840.38,87433001,Pulmonary emphysema (disorder)
+5/22/10,d6988cb4-49a3-44cd-a5f5-58e3f16b772e,cdacc937-39a2-4e00-954e-9a5528241d1d,269911007,Sputum examination (procedure),9045.19,10509002,Acute bronchitis (disorder)
+4/18/12,336b0164-d456-482d-8dbd-42dc833b63f7,2ea93f93-79bd-4d0f-97c9-437444e34551,430193006,Medication Reconciliation (procedure),505.05,,
+9/24/76,b6db8b3b-db2d-499c-be9d-be5ea89bf0a3,ab9c0bb3-ae94-4216-84c2-5d2f497e92e9,430193006,Medication Reconciliation (procedure),876,,
+6/1/12,b97385e2-fa70-40a3-9881-6e24f4fd4af2,90301360-e7d7-41cb-8d0e-381cc841db1d,430193006,Medication Reconciliation (procedure),446.58,,
+10/17/09,3815b8af-23b0-45b7-ba24-235307622f15,1d998979-d04e-45c3-8cb1-32a3f8e5eea7,76601001,Intramuscular injection,2913.4,,
+2/8/96,96cc8e58-03a7-45b1-8407-3c85208bf254,9f3a4072-d840-4669-abd7-6448812a51c4,73761001,Colonoscopy,11002.68,,
+10/15/09,2c700c16-a928-4480-951a-460823492013,1debf20c-33f4-4a79-bf88-3e45bac496a2,430193006,Medication Reconciliation (procedure),882.84,,
+12/2/10,9d75de87-f4c1-422b-9836-558729c3051b,cd40f25c-51ea-474b-88de-46297b7e51eb,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+3/31/11,6407c917-0b91-4fea-8a56-fc846fd48dc4,f87562d2-9731-4c14-97f5-2c795769977e,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+8/6/11,718773b5-6806-454c-a1de-e3d8e8b4cd20,b034dbda-4d91-4272-92de-c6fe90cc64ad,430193006,Medication Reconciliation (procedure),656.36,,
+9/9/12,79fa16c2-3fa4-4b3a-9a54-ea5bf9847014,ae1d55fc-2c21-41d2-9fa8-bef1ce42f769,430193006,Medication Reconciliation (procedure),784.68,,
+1/17/10,db6c2564-31f6-4823-9847-5368bb7b3c4b,98a6118e-8b2f-4d9e-965a-d7d79c79cdd7,430193006,Medication Reconciliation (procedure),636.56,,
+10/15/11,6c05045e-c5aa-473e-a64a-7c7a1d103fa3,4d42e74d-9867-46fb-b7b5-e4ca25337293,430193006,Medication Reconciliation (procedure),756.01,,
+4/29/10,1a8c52b1-faa4-4f0d-8d73-b624da8931a6,7bd8ff99-3432-4f6e-bbd9-bd15f5d63ae8,430193006,Medication Reconciliation (procedure),483.32,,
+12/14/10,e7e29a7d-083d-4ee3-9e8b-62f07fb0b99d,2bae4630-1278-4182-b35d-1d3dfd3b8734,311791003,Information gathering (procedure),516.65,,
+8/21/10,5129a211-0582-4d90-a86f-a0eb21857d98,14089658-a93e-4f76-a327-a1344e6cdfe9,14768001,Peripheral blood smear interpretation,516.65,,
+5/16/10,b539d641-64ad-4e5c-82c5-eea0bddacf45,6434ffdb-1130-4bbf-9467-1e1bb3c10a90,430193006,Medication Reconciliation (procedure),610.13,,
+8/11/18,99285aac-e5e3-4f5b-857d-f67271c97304,4312caf0-8bc7-4dc8-8e2b-d0a8419092e2,430193006,Medication Reconciliation (procedure),650.16,,
+12/28/14,3e4bd94d-594c-44ba-b79e-324eafa7488d,4006d39d-df05-4437-aa49-b12fad3f38f2,430193006,Medication Reconciliation (procedure),584.01,,
+2/6/10,7b799848-1c78-4d1a-aaad-2898403e252d,65a3b5d6-1296-4f33-a04a-8b15548e0ecd,430193006,Medication Reconciliation (procedure),852.13,,
+8/27/10,06f02efb-cd54-4ed1-aa66-1a3a8781d9af,f8823170-a295-46f6-b702-87a15a3556a8,430193006,Medication Reconciliation (procedure),808.15,,
+2/5/17,fd7d8654-0d84-4dfe-a10d-13db31bea61e,f6b3adae-dfb5-4622-b14c-2143f5087e1e,430193006,Medication Reconciliation (procedure),584.71,,
+1/10/12,1cb69366-0292-4e60-9f5f-2a9185a21020,0d45412f-000c-4f92-aa5b-af577baf6728,171231001,Asthma screening,516.65,233678006,Childhood asthma
+10/26/12,b2698130-ffd7-4416-9e32-4761349b826e,c9abfdc9-1e15-4027-b099-d2268f35adf4,430193006,Medication Reconciliation (procedure),470.05,,
+7/30/12,29707cd0-3ff2-4656-9c8b-fe298fe98a24,8e249f7d-3d0c-4465-b391-28ed19302ee2,430193006,Medication Reconciliation (procedure),442.27,,
+6/16/10,2ce7d774-4eee-4ae2-9f2a-59787602e693,bdbf15cb-b7c4-499d-bbba-e9ec9db114e5,169553002,Insertion of subcutaneous contraceptive,12908.22,,
+3/6/10,429ddae5-0ff8-41fc-ad45-cc7070b337aa,0368c50b-8c5f-4034-a9f2-c70832362f04,269911007,Sputum examination (procedure),6408.48,10509002,Acute bronchitis (disorder)
+3/7/19,a2abad97-9251-49cd-b304-fabf5e20678f,c773a868-bd1f-4752-bccc-84a646ca985e,430193006,Medication Reconciliation (procedure),807.37,,
+10/8/09,9e36e8d9-b864-453f-a2ef-6eac2df7f080,9cc9786e-46e5-4eea-9f90-7ef00288f9da,117015009,Throat culture (procedure),1622.22,195662009,Acute viral pharyngitis (disorder)
+9/22/10,62b86346-a08c-49d5-a1fa-6ba186d449d5,7aca5066-ebc1-4dd8-9419-1437e3171c86,430193006,Medication Reconciliation (procedure),437.29,,
+1/15/19,eea44146-8af5-4acc-b544-349556fa5135,1ef87428-3b63-4593-9263-83a76af23e7a,430193006,Medication Reconciliation (procedure),902.85,,
+12/29/12,cad37b28-60ae-48de-a7d4-73e9d4764630,c2637e2a-8a81-4112-aca4-121ebe80e469,430193006,Medication Reconciliation (procedure),447.16,,
+8/31/10,4394c939-2ce1-45b3-8fc8-33ec0f55931b,b64cea39-52ad-4924-a78e-3bafafdafd89,65200003,Insertion of intrauterine contraceptive device,14059.52,,
+12/14/09,b08adeb9-ac30-41f8-88db-b9ade263f788,a6f32884-3a37-415e-a6e3-f062c6a506bb,76601001,Intramuscular injection,3779.72,,
+12/3/16,1824429b-a0b1-402a-82bc-aadff890cb85,bfc84623-068c-4577-bd86-8ac58f43682b,430193006,Medication Reconciliation (procedure),506.35,,
+6/25/10,e071a776-7347-435a-9b22-210c59f77895,8dfc0d11-b360-469d-af50-315041b306b3,430193006,Medication Reconciliation (procedure),519.38,,
+12/16/09,f5b11f91-d83c-447b-9a13-3151a8da0248,382a8967-27ca-411f-8a14-b409de66e9d8,430193006,Medication Reconciliation (procedure),798.5,,
+6/16/14,9715d3c6-69a8-4fad-bac8-a80cb37dc9f8,76c2c097-c44a-4479-9edf-4e3ef6110493,430193006,Medication Reconciliation (procedure),741.17,,
+3/5/19,e396cfc7-afd4-4a9e-a602-449d03a54926,2588f587-629d-406f-8f9b-71a1b8896c9f,430193006,Medication Reconciliation (procedure),438,,
+4/4/11,3d88b877-badc-4c1d-b74a-eb2082d6070e,05ad5e2f-49b0-47f5-b80a-3187f951be0d,430193006,Medication Reconciliation (procedure),766.17,,
+12/12/11,b43a32c6-2ac4-4d13-86e0-97469e678c1a,e952259c-2a85-457c-938c-9d97b7fb9197,430193006,Medication Reconciliation (procedure),312,,
+11/11/09,ff76c6f0-d0da-438d-bce4-0c4e88fbc752,64203503-5457-4cc8-bcb3-613127ac9c48,430193006,Medication Reconciliation (procedure),655.49,,
+2/7/10,71d099b3-3e07-4da7-bcc3-4331607fe0a7,faf5f152-432d-485d-8028-a9640ef8fff5,73761001,Colonoscopy,19765.68,,
+10/20/09,e84d3190-7a96-4be8-a921-76aeb15ea4de,8b6dbb3d-b418-4a7b-a4f1-51904a39b429,430193006,Medication Reconciliation (procedure),374.26,,
+12/20/12,4791a317-5c89-4dee-91ca-4ce20ba0b8da,688b67aa-9cad-4fef-bae1-ba28adfabd97,430193006,Medication Reconciliation (procedure),777.91,,
+4/16/12,5814e6f8-8192-434a-b738-f240fca42556,b53525cd-b8f1-4a2a-9d88-00b1d3e3006b,117015009,Throat culture (procedure),2480.43,195662009,Acute viral pharyngitis (disorder)
+4/10/10,6941e901-70f8-4b4d-b2d7-e716be3e1241,a49cd595-bd6a-4668-a48c-99d49c427954,430193006,Medication Reconciliation (procedure),725.01,,
+3/15/13,ce59a161-b6e4-4991-b9ad-8b0a090a7863,9529f38a-9668-45ce-924b-d0ff8ecc255f,73761001,Colonoscopy,16079.54,,
+2/9/12,9d023a94-6c73-49de-be6e-a20c9a03f50d,cbc6015d-85b2-49e5-b5e2-c74fc5c70e57,430193006,Medication Reconciliation (procedure),493.91,,
+4/22/17,85efdaee-4039-4028-85d6-d88af3b14ad4,357a4472-1c1d-4faf-8266-b6550d4f301f,430193006,Medication Reconciliation (procedure),853.9,,
+6/7/17,2629a2fc-1ee2-48fa-abd4-522b83092a61,5338dd77-8ffe-405f-b436-d63e282b77df,117015009,Throat culture (procedure),2769.89,195662009,Acute viral pharyngitis (disorder)
+9/15/10,b5c11bc3-f8e3-42f7-8ac3-eacef63851d1,dd565740-7f2d-423c-99f9-f2b9b62daef6,430193006,Medication Reconciliation (procedure),409.6,,
+9/23/89,84c0cd4b-3f7d-4e9f-8f5b-adab7143c880,5443b08a-129d-4142-b287-b91fc7cc2b48,268425006,Pelvis X-ray,516.65,,
+5/25/16,35f765e9-001c-418d-9b45-0e5fe1fc0830,05352302-4595-4c4f-a637-2e9bf969e137,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+5/10/10,85c33295-33a5-44cc-864a-8eb29bd6f261,3bae9919-5406-47fd-84e5-a4c873903692,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+1/16/12,323bafac-6826-4b2e-8e45-68289480f7c2,400c7792-e36e-4bbf-8c18-7dcb4dd98765,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+4/21/11,9d0bbcce-df6c-4edd-87cd-322518b4fd6c,15e3658e-d3b8-4c5f-bcc4-95dd6df124c0,430193006,Medication Reconciliation (procedure),454.45,,
+4/20/12,580debf7-6029-4373-887e-d7f88061bdcd,ea88d2b7-b0ad-4d0f-a85b-52847ef5a68c,127783003,Spirometry (procedure),11588.85,185086009,Chronic obstructive bronchitis (disorder)
+11/16/11,43e9fc11-e69e-4c1b-9618-73321dc8af92,c35b1546-24bc-4772-a896-e10f80ad87f3,430193006,Medication Reconciliation (procedure),798.63,,
+7/31/14,6b116ebf-3402-468b-a41b-2fb7ef3e0043,b781478b-8ea8-49f6-b42b-15a8ab73d65a,430193006,Medication Reconciliation (procedure),464.01,,
+10/14/09,c5a14f20-416b-4fc6-aee5-bc760d27c19b,8369bd3b-eed5-417a-a9ac-3fb2de8d7d86,76601001,Intramuscular injection,3233.52,,
+5/18/03,57b9eb30-846e-4dd4-94b9-3c6b6cbe3bae,b73d16fc-ce13-4c7b-bdd3-610e994f9ec2,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+1/3/11,b2607b1a-62db-4eca-a5a6-db67dcc52dee,25a95573-4b77-4757-91c6-56c21db5a08b,430193006,Medication Reconciliation (procedure),574,,
+7/13/83,a58f548b-54d0-4f2e-b102-34227bedd352,b4cc7511-7535-4d3a-8989-3470c7a6fe00,410006001,Digital examination of rectum,516.65,,
+10/8/10,888e0907-1552-43d1-ae5d-395a3474553f,7daef5bf-4dcd-492a-af21-f916e40b7d2d,430193006,Medication Reconciliation (procedure),767.94,,
+5/18/14,2e3e696e-4c91-4711-b107-4dda0902ead3,b54f9902-c79b-4d85-abc1-091bb1c4e51c,430193006,Medication Reconciliation (procedure),492.19,,
+9/3/11,26ba24f1-989c-4371-80a9-6e07ca11c95c,5bc688cf-1bef-4785-8ed3-2db6478043b2,430193006,Medication Reconciliation (procedure),646.59,,
+3/24/10,8b45ace6-f8f1-4cfb-bad6-36819f23d804,9f9142ac-a717-47a0-9361-9fb264c0cc3e,430193006,Medication Reconciliation (procedure),462.85,,
+4/3/10,ac4a73bc-90da-4e20-af0c-80469ec2b9eb,978c1a68-e073-4134-9374-2133b2a8cee7,430193006,Medication Reconciliation (procedure),613.92,,
+8/6/19,6495eb48-c255-42a2-857c-e3c9cd54891e,b7e8ecf9-2174-4391-9719-f55b35881584,430193006,Medication Reconciliation (procedure),569.79,,
+8/27/10,7ce16e94-3792-4306-9b33-c55b42f90750,eff32d12-5030-447c-8ef2-15c67d28a587,430193006,Medication Reconciliation (procedure),594.92,,
+7/11/97,a8148b4d-2f27-4192-9d82-0d089f830c4a,ca5cdd3f-dafb-4376-9a75-8fd2eb61786b,430193006,Medication Reconciliation (procedure),541.31,,
+6/13/94,ed89a35d-a3e5-4de4-a8cd-018c4e2f4edb,12904f7f-387c-42d9-a361-bb24749c2526,430193006,Medication Reconciliation (procedure),441.04,,
+10/17/09,89d97565-2497-4d7b-91b0-90543c0e6a9c,426a1b01-ab40-4e6b-baba-cc6d5d7542bc,76601001,Intramuscular injection,5092.43,,
+1/28/10,6e2b550c-eaa5-49de-955d-d11b592ebf21,f723da3f-a771-4ce4-9034-62eb73dcd337,430193006,Medication Reconciliation (procedure),509.84,,
+11/4/11,27346d3b-fa94-479c-b659-3e8e799a8709,90485c1e-8566-4e7a-b1f9-8d6fe324dad8,68254000,Removal of intrauterine device,15815.1,,
+2/10/80,25195d87-a884-436d-b6bf-d97191acf5c3,3befb425-369c-49aa-9365-aecd01710257,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/13/10,263b8036-1539-4cca-a18a-24f5035ddc40,9fad581d-d378-44bf-9898-d014a1c9d206,430193006,Medication Reconciliation (procedure),460.28,,
+7/13/12,0af83f65-dfae-430f-90a9-e4e6785aa25f,dbe91ed2-e20a-40d8-a388-e0252dbee172,73761001,Colonoscopy,18510.29,,
+8/10/11,bf2a1394-9b97-4d44-be7e-d1155f221b67,4d92d2f6-2ce6-4f19-baa1-a3a4c2311e3d,430193006,Medication Reconciliation (procedure),634.44,,
+9/24/09,d0b28be4-aa02-4639-99b9-6a683447c9d9,f7e2f274-9832-4100-8017-6e81c148a3db,76601001,Intramuscular injection,3567.8,,
+8/13/86,570a6573-8e8c-4fd0-9a5c-a5c66f2f64d8,6937cc82-7ce4-442d-ac9b-28409f2a938e,430193006,Medication Reconciliation (procedure),803.17,,
+9/11/11,05ef5fda-b827-45a5-8c35-8b26509ae408,d64ec2ba-2fe6-44b8-9aac-c4bad51d0d8e,252160004,Standard pregnancy test,6474.94,72892002,Normal pregnancy
+3/8/12,92f14b17-ea83-43c1-8d13-d8f0d5f88f0b,88aa552c-c89b-4a3e-9e18-db8110ca89a2,430193006,Medication Reconciliation (procedure),615.99,,
+1/30/10,1b72c333-ced2-4f0e-9898-57a613ed245e,ccacf7f6-bf49-4423-89a3-bdd1f0f08e4f,40701008,Echocardiography (procedure),1044.43,230690007,Stroke
+10/26/09,907bd608-e768-4ce4-a5d8-4c7ba87bffa5,fa524a9b-ea78-4c07-b182-4421aaae052d,117015009,Throat culture (procedure),2104.97,43878008,Streptococcal sore throat (disorder)
+8/28/10,2c5782c7-d40d-48c6-bd7e-895c50252484,6345f2c0-9612-46c5-ae1b-6c9162e94e39,430193006,Medication Reconciliation (procedure),544.88,,
+5/14/10,dcd47fd9-e067-4834-bc72-a60e4b311b9c,9e5d5754-e284-408c-a14b-80e453cb39a3,430193006,Medication Reconciliation (procedure),421.16,,
+2/4/97,3a24d9f2-1389-4e32-b002-d71762ef4435,83b8c724-7e7f-43af-bcd4-caee7765fa42,430193006,Medication Reconciliation (procedure),621.84,,
+1/13/10,d4182a51-2b29-430e-acae-148cfdcd295d,2a0ec90f-8ca9-43af-af79-a50ef90573e2,430193006,Medication Reconciliation (procedure),811.31,,
+8/29/10,59d21e38-10ac-4dfd-9356-1bbdf6e099a2,af9799c9-d559-4c99-b040-54536a40710a,430193006,Medication Reconciliation (procedure),500.45,,
+6/23/11,70782fc5-d99f-45bb-b5ea-a27a7524e87a,08f26b16-6760-44bf-bc9c-89404a22e077,65200003,Insertion of intrauterine contraceptive device,6490.77,,
+12/7/10,09c3b2aa-0ea0-4594-af19-23d52cf31006,76c97504-ba18-4c2c-8ec9-5ed41e7f331a,430193006,Medication Reconciliation (procedure),497.54,,
+6/30/10,a1ca1c14-1798-4210-ace0-307e6fe6328f,cd02990e-2caf-4521-815e-dd0f4487e4a7,430193006,Medication Reconciliation (procedure),530.74,,
+12/16/11,54c4c004-b7e7-4230-9155-b553923b492e,45fcaaeb-1318-4aca-aa58-b0b8681239e1,430193006,Medication Reconciliation (procedure),538.72,,
+10/19/10,0661d7d1-3453-4ef4-85e2-634eb9fda122,7206d4c1-ae1d-407c-a449-1df60da8443b,430193006,Medication Reconciliation (procedure),519.73,,
+1/20/11,dd758b01-82cb-4818-85e7-a4458de2d19c,78922be1-0891-4801-a4d3-4973eb3ad490,269911007,Sputum examination (procedure),9499.38,10509002,Acute bronchitis (disorder)
+1/2/12,0e1d6902-820a-4e94-b427-1ebf0a095633,c6d5a021-e183-4597-af31-1cff83ca1c75,117015009,Throat culture (procedure),3336.93,195662009,Acute viral pharyngitis (disorder)
+3/11/10,48f8d86a-1cd7-4bf3-aab8-4e96d3bbce92,a73928c5-5ca2-41e8-9356-c5567a2cd60a,430193006,Medication Reconciliation (procedure),569.51,,
+4/18/01,3cf122f9-04f9-486c-95ce-30c5a99e7db5,93bfeb28-9cb4-41e3-8a5b-d607a5038441,434158009,Transthoracic three dimensional ultrasonography of heart (procedure),1712.9,,
+4/18/11,75d6ec73-8c60-4959-965c-809dd44eb851,4a8ffa59-f12d-4e10-b131-95d2ae7d5019,430193006,Medication Reconciliation (procedure),567.74,,
+8/7/13,0c7bf29a-c665-4305-9632-e85b8cd54f69,7efa60b1-c8d1-41ae-8166-5bb73b2d13ff,127783003,Spirometry (procedure),8357.26,185086009,Chronic obstructive bronchitis (disorder)
+10/10/11,1d322263-fa78-40c8-a372-44081d7608a6,d7f7c046-b1ae-420b-a64b-6968ff3e688b,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/8/10,02ceaf60-24ff-4dcd-9b5b-067cec7a67dc,837b99c8-814b-491c-acda-c8572d76eb34,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+10/24/10,8e4ae427-534b-4c20-bdd8-600ac07ab1b9,20d59048-7426-46b9-a7a8-b2ec8cd5c479,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+5/19/14,af6e0dd0-cd05-4518-b73b-abd3dd04c09c,a7af2de8-5fe9-4126-a9ca-976b1ec9259e,399208008,Chest X-ray,7751.32,,
+12/15/09,a7ca5a2f-be43-454f-93e8-11246014bffa,f4dac593-48a6-4794-bdfb-b5840f49d954,430193006,Medication Reconciliation (procedure),609.06,,
+10/9/13,9725d4c5-1bd7-4f88-a1fd-9eeabdf6147d,af1e1849-ccfd-49d9-8c1b-7c32cc6126fd,430193006,Medication Reconciliation (procedure),369.83,,
+11/16/10,776cabc1-809f-423b-8bb9-f62b7bd7615b,cca38630-b102-4d68-bdf3-759ea9749399,430193006,Medication Reconciliation (procedure),871.82,,
+12/25/09,a1bf5859-43a3-4b8e-a1d1-30dc732e6423,372a0720-19ba-470c-8c7e-0d25e3da42f6,430193006,Medication Reconciliation (procedure),557.79,,
+8/4/01,9d8076ba-1432-486a-bcdb-34f1ffa1570e,b44d92e2-ad3f-46b3-88a5-17e224ac1257,65200003,Insertion of intrauterine contraceptive device,10910.36,,
+12/4/09,f845503b-e1be-45fe-b4e7-bcdd073cf831,2689b4e5-c84a-456b-b54e-62c3294b215c,252160004,Standard pregnancy test,8132.54,72892002,Normal pregnancy
+3/13/10,97f07895-15b6-411c-a50d-2d6cbbba957a,69101083-c53a-4f19-9600-2a65a8100dc7,73761001,Colonoscopy,13035.08,,
+6/2/10,712b874f-10a0-4144-ae73-cb356e305cd7,093d042d-bad4-448f-b788-c51e2ce824f0,252160004,Standard pregnancy test,8947.36,72892002,Normal pregnancy
+12/14/09,2424092c-906a-4a1c-bd6f-360a38c639e4,56facde7-3b51-4e09-8618-cce6aa316ede,76601001,Intramuscular injection,2189.12,,
+1/31/10,55af257a-4e93-4f80-b846-dd308f5320d3,746a9d53-14a0-4538-9a88-4e9a8659fb64,430193006,Medication Reconciliation (procedure),702.16,,
+4/12/10,262b819a-5193-404a-9787-b7f599358035,af5e7230-b6e4-4846-847a-7f9916c90268,430193006,Medication Reconciliation (procedure),410.94,,
+7/14/10,04e1c54c-e580-48eb-b5bf-a0dee975aaa4,5fa677fd-2432-477b-b721-cef0d99b24ff,430193006,Medication Reconciliation (procedure),500.92,,
+10/13/09,8cc29afa-9f3b-46c4-9bd4-eeda3282ec86,c641ef31-01f8-4e4b-a25c-23af818cd4ea,118001005,Streptococcus pneumoniae group B antigen test,1677.1,72892002,Normal pregnancy
+3/30/10,f4a449a9-9976-463f-aeb1-42d84335c512,36079723-1728-4eae-8299-77edddadbbe3,430193006,Medication Reconciliation (procedure),506.7,,
+5/10/11,9dedae70-e46d-4de7-becd-dfb8eeaf27e6,b510f080-1841-41a2-894a-4383c6ffa2af,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+1/3/10,98bc4c6d-5bdd-46a7-9e94-301d0fee848e,2d134b4f-3b92-42aa-8830-127c4dacc84a,117015009,Throat culture (procedure),2111.24,195662009,Acute viral pharyngitis (disorder)
+12/10/07,c520a7ff-20f2-4e5c-8ffe-f3989d07a5ed,74d9cf31-e278-4744-b42d-b712b5834c0f,430193006,Medication Reconciliation (procedure),953.47,,
+11/17/09,b2000567-7aa2-46f7-8220-a77059bc4ffc,153b179c-76e5-4adb-860c-2f3dfc5adf7b,430193006,Medication Reconciliation (procedure),539.09,,
+10/26/76,28ea39f3-a07b-457b-b12d-e35c8bd2d1dd,98ad228a-bf59-4a9a-9a8b-5ef4c1a46702,73761001,Colonoscopy,17103.21,,
+5/17/92,21a5d92e-5cae-446c-9aaf-503683385596,364fb918-ac42-4fed-9bca-73c2b6496d6d,430193006,Medication Reconciliation (procedure),844.28,,
+6/11/06,30092d8b-44dd-427d-af3b-9d727000de1f,7899e1fa-49d6-4354-a1a1-ece52bccc897,168594001,Clavicle X-ray,516.65,,
+5/8/10,4599a7cc-05ba-48f0-a9dc-0e6457047479,907a43b1-79e2-4a5c-92a8-5e0f7673a1e0,430193006,Medication Reconciliation (procedure),648.53,,
+9/25/09,0ca76f6e-f990-4405-a1b5-215dc2a8735f,ea6087f7-4488-403a-9d68-6da595d509f5,76601001,Intramuscular injection,3477.56,,
+3/31/13,7fda5c1b-2e57-4ed7-9b5d-8852e96fd3af,d58a7ab0-f5c2-4261-bc7d-5fc6845536ca,117015009,Throat culture (procedure),2224.76,195662009,Acute viral pharyngitis (disorder)
+12/18/80,2f571f78-c951-4f30-8b9a-e3aeb10a9063,08efc650-cc5e-4294-be6b-35e5411049a6,180325003,Electrical cardioversion,43885.33,49436004,Atrial Fibrillation
+8/17/08,ddd3f9f8-a5d6-419c-9397-7352974f659e,d431273c-a1b3-4369-83bf-00e7053fe2f7,312681000,Bone density scan (procedure),12810.71,,
+4/13/11,2de9315e-3784-4802-944a-926bcd8febd4,a7092a5d-9c0a-41bd-b465-1dd3bc110a98,430193006,Medication Reconciliation (procedure),514.61,,
+12/13/09,54362c17-e1ce-4b66-b129-8d9823822191,a08e38ba-0828-49f3-a120-9e1deab2f6f8,252160004,Standard pregnancy test,8887.85,72892002,Normal pregnancy
+8/8/88,046bfd2c-1d2c-412f-841a-44dacb8e4393,87d90078-5e7a-4aad-9dd8-82400228083a,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+10/23/91,08db65c5-b89a-4927-a0ed-0adeca235998,9c83a74e-810d-47fd-9505-733e173471ec,73761001,Colonoscopy,13702.3,,
+8/22/08,4cc1f9c1-5311-45fd-b412-cf32fca14340,1acb68db-25b3-4298-b05e-5275a63a1de8,430193006,Medication Reconciliation (procedure),386.92,,
+8/29/10,ed08ed10-e1a7-42f9-a35b-cd8cc73363da,70342ccd-461b-42d5-8c52-9eef3aaec904,18286008,Catheter ablation of tissue of heart,9150.24,49436004,Atrial Fibrillation
+10/8/07,8531f77e-98cc-45d3-8057-12a6033d7aa6,6a0ad602-eaef-4d4c-ba4f-5071e2081db4,127783003,Spirometry (procedure),5587.93,185086009,Chronic obstructive bronchitis (disorder)
+8/31/95,c08695fa-1985-4bc5-b0cb-01d613eb30ab,d24bfa1e-9bac-42af-9a03-34d6b2af40d0,73761001,Colonoscopy,12314.42,,
+8/8/38,e87eb716-9205-4abf-9387-fe4b11a60575,31dd5a61-a4a6-4ee8-9e8b-038779c912a8,430193006,Medication Reconciliation (procedure),547.5,,
+7/30/10,86717a77-0cfe-49ad-93ac-2e413faf5e56,558bfe75-b317-488d-b040-a2636f44c318,73761001,Colonoscopy,10967.36,,
+1/16/86,8e9d8b05-c7fd-447d-922e-7d5b5efbc0fa,7036d5c9-1306-43a8-85f9-75d08848bb39,410006001,Digital examination of rectum,516.65,,
+2/21/03,0979f4fe-08c5-414e-ba1c-6ccf852bcce4,28bee620-d007-4943-84d0-fde36ddf47a5,265764009,Renal dialysis (procedure),516.65,,
+10/19/09,cb9cd90f-77bf-4220-a97f-cde8e0e21878,5cdb1590-3282-47a0-baa5-f77421a1336f,430193006,Medication Reconciliation (procedure),580.35,,
+8/17/10,e978a995-4b48-4c1b-8bd3-629b98b6b6b0,10373810-c5fa-4a06-98ed-88b4ce3eaafb,430193006,Medication Reconciliation (procedure),746.22,,
+12/11/89,82d47f22-92ba-48ff-b4f5-5a4b362cc476,4fdf3425-bd9a-473d-8b38-37059503d71c,127783003,Spirometry (procedure),7058.61,185086009,Chronic obstructive bronchitis (disorder)
+2/4/17,b3e09e1a-6149-4b8f-a045-29f135ad8884,132241ba-3c3e-4186-b5c8-d445f6cd8843,430193006,Medication Reconciliation (procedure),541,,
+11/10/10,abe680b4-bfd1-4d67-98d1-ab3bdc78f55c,9da0101e-c998-4eb0-92ca-8ca2b86a4e23,430193006,Medication Reconciliation (procedure),462.68,,
+1/18/10,f1c40929-b459-460c-bf7d-35969cb24a24,f2534b5c-02c2-4bab-87cf-21229e6d984d,430193006,Medication Reconciliation (procedure),711.24,,
+10/3/11,3ee122b1-5ef3-4df3-bd25-69170ad32738,a1acdfe0-0c6d-4e42-afee-d15cdd8d6031,73761001,Colonoscopy,14537.07,,
+3/26/15,70e5cad8-9d83-4760-93da-982bb1881166,4f51f673-f3c5-47d7-b86b-ba8230208360,430193006,Medication Reconciliation (procedure),764.71,,
+4/7/02,6de07d5e-09c3-49fd-be61-9546c52ffadf,7b539f70-e9ff-4145-809e-4035713c2049,430193006,Medication Reconciliation (procedure),981.33,,
+5/3/11,af26012a-339e-4bc7-873d-9cb19fe6eb56,1844794d-ea61-46b6-9dd9-0ce3e21d2e74,430193006,Medication Reconciliation (procedure),639.16,,
+12/18/32,5aa1120b-fa96-454c-927a-42a9b25715c5,93f94993-76bf-4d0d-86bb-2865c2f382ed,54550000,Seizure Count Cerebral Cortex Electroencephalogram (EEG),12972.05,,
+5/23/11,b96a163f-b321-44a7-8995-d5c646b9f3e7,5379bfb3-c79c-4198-8a9d-fe3353753d32,430193006,Medication Reconciliation (procedure),918.16,,
+11/28/12,b3feec6c-7e31-4970-8af6-9300ee5e7d8d,8d159600-c633-45a9-80ff-1853e8ab5f65,430193006,Medication Reconciliation (procedure),545.89,,
+4/29/13,fe739bef-5e74-4f88-ae3c-9e7f5ed183c8,c0cdfa00-a706-4d0e-bb35-b053924cc1d7,14768001,Peripheral blood smear interpretation,516.65,,
+7/6/13,53a99c3a-9f68-403b-adf0-c7cbf44f05b1,2b52296a-9a7b-4b80-a769-52dd0f8671fd,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/28/09,e3c6cb9c-5f13-4d78-bc38-d7c005346389,3cfa7ac5-212b-480e-99f3-a4879d205fea,430193006,Medication Reconciliation (procedure),962.24,,
+11/24/10,f5a6f60b-690a-4b6f-b2cd-308b2d281424,61b1eb3e-49c8-4980-a057-4931c0d090a1,430193006,Medication Reconciliation (procedure),333.86,,
+9/1/10,3a092106-64e5-4b2f-add3-b6399e589052,0a878403-f712-49e7-8a91-f2772558fdab,430193006,Medication Reconciliation (procedure),464.67,,
+4/15/11,08c1eef0-6d1d-4a99-9706-96520cd7b394,bc0dc3bd-9dc4-4c91-853e-1a6815186eae,430193006,Medication Reconciliation (procedure),621.1,,
+12/7/12,2b6e4ba4-c749-40e0-bb82-87ab8fa0bb3a,71933f27-52dc-4661-b376-cafe8de864c8,430193006,Medication Reconciliation (procedure),497.61,,
+10/23/10,e71b517a-3e64-489f-9eee-6f12bd022dcf,ee54ade4-d671-40cb-ad65-9399f4e102bc,252160004,Standard pregnancy test,8096.3,72892002,Normal pregnancy
+5/7/11,1d304a55-7178-4acf-997e-0e015f62d43a,373dee02-75dd-45a3-b820-ef6562413611,430193006,Medication Reconciliation (procedure),695.95,,
+12/27/10,050a827f-d43e-4c3d-8c08-c305bfb05396,d2e55e2c-f79c-4fc5-ba12-6df57b03578f,430193006,Medication Reconciliation (procedure),533.83,,
+8/13/14,5cd5b8fe-eb6c-429d-92b0-dfff74ed4489,b4b7f507-29e1-4d10-b1e1-9d631dfa4da6,430193006,Medication Reconciliation (procedure),617.29,,
+12/7/09,57e0b409-3bd5-4577-9e00-a53a4efc6eef,dbe1bd90-d9b0-4b73-9c9a-67a3b41a86e1,430193006,Medication Reconciliation (procedure),402.15,,
+5/14/79,2f88c354-3ca7-487a-9718-c1fd8709a7a4,3beb223c-229f-4619-8ef3-a50d68419a88,265764009,Renal dialysis (procedure),516.65,,
+6/4/89,be378a4f-6973-4d3c-b6bf-294567a77933,68991117-f5db-4746-be44-2b2e82af52de,430193006,Medication Reconciliation (procedure),363.03,,
+9/15/12,bd975e33-ad86-4316-b2d2-b0a5149a156d,f808a48e-8952-443f-9b1a-12777565b374,430193006,Medication Reconciliation (procedure),472.11,,
+1/6/10,7523c3fa-0f35-478e-8893-1333ecbb9899,70e8363e-7a22-4a8a-a440-7d03a8cac6d9,65200003,Insertion of intrauterine contraceptive device,9583.64,,
+5/11/90,1bf1f733-d365-44b3-b69e-d59533896863,c7098d0d-02d3-490c-bbdc-86eba575855b,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+8/15/11,e59682f7-5bbd-443f-86c6-ca971a7a5e78,2de91af8-8b38-41ef-8d58-adfb85bb3c00,73761001,Colonoscopy,14290.57,,
+10/10/96,f539b505-71fd-4edd-ba65-ee7bc2d85c52,0df8bbf2-2f2d-41ef-9c0c-d996f6c75b4b,430193006,Medication Reconciliation (procedure),661.76,,
+2/8/11,934e20a4-3c1f-450f-a534-25ca9e32b634,3eee7199-8deb-44e7-847f-76e61d3d3edb,117015009,Throat culture (procedure),1884.93,43878008,Streptococcal sore throat (disorder)
+7/31/10,392f1f29-0aa1-487d-b7bf-46c3a5fdd72a,73fb26c7-551b-4ee3-834c-770cf4ac1d73,430193006,Medication Reconciliation (procedure),503.12,,
+4/11/89,71be3651-608d-4494-8073-82f5cfc3c038,47c78d27-51af-4195-80f1-247ac8226156,73761001,Colonoscopy,18013.22,,
+9/17/12,9138db90-a8bf-465f-9b5d-16f8fd5749da,14a92b4a-f873-4b41-968b-df93878a199d,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/9/10,214d33f3-2008-4376-9d8e-a416d434add9,bb84d8e7-4cc5-4620-91ec-3cf325ab158c,169553002,Insertion of subcutaneous contraceptive,12701.12,,
+3/22/10,1e0a8bd3-3b82-4f17-b1d6-19043aa0db6b,ee786d7c-bb29-4552-b329-6cd902fffa47,117015009,Throat culture (procedure),1327.91,195662009,Acute viral pharyngitis (disorder)
+10/10/92,6242ce6c-1824-42f1-843c-6d73a8c53abd,b8c7c0e4-c777-44e0-8f16-e7e2afe1d396,73761001,Colonoscopy,18938.49,,
+12/21/09,d36b57d2-052b-4b7a-9978-d4bac3f59c36,ea76b892-a8f8-48a6-ab3f-ddadde3224c4,430193006,Medication Reconciliation (procedure),481.6,,
+7/15/11,21dfb47a-ebb6-47d3-b3e7-5cad7da812e5,16f4ee8b-e4f3-4ad9-8004-8e90ca90c5bc,430193006,Medication Reconciliation (procedure),514,,
+3/23/10,58d27703-9f10-47fc-ba03-9a455874fb58,b033931b-d582-4bc2-903c-a9c82c897981,169553002,Insertion of subcutaneous contraceptive,8572.17,,
+3/16/11,c29d6612-c379-4812-b8f0-a69272775896,51399281-2e84-488b-82b0-4487fc21922c,430193006,Medication Reconciliation (procedure),755.51,,
+12/31/10,aff8f143-2375-416f-901d-b0e4c73e3e58,e152e781-e4b1-4e34-849e-7311a496ecfc,395142003,Allergy screening test,516.65,,
+6/4/10,102e332d-2954-4b0a-a2b7-19ac9750c89d,b13105e5-4aae-4a57-a100-f2b9a497bb3b,117015009,Throat culture (procedure),2403.78,195662009,Acute viral pharyngitis (disorder)
+5/6/07,6bcb9066-cf6c-443e-91b3-c9022c8c4f6a,1c5d2c73-95d9-47a7-a523-53e2596bd5a2,430193006,Medication Reconciliation (procedure),961.49,,
+9/23/09,b9df817d-7259-4fde-9bd9-9aab9cdd05f8,602aa657-35b5-4435-b320-42aee6286af0,76601001,Intramuscular injection,4244.73,,
+11/16/15,8ab24ed9-a8a2-47f5-be96-db2504b83748,03c869d4-4932-4290-a76d-d2a31bfb853f,313191000,Injection of adrenaline,3005.1,,
+4/20/95,386698a5-e848-41b3-a67a-5d31cd0e821b,798fef2d-4c2c-47ab-9c70-6d9b5e85061a,127783003,Spirometry (procedure),4615.07,185086009,Chronic obstructive bronchitis (disorder)
+10/12/09,60303f1e-6215-4cab-b084-95da3b880f75,e4f07bd6-9e77-4da2-85ac-3dcca17ff925,430193006,Medication Reconciliation (procedure),547.61,,
+7/16/12,f8bd603a-d34a-4536-8202-b571a2607f99,dd57d8a2-dc3a-4de1-8265-dfcd6df451c3,65200003,Insertion of intrauterine contraceptive device,14239.48,,
+10/29/13,127af495-da7f-4afe-99a1-73f48c9bbff9,bb572b20-b924-4f16-84a3-8c1299c3f723,430193006,Medication Reconciliation (procedure),704.75,,
+1/22/11,83884d93-02ac-458f-a282-8e19702ec3be,eed78dac-c477-46dd-9ff2-48603c96458b,68254000,Removal of intrauterine device,11382.8,,
+2/3/91,5d2e81f2-495f-4d3f-8a04-f9ed68909826,10a2271a-5221-4e63-bbd3-80fd5217c2f8,430193006,Medication Reconciliation (procedure),518.19,,
+8/19/11,71ec6e3e-d309-443a-b195-612c4d0149d4,6a5799af-e696-4933-9367-833cfbe30138,430193006,Medication Reconciliation (procedure),634.6,,
+5/18/16,85415c53-e13c-4c50-85b6-6687ceffa7ff,e84648a0-c1a1-4053-87d5-a24ee32ea0c9,430193006,Medication Reconciliation (procedure),570.47,,
+7/14/10,ec3a69f6-6ecc-42b8-b47f-70a68681c63f,ed8e970b-8102-417c-82a2-e61de581ce2a,168594001,Clavicle X-ray,516.65,,
+5/7/84,99d132e2-b90a-46e5-8d03-8a4034441ea9,5c976f71-0566-448b-a354-f4c4e611da92,430193006,Medication Reconciliation (procedure),524.92,,
+1/23/12,dbce343c-d2c4-4aa1-8b81-61a6065cd63d,9c4234d7-999b-4512-b9a9-3affb15c8a15,269911007,Sputum examination (procedure),9127.48,10509002,Acute bronchitis (disorder)
+8/8/10,305a3c64-6ec5-4839-9eca-9475e5a20d24,e356420a-8c45-4ce6-9508-3068f576faa2,430193006,Medication Reconciliation (procedure),684.9,,
+9/26/09,8e47a6dd-c7b8-43ef-887b-a207ab75a9a8,1e2935fd-3487-4fe9-a083-6f802ea12265,10383002,Counseling for termination of pregnancy,516.65,72892002,Normal pregnancy
+7/28/10,fef3d64f-82b0-47e0-be02-3317c4969826,0e95850f-52c1-4c40-b437-58b5f08525c9,168594001,Clavicle X-ray,516.65,,
+1/18/96,40c05174-fdce-48b6-af2c-3df27de76ce1,d80b1903-4b34-4974-bec1-80f52a8d4f6a,430193006,Medication Reconciliation (procedure),601.11,,
+7/21/11,abeb1256-5658-471f-9ec7-928518c5e404,aafdb5a0-fc65-4f8d-a141-d169156403cd,430193006,Medication Reconciliation (procedure),607.17,,
+2/8/17,c915a4d3-f2ce-4bff-a91f-be5854b0e86a,577e8028-f432-4256-8960-641e15c73f8a,430193006,Medication Reconciliation (procedure),602.65,,
+12/30/68,d09e6bf4-fffb-4aa1-abeb-0e9efabc6512,b9a97222-d09d-4d04-bd5a-42f45e6b2ca4,430193006,Medication Reconciliation (procedure),633.57,,
+8/18/10,ccf4e33d-5213-43f7-9832-cd8e58357ed3,7edeb337-7d39-4e5b-a7c3-8b5891e426d3,117015009,Throat culture (procedure),2595.37,195662009,Acute viral pharyngitis (disorder)
+6/26/10,07ae9067-114e-4938-af30-f290c9e5fa40,d434a6ba-d814-4968-aed6-dcf0e3f3dca6,430193006,Medication Reconciliation (procedure),601.67,,
+4/16/11,ac0abd85-be8a-4035-be12-d1b45ab20b26,15aa81d9-d445-4758-93db-65f6636a447b,430193006,Medication Reconciliation (procedure),521.94,,
+4/27/12,8abe5f51-83bd-4973-840b-62b7c672f496,11d46db4-e2dc-405a-9bc1-9125edfc6390,117015009,Throat culture (procedure),2080.87,195662009,Acute viral pharyngitis (disorder)
+5/24/13,a5ea7ef1-e265-4812-aed2-64fb157f1774,d4697dce-0e0d-4daa-8d51-df1b0f1c1757,76601001,Intramuscular injection,5042.5,,
+2/25/15,27b398aa-eade-48f1-a44b-72e666ac3112,108117d1-93d0-4ba9-873a-1a8c0b36871f,430193006,Medication Reconciliation (procedure),487.87,,
+7/24/16,e8a0723e-956a-4b12-8a54-9a59970a09fb,353e9735-d4ca-4e61-9da3-91d3b46fe5da,430193006,Medication Reconciliation (procedure),562.13,,
+12/7/78,01cb4df5-2600-456d-9b29-767fd4f0f7d8,c6d7ce76-62fa-4114-b272-2d0e3f72a202,430193006,Medication Reconciliation (procedure),425.15,,
+2/26/18,0468a847-8cf8-4e47-bed0-8a5879b87a27,97e8c8a9-f3c4-4f7a-896e-3c807264e081,430193006,Medication Reconciliation (procedure),694.23,,
+10/31/09,3038f107-f43e-4f8d-bee3-0dd51236ac73,6d6da2d0-ef00-4968-a3b0-0050a0cc9c05,430193006,Medication Reconciliation (procedure),611.91,,
+4/4/11,05c74818-5344-4b69-9c5e-6ba04932bf60,070546a4-bb28-4f4f-9986-90b2f2d9d08e,430193006,Medication Reconciliation (procedure),688.64,,
+12/6/09,98dcb691-894c-4063-9f38-262bce6c8e25,23578969-ccdb-4225-a4de-e277c1476563,430193006,Medication Reconciliation (procedure),881.97,,
+10/29/09,c76c71f4-7193-4d78-9e36-c99011243b72,2eade264-f8fe-4287-a93b-855282d48575,73761001,Colonoscopy,11611.33,,
+3/19/11,8223402a-b3c3-41b5-a3bc-529e9d5c1fd9,3cd6b5fd-a7db-419d-93d9-0fac73dd008e,430193006,Medication Reconciliation (procedure),860.68,,
+1/12/56,c0bb7c7e-45e7-4966-b406-64b8c3049a17,821fb319-6ec5-4c66-ac6e-751cd5e7018f,127783003,Spirometry (procedure),7784.11,87433001,Pulmonary emphysema (disorder)
+6/18/10,3083b891-2c3d-4c74-bd61-ed13165fab16,5cc4b184-e58c-4317-af95-e4aa8eebcf77,430193006,Medication Reconciliation (procedure),733.34,,
+8/19/15,51978986-f824-43da-b69a-d2d17f49df70,899275d3-f5b3-4f33-b8d5-7bf971431fb6,430193006,Medication Reconciliation (procedure),432.56,,
+4/17/10,394fd17a-2544-438d-812f-a00dadcec423,86139f06-4417-4fe3-84c8-0380b0833325,430193006,Medication Reconciliation (procedure),497.42,,
+4/16/11,f86a2f79-2dc5-4e00-b7dd-8ddff2b0434a,18e9b074-ebab-4ff8-b407-84fa26814918,430193006,Medication Reconciliation (procedure),494.13,,
+10/18/09,5420cb2b-2a24-4542-8388-3659c5f3d82a,57375166-a06c-45e2-9e0e-87fba2669869,430193006,Medication Reconciliation (procedure),690.19,,
+11/14/09,86cc360c-3b71-4e61-a198-26e8c64fa036,cbf9c424-4e87-4eab-b2d4-0fc88b307b69,430193006,Medication Reconciliation (procedure),699.77,,
+11/15/98,d19ebb80-d9ec-43e3-bfa3-b54b654dd8ec,cbc85b91-bba8-4f7f-bdc6-1333afee3d9d,410006001,Digital examination of rectum,516.65,,
+3/15/10,65d02160-b506-4e69-a4e7-93631a257676,b1e2e246-c133-4c61-8d64-5541909d2a7d,73761001,Colonoscopy,11678.51,,
+4/19/11,1a2fe555-661f-4b36-8055-61f6db4e3b0c,b610415e-a846-46b5-9844-f73dccc11e92,65200003,Insertion of intrauterine contraceptive device,10427.39,,
+10/17/09,85aef718-a865-4d56-8e0d-f3dd1060d204,6eab6cc3-4856-4c04-8f9c-5d21846a6d76,430193006,Medication Reconciliation (procedure),680.41,,
+7/19/18,c71bf50b-a1d1-485a-92d4-b1d1a17aa19a,4fa67b31-a311-41a0-aa42-ba4614923278,430193006,Medication Reconciliation (procedure),636.36,,
+9/21/11,fb68b191-6b88-49ff-b589-5b5a57050700,1f836dd5-7969-46a1-9f9d-22c157371b89,14768001,Peripheral blood smear interpretation,516.65,,
+10/14/15,a9bdba30-d449-4699-92ed-553d5e7a3595,7e2c3012-407c-403a-ad4f-ada06561e9a7,252160004,Standard pregnancy test,3696.13,72892002,Normal pregnancy
+12/20/09,29e51479-f742-4474-8f8e-d2607d5269f6,0e303720-55cf-427f-89f2-6594cb26773e,430193006,Medication Reconciliation (procedure),587.43,,
+11/15/00,8041e942-fbc3-417d-8bc5-b95149c58425,9b94e924-e5b1-4e48-82c8-c81f8609d2fb,73761001,Colonoscopy,12655.46,,
+8/8/95,41ff4bb0-1a6f-4d37-8be0-a85116a0726c,14bae113-f28d-4d94-bdec-d9d379f9c7d3,76601001,Intramuscular injection,2556.42,,
+8/22/02,39e8eeee-08d6-4542-b935-5924618c81cc,7082ded1-d681-4554-b88b-4ddb708d043a,430193006,Medication Reconciliation (procedure),643.09,,
+3/8/10,5f029d3e-63f6-4003-9800-f4856d4224c0,ce5f64ca-67d5-488a-bf4b-478f94f3842d,117015009,Throat culture (procedure),2371.65,43878008,Streptococcal sore throat (disorder)
+11/17/11,947bfad0-484f-47b3-ba52-1b2dc478d78e,cfd3775f-fa8a-4046-8286-05f88dfda724,430193006,Medication Reconciliation (procedure),356.28,,
+10/25/09,e52dd621-0835-4773-a309-6bdc64e77753,0e531490-9be6-4980-b370-8f5a4c87cf25,430193006,Medication Reconciliation (procedure),642.81,,
+11/13/08,6c6e933e-65c5-46d1-b4fc-eca7f44c36d1,79ab3425-1b79-4b24-a213-2611f9f19acb,117015009,Throat culture (procedure),1460.11,195662009,Acute viral pharyngitis (disorder)
+9/27/12,7a6a0d60-8117-4db0-a1ee-25e10c63e03a,ef9edf3f-d3b8-4295-afd5-4cd0fd1b506c,430193006,Medication Reconciliation (procedure),608.79,,
+12/25/10,a377fa7e-658c-4780-b178-4ca9bc17a665,7035b30f-b1e1-4784-b96d-c1aa1018eb0d,73761001,Colonoscopy,7452.07,,
+8/22/59,43f14c01-8465-42ae-a884-993dce7002a4,9daccdd8-9d61-4a64-828b-80de72d784ef,430193006,Medication Reconciliation (procedure),537.34,,
+1/24/10,5d870245-fed7-4cf0-94c6-014ca198e9e6,60d13a47-ffb2-41d0-9c80-c8204eddbada,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+6/10/10,a4ac9bbc-c9fd-40f7-b654-61b3f61f61d4,318a0018-b1ef-4178-a2f7-0174f134c44d,1225002,Upper arm X-ray,516.65,,
+10/1/09,163190b0-be2a-41fc-b92b-da356deeb397,c83ffff7-ea1c-4127-8e35-343a7a9b5b61,76601001,Intramuscular injection,2888.3,,
+10/11/13,457fece5-3c6d-4578-baec-17bb1cde3526,84747eca-bd60-4482-b3fd-3de8362b378d,430193006,Medication Reconciliation (procedure),543.55,,
+7/24/78,0e0efd45-5b0d-4ccd-9490-13e0b5f9373a,e289e8c3-2698-4479-8491-38622f806624,430193006,Medication Reconciliation (procedure),422.55,,
+4/22/12,a0a1e6c1-578b-4ba6-8568-6e6b2cb6bf19,eb75be68-becc-4177-9079-715f02b83958,252160004,Standard pregnancy test,4655.81,72892002,Normal pregnancy
+10/14/10,6eca56c0-b274-4d5c-b735-d0893e43ac5a,dd010971-c9c0-48c0-9d00-fb43b281202d,269911007,Sputum examination (procedure),5336.2,10509002,Acute bronchitis (disorder)
+2/27/10,bde71dae-bb2d-451f-b845-c260e69abdd6,7595a008-82e9-499e-b2e1-0d72cc832792,430193006,Medication Reconciliation (procedure),534.47,,
+2/22/16,5447a8a3-6024-4b6d-a30e-44a431754fd6,3dd26138-6a44-4f74-bf5b-a5c5ed4138ac,14768001,Peripheral blood smear interpretation,516.65,,
+6/10/10,d53464cf-4af1-42e8-81fc-393cc730f108,a9e00fce-de23-49f2-9684-87cae88484af,430193006,Medication Reconciliation (procedure),809.84,,
+4/6/10,b907507d-1159-4554-ba57-33c60429846c,7d244c60-18e5-42e0-ac2a-ba213b0fd890,7.56E+14,Replacement of subcutaneous contraceptive,16109.79,,
+3/3/12,a0c51b3b-2d0c-4bbe-9b88-de8d6c9b9d7a,123b887a-3467-4ed9-8867-0729d4faae6e,430193006,Medication Reconciliation (procedure),621.96,,
+7/20/18,42c04ad2-db1c-481d-b6c8-68da5a263096,2a2e955b-b8d4-4525-a782-4eec8aba5e07,430193006,Medication Reconciliation (procedure),909.6,,
+12/30/09,52b1b75f-2b8a-4319-9542-7abc39502cab,4331bc2d-c919-46b4-9ed4-b7d1543773e1,430193006,Medication Reconciliation (procedure),390.6,,
+11/3/09,a41c4756-7105-458c-b205-adcaae36c677,ef901c39-3acf-4be0-b512-a015a0cd8f57,60027007,X-ray or wrist,516.65,,
+7/6/14,0def525d-6d00-452d-87c8-55682c452821,faf9b098-0f2e-4dc4-96ac-ed9c731d84c9,430193006,Medication Reconciliation (procedure),433.4,,
+10/27/09,808dc4fb-3abc-4336-a780-17863facddfa,1771c056-41d8-4419-87a1-0962d077f928,430193006,Medication Reconciliation (procedure),806.87,,
+9/17/10,b5fba949-c0b2-4277-99c2-67abf43e40e0,3afc0c49-72c4-468f-a937-3e108c28dcd8,430193006,Medication Reconciliation (procedure),519.53,,
+8/1/14,a02d2b17-7485-4854-b316-f16919c6dc59,4c8183c9-1c1e-4152-93b7-91eb22b8b220,399208008,Plain chest X-ray (procedure),11082.01,10509002,Acute bronchitis (disorder)
+12/7/09,284c053e-cc8a-4d79-a61f-9d68e2f02fbf,e674be44-e2f4-43c4-a3ec-da6f5e92627d,76601001,Intramuscular injection,3491.02,,
+4/21/10,68350f6c-f2e3-4984-a59e-44a1bc3560da,c44d525f-7bd7-41ac-b2ec-66a6e27d9ec4,288086009,Suture open wound,12738.55,284551006,Laceration of foot
+12/4/10,7c0beb9d-45cc-4d62-b7e6-3a072958af63,46e057b0-f9ce-41f2-9887-321041f6a63d,430193006,Medication Reconciliation (procedure),445.19,,
+9/4/01,cd64ff18-472b-4d58-b73c-2a04a2bf3e61,165c2164-3c99-45df-a1b2-46f6e1f2b6c9,127783003,Spirometry (procedure),8769.94,185086009,Chronic obstructive bronchitis (disorder)
+1/26/10,6b730d2f-67ad-4b2b-83be-8e04dc511441,2bbd9fa3-0810-45c4-af98-c1631586b3ee,430193006,Medication Reconciliation (procedure),594.21,,
+10/28/09,0328db2b-f9a1-479e-ade2-123c46941186,8ab8bac7-043b-4774-9947-6136430027ad,76601001,Intramuscular injection,2310.71,,
+3/10/10,12bb3d96-9c99-45d2-b3c0-df943405bfd3,f23bcf32-ec41-4069-928a-3b8e742e0826,430193006,Medication Reconciliation (procedure),930.2,,
+7/14/80,4b8ca9cd-6ba9-4175-ab43-a5a07f105afd,ab024d9d-2a8b-452b-822d-ba076dfa6ea6,430193006,Medication Reconciliation (procedure),722.66,,
+3/16/04,ea1eb3be-135e-4bb1-b6b0-06dd476e7bd5,5852da0d-8940-48df-9555-a5855f2ff147,430193006,Medication Reconciliation (procedure),794.7,,
+10/9/09,f21fc756-9de4-47ec-a396-a9f4e858b841,38127236-34d0-49d1-8335-438ba1763210,274804006,Evaluation of uterine fundal height,4416.46,72892002,Normal pregnancy
+8/3/11,a7f776dd-ad8a-4008-a0b8-f9b47b88570f,d30480d8-8be4-4828-801e-d7a89b9c0385,73761001,Colonoscopy,15142.1,,
+5/24/10,e5312735-c79a-41e6-8e40-5b1ad87ec2ac,a53cb0f3-86b0-42d3-a04e-ca440b7a22e9,117015009,Throat culture (procedure),2283.05,195662009,Acute viral pharyngitis (disorder)
+1/6/10,1380bf87-2b8a-4e92-aa16-c88126e6c11a,770f92b9-01f2-4760-9a3c-1f80cc4d3ffb,269911007,Sputum examination (procedure),6970.41,10509002,Acute bronchitis (disorder)
+6/17/10,b37d5e4a-22f5-475f-a651-465a97b9f825,297a110c-6bca-4782-a5be-e7f22c455b15,430193006,Medication Reconciliation (procedure),495.69,,
+8/2/10,ccb86a73-115d-4f69-8c13-50083e549438,4f161edc-e6a6-4906-a049-96f66f824721,430193006,Medication Reconciliation (procedure),884.1,,
+2/25/11,7ab8bb2e-9739-427b-8d4e-9d8df7e54abd,b7b256a1-eac3-4228-b8b9-e542ae44cbb9,73761001,Colonoscopy,9332.81,,
+12/17/09,fb0b562d-0854-488b-95eb-c8f337398f90,717d1427-2457-42ab-8582-c382c8662e78,430193006,Medication Reconciliation (procedure),582.57,,
+5/10/12,3400bda2-9f20-4e71-a0f8-c09cd2ac3f0f,5a2711c0-524e-48d9-b3c9-7ab3613c0631,430193006,Medication Reconciliation (procedure),513.66,,
+7/26/12,1e740307-8780-4542-abeb-7037a2557a0e,4bf147af-67af-4ac4-b67d-32d50cdb2bf1,430193006,Medication Reconciliation (procedure),531.06,,
+8/15/11,8a686e64-103e-4711-ab37-c78711ec3872,8399e066-5f66-47ca-826c-852153731fb3,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+11/16/10,2c1ffa8f-1e4a-453d-8679-b0400cbde754,8395921b-3bee-4f3b-8a07-385224d8bad5,430193006,Medication Reconciliation (procedure),514.29,,
+11/3/96,89b6a6af-8f08-4341-9dad-e42eb45308cd,199cb260-2c12-4842-9c46-74415ff98772,430193006,Medication Reconciliation (procedure),496.63,,
+5/26/19,68b95ae3-8732-4948-9345-f3d490bc4ae5,f1ea5824-b25f-4fb5-94bd-7fbbf7a72dcb,430193006,Medication Reconciliation (procedure),443.34,,
+4/19/15,d084de98-b1f8-4b37-a91a-e6c5cc3e5d20,51ac5fdd-d6b3-4657-b0f1-88aedad87de3,430193006,Medication Reconciliation (procedure),398.46,,
+11/19/09,2bb235fc-a5a6-4a86-8b74-fd6b9d9c67d7,4d5f4e1a-3d8d-4af9-a96d-093847e9dbc8,430193006,Medication Reconciliation (procedure),448.62,,
+9/17/10,8ad5687e-f6c5-4083-8937-158840868bb0,c784c3ac-b890-431a-8d26-2dddc7b7b37d,68254000,Removal of intrauterine device,7306.34,,
+11/1/09,439b24b4-6f25-4093-b101-47a39bd061ca,fb85f9e9-8ec0-49cf-ab52-f717f2881699,430193006,Medication Reconciliation (procedure),697.95,,
+10/3/09,9dc305b0-c821-49f3-817c-58e853bce8b1,7b8b037c-c8c8-43a7-bf64-8050d322392c,180256009,Subcutaneous immunotherapy,12884.06,,
+12/27/17,f6c8a293-ed70-445c-8247-e07c1c3a6318,861b8799-ca51-4df8-bb87-6d4969609a9d,430193006,Medication Reconciliation (procedure),534.33,,
+12/3/18,45ccd906-9f68-4e4a-9c92-825b2151dae7,83d209af-bb97-4401-8aae-df09f96a564f,430193006,Medication Reconciliation (procedure),854,,
+7/23/19,01b6ca2a-b591-4560-9014-c37e1565f0cd,b7f8b61e-d059-4837-b0ed-2c92e588d008,430193006,Medication Reconciliation (procedure),781.1,,
+9/15/11,cd5e04e7-ad37-4b71-b1ed-498bf6ea8db5,6cd18f83-67f0-46d5-9df4-1280db4e52b5,183450002,Admission to burn unit,516.65,403192003,Third degree burn
+1/17/97,358200a0-bb63-4567-80cc-b2e0c7af2360,e522545c-5954-4d22-af04-45cfa12dedaf,430193006,Medication Reconciliation (procedure),886.19,,
+7/4/10,f0d8bc66-19d7-47ae-bec7-43d47d60a018,6d2786a0-a481-4620-9942-c28c5a573fe1,430193006,Medication Reconciliation (procedure),497.35,,
+11/6/09,6baff446-4b5b-42de-a969-1b2ca9f5619d,56bcc8a6-a1a0-4bdb-8309-08e1b1f88b3b,288086009,Suture open wound,16820.07,283385000,Laceration of thigh
+10/12/09,c5335a5c-3d18-424b-9c88-115685aac15e,8826ee86-4608-45a8-b47e-5b075e1cc0e1,274804006,Evaluation of uterine fundal height,6676.41,72892002,Normal pregnancy
+2/18/11,464be109-96fe-4ede-8abc-2024d69c8c88,819cd423-21d1-44f0-a0f5-00fa9613462a,430193006,Medication Reconciliation (procedure),507.92,,
+11/18/09,b855318c-9883-48fa-8044-1eadce3d1c5e,0ea09e7b-d574-4290-a691-1d080f5254eb,430193006,Medication Reconciliation (procedure),860.58,,
+4/4/13,79748b8c-3480-469b-81fd-ce385379f629,4a245cea-5812-4993-b466-4bdc2d6101b8,430193006,Medication Reconciliation (procedure),698.24,,
+10/30/11,96df982b-cf53-46b4-9a6d-455baf90541f,f1b5392c-72a0-4647-bbc1-7dea831ee02f,430193006,Medication Reconciliation (procedure),670.7,,
+4/7/66,986491c5-c657-4af6-8183-08ec35ac16cc,e53b0fff-8aa0-4eaf-b7b1-0f9b5a537dc9,73761001,Colonoscopy,13944.55,,
+9/21/10,cf1ba206-8af7-48ad-b231-27398784dbc6,07668b96-54d8-4190-9021-9ab02ab803ba,399208008,Plain chest X-ray (procedure),6836.96,10509002,Acute bronchitis (disorder)
+3/29/10,b531d827-de9a-4e2e-a53b-8621bd29f656,b59578fa-3010-4a5f-8354-aa1d8aa83cf9,430193006,Medication Reconciliation (procedure),624.31,,
+12/1/09,c4fac0a0-9e8b-40a4-b3d6-0b26a86ab39a,570c48a6-87c2-4f97-b655-eb76970f1937,430193006,Medication Reconciliation (procedure),456.72,,
+10/3/09,f7275276-6122-4b83-9cfa-e7348e13a2ae,ec7d050d-e99b-49e9-b7c9-4383f5e5a7a7,430193006,Medication Reconciliation (procedure),496.35,,
+1/15/13,8bee4217-ea35-495e-832f-35cfad4a64e7,a09aa653-7fca-44ca-afa4-cd730946df1e,169553002,Insertion of subcutaneous contraceptive,9731.49,,
+10/14/10,51d71f5e-96e5-4bc0-a656-e27e10dd4f32,60cf0492-f710-4089-ab4d-3433ac1dcd32,117015009,Throat culture (procedure),2442.97,195662009,Acute viral pharyngitis (disorder)
+12/15/09,9d1c57c2-ec91-46d8-846b-1ae7ede28e66,17e237cf-98ed-4d5a-a19e-dbce7b0d29af,73761001,Colonoscopy,9390.35,,
+8/30/86,3c2086bb-32e7-4d82-ba8d-fd981a57123f,464da62b-4ae1-4531-b35f-0e4e8b6adf14,430193006,Medication Reconciliation (procedure),742.47,,
+12/2/09,2ede7145-6a6b-4a41-be41-1d8759b2d9fc,0e35d003-2d3a-4932-9a6b-81aa99fbd20a,76601001,Intramuscular injection,1825.75,,
+1/28/11,d6dc2065-fd65-445b-a428-24c731688709,66fd4ff1-c3b2-4284-9312-bfee07d50ba0,430193006,Medication Reconciliation (procedure),396.02,,
+7/11/10,a6b6cc14-3bd9-44c2-b213-f380923df83c,c8ddf203-7660-47f1-bdfd-2ea73a27f0c0,430193006,Medication Reconciliation (procedure),652.89,,
+12/21/99,6d3ddc12-4ab5-4485-873f-45763c66e27c,8830225b-9839-4e2b-a89f-55c96855de9f,269911007,Sputum examination (procedure),4302.09,10509002,Acute bronchitis (disorder)
+10/11/09,1420a1fe-51c0-4f6b-863d-596ec4c89ec3,af362609-3826-42c8-8d4f-c01a614813ca,76601001,Intramuscular injection,1957.21,,
+1/5/11,9c262a8a-150d-4325-9a15-ba2d464740aa,e8bacbe6-70a0-477e-bef6-cc58f3a69542,430193006,Medication Reconciliation (procedure),715.83,,
+4/19/12,ebd8f057-77ec-4d4c-a9e1-d32315d018b6,0943ff54-f1a2-4e32-bfd9-08e09107761d,430193006,Medication Reconciliation (procedure),464.68,,
+3/10/10,c385a870-c2f0-4d0d-8b67-a6bd6b888357,2e5d6c44-3c62-4dd5-b192-71fcf99cd940,169553002,Insertion of subcutaneous contraceptive,13140.49,,
+1/8/12,f7cf76ca-108b-49f0-965f-d32e7cfe19d1,8bd3ceac-afbb-4bce-a295-0aeaba74570d,117015009,Throat culture (procedure),2582.17,195662009,Acute viral pharyngitis (disorder)
+1/31/11,e20d34bf-0c1b-4c02-ad8a-15124e278ef7,9dd2351f-082a-4e92-ac2a-9f61beef011d,430193006,Medication Reconciliation (procedure),775.95,,
+6/17/10,fbf7da40-a027-4c60-a872-e04d718bb505,d576f024-3678-4fcd-8a48-7e434e221c48,68254000,Removal of intrauterine device,6548.73,,
+11/11/09,1f0f7a31-714c-4831-a778-1fb0373dad94,e248470e-ea2d-49df-bfa1-94f5dd248b97,65200003,Insertion of intrauterine contraceptive device,9236.79,,
+7/25/12,0eb8992d-42cb-4828-b743-77246ce98f97,e017e03e-64f4-4f21-8d52-f193de12c094,430193006,Medication Reconciliation (procedure),409.65,,
+4/21/10,fd7f201f-76f9-4aab-9fe6-c40ae445f050,5c70f1bb-739b-4a49-bfeb-322502245f07,430193006,Medication Reconciliation (procedure),754.46,,
+7/5/11,eec0915f-6a4d-4fda-9f02-cf12660a5e1d,18ca7448-88be-4669-aacc-e24e13c95eb8,430193006,Medication Reconciliation (procedure),783.31,,
+10/11/09,78788540-6204-4c19-a147-79aa6e7b747e,51093a5d-9ee2-411f-9e6c-a32cb6e300ed,430193006,Medication Reconciliation (procedure),706.23,,
+11/29/09,27aaa65b-8f34-4559-a4db-25126b88f441,1f8c2771-09fa-47d3-8c50-dcd499962dd9,76601001,Intramuscular injection,4394.89,,
+5/16/10,a9ce4d34-5e7c-4417-96d1-22ca5ec75d2f,d85016d1-4ae4-4e13-907c-5365bee5ac1a,430193006,Medication Reconciliation (procedure),450.89,,
+9/26/09,a7e3b660-559b-43b6-b097-ef06202df647,33569135-ef03-4eec-8c4a-bfb9d11d7b13,430193006,Medication Reconciliation (procedure),696.14,,
+5/19/19,058ba250-99c8-457a-907a-ec9a04a1cd50,b9e4dd02-d050-4c7a-aeea-1764ff0b9b89,430193006,Medication Reconciliation (procedure),484.2,,
+11/8/09,956f36d6-c6cc-41b8-b220-52d225ed12db,7542b2fb-4d92-4a2a-82e5-309244950eed,430193006,Medication Reconciliation (procedure),489.28,,
+11/16/11,a726931f-ebb7-485f-ba92-de7ec35a000b,b34a9335-4ae3-471b-9449-015e8e8ee4a1,430193006,Medication Reconciliation (procedure),395.69,,
+6/7/10,a885c211-ed6d-4e88-978a-661993c88105,53c2e67f-4d6f-4216-8122-ca3440ca2b79,430193006,Medication Reconciliation (procedure),872.36,,
+1/30/10,4c5557be-9cad-4c7b-aae1-f40a8461f974,6e5fb043-f28e-42f7-b004-6a6d2585510a,430193006,Medication Reconciliation (procedure),650.54,,
+9/12/11,8e47055c-9c3d-444b-8b85-ae7a800f56e2,9c887b1c-3d6c-4429-b789-ce50c1459452,430193006,Medication Reconciliation (procedure),468.12,,
+2/2/10,a4b666ab-5c46-4a98-b4f5-fbbd41a14f77,d29871ac-270a-4d49-ab5b-caaefbaa618d,430193006,Medication Reconciliation (procedure),466.81,,
+12/6/75,d2578c4f-ad10-41b2-b9b5-6c1b6f096b0e,ef54f972-21d0-465e-b440-87fdecb16300,430193006,Medication Reconciliation (procedure),596.31,,
+7/25/10,c695aacc-3950-49e0-a26f-4b57f108bf90,64da0474-f9e5-4eac-9792-3b8715a568d2,430193006,Medication Reconciliation (procedure),934.66,,
+3/28/02,831016ba-3a5d-44a3-a543-0851ab110ad4,36480c1f-df9e-4175-bc40-b51e60c5cba2,430193006,Medication Reconciliation (procedure),601.81,,
+5/3/02,fdff4af1-ba85-4e67-84ba-ad30799987ed,93df67ba-1f62-42f3-8374-0beb4668be3d,430193006,Medication Reconciliation (procedure),922.15,,
+10/28/09,6b08cf9b-3c6c-4c71-a502-1b8f9ab37ed3,64ccaba3-a4da-4769-aafb-fd995e4c0d43,65200003,Insertion of intrauterine contraceptive device,11464.79,,
+12/15/09,bb004ec5-1022-4039-a240-ae02b44fe25d,6172fb41-32ef-444f-85cd-f1a4225aa13e,117015009,Throat culture (procedure),3068.8,195662009,Acute viral pharyngitis (disorder)
+4/16/11,e40f6a21-b6cd-40a4-997e-2062b3f5fde7,bc7eefa5-8bea-483d-af8c-a666f537bba8,68254000,Removal of intrauterine device,14893.07,,
+5/17/10,578fa8dc-090e-42f5-955d-8ee49032ef41,295a7154-88b5-43bc-9ee8-692c733f84be,430193006,Medication Reconciliation (procedure),791.47,,
+7/24/19,2c60c52c-4cb0-4b3b-b367-9343e4d44b59,d1da235f-5447-46b9-8907-bb11d5faa973,430193006,Medication Reconciliation (procedure),454.39,,
+5/13/10,c82f8db0-6ee7-4291-b159-fb3c9935da4f,cc26d1da-3f0a-49cf-a8ab-ea77d8840ec5,430193006,Medication Reconciliation (procedure),344.76,,
+5/23/70,dc924b05-9695-4b23-adc7-36518840ab8d,06b93d0e-b1bd-4d86-9706-dad16f979ccf,430193006,Medication Reconciliation (procedure),570.6,,
+12/28/15,cd1ba776-f1f4-47d6-bb84-1964726e0c99,1afe0524-8ec9-4751-8430-540c667ce665,430193006,Medication Reconciliation (procedure),628.69,,
+4/21/00,c8d8545b-d910-4589-bee3-81706ac88a5d,69c55914-49d8-42ca-876d-255838cc3d54,127783003,Spirometry (procedure),7847.64,87433001,Pulmonary emphysema (disorder)
+4/16/13,c0edf1c5-83c0-46df-b3b5-fdcb8f7c8998,284f08f9-e2c7-4107-a10d-4af5ed1957b8,430193006,Medication Reconciliation (procedure),607.75,,
+7/2/03,1adb61b6-44a5-400e-851c-bf82978012ce,ffba3c37-b350-46da-a3f8-5f761405b1d6,430193006,Medication Reconciliation (procedure),484.35,,
+9/12/16,5aab0f02-6ea5-4409-84d5-9e677d7369f2,962b0cf9-95a7-4754-8b07-cab1419e9265,430193006,Medication Reconciliation (procedure),860.81,,
+10/29/10,518e0e1b-46cc-47a4-af30-8d7f41ce0e87,52f264b0-4fae-4d2c-bcbf-5001c443ae45,430193006,Medication Reconciliation (procedure),531.7,,
+12/6/09,91e630a6-05e9-4ada-9a8e-7d2d1eb22d82,682cf1f5-b4ea-4adb-a22c-450163085088,14768001,Peripheral blood smear interpretation,516.65,,
+3/7/12,97c159e6-84bc-4378-b451-2fb3b017ead3,154e5e1b-d186-4cd4-befe-23501adb5e4f,430193006,Medication Reconciliation (procedure),338.97,,
+8/11/10,105db625-5ee6-495d-91f4-d272999e77f8,3a0f427f-ac57-4315-bdb5-aee10f5e0ad9,430193006,Medication Reconciliation (procedure),795.91,,
+8/25/14,a6051999-6d40-481a-8101-a2b35d332f3c,0720a6c8-4e0f-4a52-8aca-9cc28df23258,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+12/24/09,33bb8e83-3c9d-4b0a-b2bd-448f8ddc4bb1,a49f5291-b48c-44d6-b084-2e806eb578df,288086009,Suture open wound,14075.48,370247008,Facial laceration
+6/8/10,cc146f25-f6bf-40c4-98fd-b89cc8e0a757,5f312d19-945d-401d-a297-792e746441b3,73761001,Colonoscopy,18459.36,,
+2/22/12,6ba430a2-5ff1-4c90-8f66-666d6f23436e,360787b3-ef7c-4961-98ac-07934536b636,430193006,Medication Reconciliation (procedure),620.26,,
+11/21/70,775e3aae-d63d-43b7-bf3e-9d852fe61cb0,27a10aa8-622e-4633-bec9-0c609642cc33,430193006,Medication Reconciliation (procedure),645.5,,
+4/21/13,65cfad7b-6ff9-45e4-9a55-d2a47f623500,76b18256-69d3-4eb3-a1ee-8fc4c0e79061,54550000,Seizure Count Cerebral Cortex Electroencephalogram (EEG),13820.5,,
+9/9/17,877cccad-c100-47c2-992f-09acce8294d9,4c793de4-ffc8-4df2-93b6-b32efe110630,430193006,Medication Reconciliation (procedure),339.32,,
+6/20/10,a18bf2d2-8c55-41ff-8082-0d9401e738b7,6a0aea79-ab00-4b2a-a5f1-dad2ccd0976f,73761001,Colonoscopy,10455.41,,
+11/1/11,26b25140-d397-41ff-8673-24c5073261dc,857920c9-1a8c-4ab3-91f1-20589926d9b5,430193006,Medication Reconciliation (procedure),939.65,,
+1/21/12,60dd6ded-614d-49d0-96ed-54c0487bbe3f,4619c60c-152e-476e-a714-773efbd24abe,430193006,Medication Reconciliation (procedure),401.86,,
+9/14/10,42e767da-5752-4c9e-9d04-99fda497626a,71785fa1-6943-4313-9b5e-4e5ebf4d8e26,127783003,Spirometry (procedure),10936.12,185086009,Chronic obstructive bronchitis (disorder)
+10/25/09,dc3a5f43-2aba-46d2-8d06-aae7c7a44671,10d17176-3637-4475-a7ee-0b24ee561711,430193006,Medication Reconciliation (procedure),526.49,,
+5/3/02,f24866dc-9484-47b7-b438-fcd90aacdc1e,3e3bb960-4267-4efe-8b4f-c5f034761542,430193006,Medication Reconciliation (procedure),331.93,,
+4/10/10,1ae87f34-f0c9-4312-91cd-349dd9b790b7,afd15034-20a7-46d6-8b47-9b2f8649de3a,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+9/24/09,1784fa37-9216-476c-af21-b5d805f3276f,e64efbc3-06a6-458f-a87e-4b41916896a5,180256009,Subcutaneous immunotherapy,16727.14,,
+3/3/10,595fcb7f-198d-4a09-938e-dd0a09a6bb3e,f03f5b86-e0f3-49f8-a241-5ab2fe635feb,430193006,Medication Reconciliation (procedure),466.72,,
+1/15/12,7e5e03f7-a3df-44a7-8aa8-986c9aac74f6,f2fe8a78-acdd-4eb6-bc1c-fb3f057f035c,252160004,Standard pregnancy test,5485.62,72892002,Normal pregnancy
+7/12/14,d9aeda2c-c624-4d7a-aace-17c515acb355,1d9b5f11-5504-468b-abf8-a7044801fa06,117015009,Throat culture (procedure),3003.58,195662009,Acute viral pharyngitis (disorder)
+8/11/61,80331c96-bc34-4416-a204-4db5233f9b18,a6e0fd43-1df6-4193-990d-124664f28974,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+6/29/10,437dbcb4-ed0c-4608-a7fa-4b3a15129d24,a84ec29a-0b53-40d4-816c-559ff4c9e85a,430193006,Medication Reconciliation (procedure),512.57,,
+3/28/10,23ca21d7-552b-48c9-8713-42e1e8094407,fbfddf8b-27b6-4e22-aa77-514a37191f5c,399208008,Chest X-ray,8354.28,,
+10/31/15,9d9e7f44-9c50-490c-87b4-9a2c77ba17f1,bd4cb2f7-2864-4c56-942f-7a635d6bd441,430193006,Medication Reconciliation (procedure),834.95,,
+6/18/10,41166989-975d-4d17-b9de-17f94cb3eec1,3123dd28-53fe-422c-b782-87f131568645,430193006,Medication Reconciliation (procedure),575.01,,
+2/12/11,74b5bfb6-d6f8-434a-896d-85502d8bd7da,423c360b-c731-4e36-8232-d4a3ce436b27,430193006,Medication Reconciliation (procedure),547.16,,
+3/5/11,a1e2a560-efee-4735-8d42-d7132e55d1fe,a2adfed9-b6e1-44df-bb3d-3b79a78df33a,46706006,Replacement of contraceptive intrauterine device,6302.9,,
+3/18/11,669cd39f-c5fc-41c3-aff3-1ed7be7d40a7,c4b47ca3-25bd-41d1-b4f3-8e19d080f3cc,117015009,Throat culture (procedure),3168.16,43878008,Streptococcal sore throat (disorder)
+1/8/76,822c2111-815a-4710-85d8-4edc2b621576,d267b336-7d3a-4101-988c-767d7978a00e,311791003,Information gathering (procedure),516.65,,
+8/15/15,f732c9ba-7e0c-4faf-8084-b01031f7322a,a3d3ef28-6dcc-4a92-8368-4d1edc7778b3,430193006,Medication Reconciliation (procedure),780.99,,
+9/23/09,c08a8771-4cfb-458f-a248-d4dad06a6e17,919963a3-6b91-4b1d-80b3-f9bf184f573c,271442007,Fetal anatomy study,516.65,72892002,Normal pregnancy
+10/10/09,2725270a-c4e9-426c-8cdf-c5e05760bc56,9702817b-051a-4949-8157-c4ea131804a4,430193006,Medication Reconciliation (procedure),588.31,,
+5/16/10,43c64aff-e220-433a-a612-b755eb4154bc,a42e766b-7a3a-4f32-859a-fb8e7bef09b4,430193006,Medication Reconciliation (procedure),502,,
+9/17/13,c3dfa68e-44ed-4c14-b483-b0326d18c7f7,eacf01d7-9f23-4b3d-9dbd-26599e3a65f9,430193006,Medication Reconciliation (procedure),535.36,,
+8/29/11,921e8cd0-02b3-4af6-8e32-b55fb33b8c76,1404fe4b-d2ae-4f43-b617-4bd38a5fdb77,168594001,Clavicle X-ray,516.65,,
+6/11/07,8d94e0bd-a4e1-4f09-b552-eb46bdb10b7d,502cc2d0-cc59-48c6-b774-231d12e42849,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+12/4/09,a2854ec6-28be-48cd-b0db-4d4398520c51,cb191005-3114-4d0c-b586-44fd3b3059c9,73761001,Colonoscopy,19785.49,,
+2/2/11,ecd88fc7-b893-457e-815e-ebdcccf02e8f,6464171b-37be-4cea-8562-ddf01b92df31,430193006,Medication Reconciliation (procedure),637.91,,
+12/27/10,f51ca244-5b4e-4547-9841-4c3b3cfc0489,ba5aa608-2f8a-4fb3-8bcb-4dce564d814f,430193006,Medication Reconciliation (procedure),553.16,,
+2/3/10,3e671c1f-bad8-430c-937b-ac703d07c9ac,b9cf9032-3f68-428d-bc1c-d79584ddc373,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+1/19/19,e7802eb2-5c84-4ed7-9c28-6b78f030b649,7303cd0e-3096-438e-adae-bd88b30b7a06,54550000,Seizure Count Cerebral Cortex Electroencephalogram (EEG),15300.61,,
+6/4/12,b501777d-240e-4a5c-b611-d94f1965349d,17aa9fee-aad8-4436-82d5-9844e5986f7c,430193006,Medication Reconciliation (procedure),607.85,,
+3/20/10,000dd84f-9e67-4e1e-97e2-7b2917feb45d,33982391-5a83-41b2-a15b-c82ed9748d49,60027007,X-ray or wrist,516.65,,
+10/5/08,c8055f5f-6027-4561-abb0-7b8c2f40932e,14ddc829-d296-4f77-b7e9-c001ec6bcef3,252160004,Standard pregnancy test,6074.61,72892002,Normal pregnancy
+3/10/00,5f120ce1-8fd8-4257-83e5-5438b4ad5ce7,3e0b7141-303e-4724-949e-8d1adb5a5f5f,430193006,Medication Reconciliation (procedure),494.62,,
+8/4/10,473c6a11-3ddb-4f72-911a-17e9911dc666,e717f16f-0898-41b1-ac6e-658b8391330f,68254000,Removal of intrauterine device,8795.22,,
+6/29/18,d27c9395-c572-4d05-beac-7b4980005275,282d2750-8553-4f31-93e0-aeb3263e7c6c,60027007,X-ray or wrist,516.65,,
+9/28/09,f31a851f-0862-4ee8-8b87-23e4a2c6904f,3cee4816-a4ef-45b4-9cb2-112de7883054,430193006,Medication Reconciliation (procedure),550.74,,
+3/27/18,07835b7d-b27c-4298-99df-9657bb41c521,3fb65104-c026-4e1f-89c3-e7b021cf8350,430193006,Medication Reconciliation (procedure),375.48,,
+8/30/11,587e0faa-4f9f-45be-a546-a9020d1db94d,4cab527a-78e4-4e98-aa17-9ab1f51ca331,430193006,Medication Reconciliation (procedure),570.01,,
+9/6/19,b9a32653-9fde-401f-bb32-9932e680c456,94b12e15-aa64-46df-8411-d86b5295d97a,430193006,Medication Reconciliation (procedure),664.74,,
+11/6/09,08be985e-2377-4056-9d4b-02745416374b,1b00d9d3-afeb-464a-80d5-14143308c283,76601001,Intramuscular injection,2549.8,,
+10/3/17,e2129449-9c68-4155-a826-e22091aa4742,028f0acb-3d1e-47c7-9f91-8fcc7935b209,430193006,Medication Reconciliation (procedure),583.97,,
+2/5/12,b206d59e-5523-435d-8961-555907e6d3ab,5fe64223-986f-41fa-9e1e-226897f4619c,430193006,Medication Reconciliation (procedure),748.53,,
+1/1/10,deb78d57-823a-45a0-81f2-68bdb5f9ee3a,a586a8fb-71dc-4523-99c5-4c408eeaf51e,14768001,Peripheral blood smear interpretation,516.65,,
+3/23/16,51c567cc-6674-4327-af0c-8de4704addae,036b8d51-e665-4b2a-a2eb-3f8c5d8fe766,430193006,Medication Reconciliation (procedure),677.29,,
+7/5/18,a0269410-7585-4462-9baa-8347fa440862,4b8a9bcb-c399-4af7-a855-66daf36699a8,430193006,Medication Reconciliation (procedure),668.53,,
+6/30/10,694a2bf2-9d34-4c93-b94c-a643226621d9,61e8b818-0b96-4005-80c6-b4548f17c9f3,252160004,Standard pregnancy test,7776.54,72892002,Normal pregnancy
+7/17/10,cad06611-d984-4b3f-b7b5-80a73e11a251,8af19681-6eb4-4d5c-abd3-44cddc4cf4f8,430193006,Medication Reconciliation (procedure),720.69,,
+11/15/80,d0c2da75-7084-4c2c-961a-5aab9867e268,d5ee2035-4350-4bb8-8342-08535b19d801,410006001,Digital examination of rectum,516.65,,
+1/30/10,f3b5c3d6-d751-4cbc-b4aa-d21206ab55cc,1eaf0792-92d7-4555-99f1-4a9dd1be249a,430193006,Medication Reconciliation (procedure),726.56,,
+12/14/09,707570a5-32f1-43af-857a-5a2bae9f19fe,f98bdd16-3870-40ce-91e7-5706e59c130b,430193006,Medication Reconciliation (procedure),521.82,,
+6/22/13,b59b8dd6-0f95-438b-a473-1fa40abe82a2,a5d27b43-6fe7-42d6-b167-b7e216577a39,430193006,Medication Reconciliation (procedure),516.43,,
+7/6/14,59871528-6534-47da-bf5e-6ba844ec46f7,0c3dff3a-8694-4104-ac9e-f85f47254437,430193006,Medication Reconciliation (procedure),856.38,,
+11/20/09,d2304b77-2523-42fd-bb79-88a4cc5b5d04,ad4714d0-491b-4122-b9fc-2dcbc13be397,430193006,Medication Reconciliation (procedure),537.74,,
+4/15/10,99f7000b-5bbe-4e77-89c5-452b823e74d4,8ed9a1b7-d9ba-45fb-badc-84c19e6ebb07,73761001,Colonoscopy,12023.45,,
+9/29/09,2b4109b0-0a81-409d-ac15-ecc25bb91175,77e3cb6c-7269-443b-8def-ad7687112e3a,430193006,Medication Reconciliation (procedure),563.73,,
+9/28/17,d1ff9d88-61ac-4b87-8875-e70e4f2babcb,99369136-224e-4979-bec2-2f7fd1ab056a,430193006,Medication Reconciliation (procedure),422.04,,
+10/17/09,efe123ac-4ce6-4927-a080-0bb510aed495,6db5f3ff-15f6-48fc-abe7-126027f0f230,430193006,Medication Reconciliation (procedure),788.76,,
+8/4/11,582b89e2-30d8-44fb-bb96-03957b2ec7c2,d54218a5-103f-4410-a486-aa717c721c59,430193006,Medication Reconciliation (procedure),779.55,,
+5/7/10,a0609424-511e-45d4-9051-30a6b10269f4,39e9f073-8937-4541-a74c-fc9c927eae28,180325003,Electrical cardioversion,48509.54,49436004,Atrial Fibrillation
+12/26/11,09ba5e8f-05cb-4046-aae2-f19d9de22ece,082e04e7-a161-4088-ac74-ffe4327c83b5,252160004,Standard pregnancy test,7826.83,72892002,Normal pregnancy
+7/9/12,13e444ec-728f-4465-acc1-53e7700f053d,6e223720-5ba3-4815-8200-7109cefa62c6,430193006,Medication Reconciliation (procedure),693.93,,
+3/21/12,0c191d95-a486-4bfd-b20e-75837ee1a798,5982fc8a-cd7d-4a22-9a00-a3bb3e9304a5,168594001,Clavicle X-ray,516.65,,
+10/9/09,085793fe-58b5-42cc-b61a-034edb797d2c,4fcb0762-89e7-4757-bf53-a2e6729ae053,104091002,Hemoglobin / Hematocrit / Platelet count,2317.16,72892002,Normal pregnancy
+3/4/13,8ab208ee-16ee-4ddf-921f-604673909deb,7ce03209-f501-45ec-9fce-3775b91f67e6,430193006,Medication Reconciliation (procedure),575.46,,
+5/11/10,e966b7d2-12c2-45d8-a5f0-ff2713bec8a0,73b3592c-920a-481e-9790-6b3e2be082d5,430193006,Medication Reconciliation (procedure),571.7,,
+10/30/14,e51c0730-a8f3-4c42-84b2-5f907095e8c5,18939305-5e88-4a34-ae31-3491e7e8f0ca,430193006,Medication Reconciliation (procedure),728.81,,
+11/10/09,ddd7655c-895e-4024-8938-77324122f34b,7c72f652-9597-466f-bc0e-c9bfa41be7c3,430193006,Medication Reconciliation (procedure),708.19,,
+6/4/10,cac7fa38-f58d-4fad-85d4-2a3ea71fe116,239fca5d-9d3c-4de1-abd5-e210ac6993e9,430193006,Medication Reconciliation (procedure),745.58,,
+2/4/13,13624a27-023b-4ab0-96e6-660e1ae3ff2f,c36ba75a-73d2-4670-8ef2-b5c05f2b48a3,430193006,Medication Reconciliation (procedure),899.79,,
+1/28/12,88173b65-190d-4fb0-8a24-0820fff9702b,73f28eab-d3be-446a-8e14-50fcca34664b,430193006,Medication Reconciliation (procedure),454.36,,
+2/24/10,576257f4-6a57-43b9-84e3-1cf50eb3f6ee,2ce41389-85b0-4ba6-a7f8-bf2400628b81,269911007,Sputum examination (procedure),4862.64,10509002,Acute bronchitis (disorder)
+1/25/14,049639b3-ee64-4e48-b0ac-8e26d0a21738,828e34bc-3551-4723-b191-45153b7c7e9e,430193006,Medication Reconciliation (procedure),924.43,,
+9/17/10,ad884fbd-3f2f-499a-88fd-b624093916a7,6be8a43d-7afd-430e-9402-c62b811b6af3,430193006,Medication Reconciliation (procedure),735.75,,
+3/30/10,66d017d6-97ae-4de0-b02c-2c1caa5cddf6,a84a2202-6dbc-4a3d-b0fe-215e73ed1bd1,430193006,Medication Reconciliation (procedure),928.61,,
+3/7/12,e4340ebb-f2af-4a25-adc1-742c46fbc5c0,cee629ff-7d60-4de2-a035-e9a06d887e6f,430193006,Medication Reconciliation (procedure),710.41,,
+8/3/10,6578a971-f801-48ce-a5d1-e5af398f8f3b,92306987-bac1-4557-82c0-973fd77cb09d,430193006,Medication Reconciliation (procedure),380.54,,
+8/1/11,5a3a336f-1b8c-42ca-9e82-22b9b3c5cd10,2c138f07-50c0-4785-9f35-f4614e0b5a0e,430193006,Medication Reconciliation (procedure),526.48,,
+1/6/10,831bd1b9-c239-4bd1-8928-e52ff28a864b,a0285bf5-04f4-4a5a-971a-819680084498,430193006,Medication Reconciliation (procedure),503.55,,
+6/2/14,7db48a3c-2542-474a-aa3f-309d0b047633,660f576a-7484-4009-af1e-5a55f3da141a,430193006,Medication Reconciliation (procedure),627.61,,
+2/11/11,c6f3fbd2-043d-4c89-bb02-96c06434aca4,0f2c911a-7875-49ef-b89c-e8cae256d4aa,430193006,Medication Reconciliation (procedure),476.13,,
+7/18/13,19b766a8-ed5e-4c16-8f83-435abef893c4,344f2ed8-eec7-41a9-bcf7-2cc0aad8763f,430193006,Medication Reconciliation (procedure),549.99,,
+11/3/09,93eed35d-fe77-43be-8143-b628e74ea70b,aa4c64e3-43b8-414c-a5ff-e9a5beb6bfd5,430193006,Medication Reconciliation (procedure),602.75,,
+12/18/09,3f9c3fd5-1861-4e0c-a5ff-00aff8a14de2,456676ee-0fd1-4e38-aaeb-1caeca8e98cc,430193006,Medication Reconciliation (procedure),850.68,,
+6/14/10,19a59dab-166b-4e6d-ac52-8164e119d26d,33843082-9005-4c8b-ba4b-2c7d9c94d067,180325003,Electrical cardioversion,23975.77,49436004,Atrial Fibrillation
+8/29/10,da2d26a1-1aee-43c0-a0b1-b0b6d3e63e6b,ecbec9a1-70ca-44be-a2db-598ad63ca171,430193006,Medication Reconciliation (procedure),444.15,,
+2/28/10,a8aaf0df-ff0e-4511-86cf-cb392e15a878,948547e3-62ad-4164-817f-f5a2ab0538f7,430193006,Medication Reconciliation (procedure),398.14,,
+12/6/09,558cd80c-07df-4207-baa1-5110400a4a31,05c737e0-b54d-4056-90cc-b5afdcef984e,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+6/20/11,a728221b-1bce-46fc-b748-fe2fa9584507,34527193-5867-49de-85ac-286251d1057d,288086009,Suture open wound,14419.64,283385000,Laceration of thigh
+7/2/13,88ad633c-500e-422e-b415-2272f42c4cf6,8998df69-2750-4009-8358-d388871c5af1,399208008,Plain chest X-ray (procedure),9132.75,10509002,Acute bronchitis (disorder)
+11/7/11,fcfae702-20ad-4414-994b-29ee9d3367de,a09149a1-511e-44a8-9437-4a3f7dba9154,430193006,Medication Reconciliation (procedure),397.97,,
+11/7/09,6fde96c6-95a8-4008-a98e-c7bece36e17c,4fb6693a-7bdb-4f63-b60b-c4fe66699a55,430193006,Medication Reconciliation (procedure),585.95,,
+11/4/09,8cbe06bf-17b6-4ed6-8337-b55dad7bdd52,ea791abc-8f1d-4913-a56a-b73e5bc1fa79,430193006,Medication Reconciliation (procedure),716,,
+11/29/11,60ca22a7-3976-45a0-b20a-ab14ffc0512d,8dcbdc68-3add-437a-b409-d1e1e5abe72a,430193006,Medication Reconciliation (procedure),1009.07,,
+5/4/16,545c2380-b77f-4919-ab5d-0f615f877250,61767d76-0811-488f-9464-c60954a9c63b,288086009,Suture open wound,9883.42,283385000,Laceration of thigh
+11/13/09,85be1084-1e12-49d5-adef-e7e82b833138,1b28dfdb-5654-4f1a-9221-2405491e8102,76601001,Intramuscular injection,3046.48,,
+7/1/08,497c0d0e-4402-4b13-b33c-fb0a3623a59f,55c31c3b-424b-40b7-986e-c063a30fe4f7,117015009,Throat culture (procedure),3022.79,43878008,Streptococcal sore throat (disorder)
+4/11/10,38d96942-b312-4458-a251-2e81ad788a25,b6c01ffe-e648-4d9b-9c9f-ed9da574f04b,252160004,Standard pregnancy test,8416.71,72892002,Normal pregnancy
+9/19/11,5078e1b1-a9ac-410a-9bde-dec8cf327519,6906ecda-3024-44a9-b637-fc2b6dd5eb68,430193006,Medication Reconciliation (procedure),715.31,,
+3/7/10,cd9c52ca-a6d7-4eb4-b676-8208af287e75,496b606c-d4be-455c-b1ac-14504874bd10,430193006,Medication Reconciliation (procedure),340.25,,
+6/25/10,fe41aba3-cec7-4769-aac8-d17e3f0b1929,39a40e60-7c5b-4c18-9018-91c9a8c09f6f,127783003,Spirometry (procedure),11234.54,87433001,Pulmonary emphysema (disorder)
+6/4/10,7c2b61e5-e67e-422d-8c4e-71bc4635628b,807468f3-a97e-4d60-96d8-e59808b1a2ca,73761001,Colonoscopy,11323.31,,
+2/6/16,c8e08711-e4b9-460a-b124-50acc921d38b,5ac90900-97cf-47e6-8ac6-3cbc534d71af,430193006,Medication Reconciliation (procedure),379.85,,
+10/2/09,2209be04-a272-446a-a6f7-1292e730f456,fdd0b53f-74ed-4197-b607-51c0b926454c,430193006,Medication Reconciliation (procedure),627.56,,
+10/23/06,805cac74-6094-4f3a-aea5-2029537ba82e,f401ad61-073e-461d-bd47-4dad96a29d75,127783003,Spirometry (procedure),10864.12,185086009,Chronic obstructive bronchitis (disorder)
+12/5/09,13dca7bd-5456-4b5d-b688-60c2abf02a19,4b965e58-b397-4e28-85a9-5aac6f72f6d3,430193006,Medication Reconciliation (procedure),787.32,,
+4/22/63,3359daf6-eb6c-4587-bdfe-79271e0b5949,59465fa2-29f0-45cf-bd0b-92f461773f94,430193006,Medication Reconciliation (procedure),623.58,,
+10/15/16,0d864b3e-018d-4bc8-b3fe-a7d7b9fa1637,47793288-d72a-4ee8-8342-dd957830fb13,430193006,Medication Reconciliation (procedure),796.86,,
+9/6/10,f022a454-76e4-4172-bfbd-be36abb2b48d,2c7514af-725c-43c3-9433-97d930164d58,76601001,Intramuscular injection,3438.18,,
+6/18/73,7e3221f0-593e-4d91-8b1d-0d478d97fb2e,a69482e5-7897-4e2c-8ad9-e84f87810737,430193006,Medication Reconciliation (procedure),359.54,,
+10/26/09,ebba8871-d7f1-43cd-9f9b-0ce17482127f,4632a958-1ee9-487f-80ec-f83c54e5e6a0,430193006,Medication Reconciliation (procedure),863.32,,
+11/3/99,5e6faf05-4edd-478b-ba16-c3c9ceff1f24,d11ba921-d063-44bf-9299-844c1f9a096c,46706006,Replacement of contraceptive intrauterine device,14619.1,,
+7/6/10,0098f816-81fa-4113-8441-4e48fa3e0c2f,8c292011-b53a-42c6-b37a-a1c2fa1f0cff,430193006,Medication Reconciliation (procedure),745.57,,
+11/24/17,df033712-17b8-4a10-9796-aace8f50ef3f,b78f9f75-f461-4450-adc5-4b8b98f89b7d,73761001,Colonoscopy,15630.33,,
+11/1/10,290af2c4-75db-40ca-ad63-d731eb19533e,f7ac15f9-6b28-4f29-9911-6e7b4aed1727,430193006,Medication Reconciliation (procedure),913.24,,
+2/24/14,37c2654e-3390-4a15-b615-99523f571ecb,6dc7cfa4-c1e0-4b3a-af10-4c1c258dc5ff,288086009,Suture open wound,16622.55,284549007,Laceration of hand
+6/11/10,2a731e03-eb5a-4511-8761-8775d4401e18,b5004b79-de8d-4e31-b74b-55caec172e2f,430193006,Medication Reconciliation (procedure),485.75,,
+10/4/09,275771b3-1a43-4b14-889d-30d990825c9f,a4329a3f-954a-466a-a4ca-2cd008927aec,183856001,Referral to hypertension clinic,516.65,,
+9/12/12,ec3c0fff-fbe2-4ccb-ac9e-d08004335c4a,5e674c8f-62bf-4a58-81f5-d7675c945acb,430193006,Medication Reconciliation (procedure),461.4,,
+5/30/05,3333af9a-cd4b-42a2-abe8-c08f53f17ae0,15a2a00f-c1a3-4c99-ba64-c8c7bf3bff17,430193006,Medication Reconciliation (procedure),637.52,,
+1/27/13,b038b96f-6203-4bd7-bb46-46511bd55105,a0710ead-28f5-4c06-995a-e17298916330,288086009,Suture open wound,10711.88,283371005,Laceration of forearm
+7/29/10,1d5589ba-8340-4e58-8124-ca0812fa9c39,ab55c406-c5bf-41b0-8107-60c6c2fd8880,430193006,Medication Reconciliation (procedure),560.25,,
+5/24/10,161eb77f-dec7-4104-92a7-00413b5637c1,80e738d1-9f63-4300-b550-b7055626adda,430193006,Medication Reconciliation (procedure),413.43,,
+3/8/10,10ea5009-5aa7-41d8-9cc5-6652a2ce295e,99fce05c-f6c2-4592-803f-8b1b20118730,73761001,Colonoscopy,19585.71,,
+12/30/09,467237f2-3b91-446c-b6d7-db158947bc47,fc2f66e4-a437-4874-b932-c97894490675,430193006,Medication Reconciliation (procedure),720.31,,
+9/28/09,4d1e6882-a78a-469f-8100-1dd60ba23d45,003263c8-6f08-4578-9b9e-583eb5b93310,76601001,Intramuscular injection,1713.48,,
+3/19/10,2ea28da9-0367-4304-bafa-63c472340347,b30025d6-5999-4591-8b2c-396ba685f3ae,430193006,Medication Reconciliation (procedure),691.75,,
+5/18/19,73bbcb22-ec2e-43f2-af1b-52b1b0f7065e,ab335f23-aee6-4e74-81c1-27fcaf19ebe9,430193006,Medication Reconciliation (procedure),384.49,,
+10/27/11,5d407123-05dc-4f70-b341-05ab13a2435a,d5839c71-0d6d-4ecc-b302-760c8e708b76,430193006,Medication Reconciliation (procedure),552.11,,
+7/21/11,9440b11c-b04d-4786-86da-3000339d78c1,8b4734f9-b0be-461e-adec-32b621123234,430193006,Medication Reconciliation (procedure),413.85,,
+8/28/13,305b33cc-1530-4634-963a-d8f175fb9785,64056eb0-b6b5-448e-b68b-b9794ba4555b,430193006,Medication Reconciliation (procedure),497.76,,
+8/2/11,fa95fd80-ce47-412e-9171-b2eb42c08dd5,bcfe876c-27c9-4eec-b638-5d7414e07907,430193006,Medication Reconciliation (procedure),612.36,,
+9/20/12,eddcc500-f882-4856-94ae-181e0e6be3b6,b1f4221c-bbe2-4852-9cce-ea09c41dc006,430193006,Medication Reconciliation (procedure),729.78,,
+12/6/10,78c12855-9079-46d2-aa1d-57cde5fbfc93,121b1e6d-a51e-4d33-b2b5-cc5090733e5f,430193006,Medication Reconciliation (procedure),462.36,,
+1/11/11,b5748ad3-0552-498f-8143-fb595e646b71,97fe83b2-b731-455c-9f4e-07232e3e6be4,14768001,Peripheral blood smear interpretation,516.65,,
+9/23/09,7609d729-1675-488c-8373-7e53327ae67f,79a09a7f-4aca-424d-b07a-5413abdd7313,430193006,Medication Reconciliation (procedure),841.18,,
+3/8/13,f95e57c9-372e-4109-8529-96882c5006af,9e03f80f-6df8-4a11-a0a6-65c47c968546,430193006,Medication Reconciliation (procedure),772.96,,
+2/24/11,4f721842-d7a3-4ed8-99a0-b1eb66eae2c5,09458b04-002d-4412-80ae-940ba4b6f173,76601001,Intramuscular injection,2135,,
+5/14/10,7b0c45bd-3266-4e6e-b85f-436e909688b2,6d2391ac-bdfc-4ce9-8418-c0c26f74f3e4,430193006,Medication Reconciliation (procedure),692.03,,
+5/26/11,41e2c1c5-477f-46d4-ad64-3adcbe1f6aaa,299be7bb-8d7e-49a6-aff6-eef501e0b4ea,168594001,Clavicle X-ray,516.65,,
+1/7/80,6fa3d4ab-c0b6-424a-89d8-7d9105129296,5de67527-24fe-4861-88d0-ba1b1548a7e4,313191000,Injection of adrenaline,3341,,
+11/9/09,ef772f4e-4bd2-4d76-a576-f63baea4e89c,b4ee4cf3-eb27-48bb-af4e-819af1b47b6c,76601001,Intramuscular injection,4093.67,,
+10/13/14,ae5b3987-68f9-4008-af13-e63d18b98c5f,77ffc128-2f35-4b4f-9a8a-e6735551287b,268425006,Pelvis X-ray,516.65,,
+3/28/10,94aced77-4ab1-4c5a-8833-aec755cd5337,091de2c4-82c9-486c-89e3-687701492500,73761001,Colonoscopy,15901.6,,
+9/23/09,f42c7e4c-fc13-4aa7-9d58-352d31ba9105,0d6426a9-0f88-4196-a773-60a77a1eb316,33195004,Teleradiotherapy procedure (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+11/1/09,6cf00f54-d564-44a4-8091-876476b9def2,d30e2a8b-2215-4476-a2be-64968437ccd0,430193006,Medication Reconciliation (procedure),420.45,,
+2/16/16,0e5a9972-faf7-47e3-9e9d-b9f0feb7faf6,a46e8ab1-0d73-442b-94dd-dcaa3da27088,430193006,Medication Reconciliation (procedure),370.01,,
+11/5/17,375a1f5e-2a4f-4646-b67f-1dd6a93b06f5,cd0cd549-aa68-4a1a-af83-1ec60e85f737,430193006,Medication Reconciliation (procedure),642.69,,
+6/29/11,0df7c857-8889-4915-96e6-0e9a062b54ec,5ffef35d-b72d-4f9c-a0e9-8a42a46c3407,430193006,Medication Reconciliation (procedure),336.94,,
+12/10/13,cf3375a1-f10d-4b56-9b54-eb43d2bbc18f,16465c66-d2c6-430e-8046-b22820155509,430193006,Medication Reconciliation (procedure),816.11,,
+7/4/17,2c2283d6-7351-417d-b895-d9f4a9875c91,f32b4626-1180-4aee-9ad8-47dc3efc08d2,430193006,Medication Reconciliation (procedure),491.61,,
+10/17/09,d9490f91-a89c-4bfb-a0b3-59f68bcd6b5e,365084c7-9793-4421-8b15-40736614181a,76601001,Intramuscular injection,1775.87,,
+1/25/14,02614ff6-ee7c-4b4e-b677-e478e44dfb67,20f701b7-a27f-40b2-b49f-a04e5d563273,430193006,Medication Reconciliation (procedure),773.15,,
+8/10/10,18a581f1-62b3-487f-a5b1-cb2e13d44b42,97583063-e71d-4490-b848-f92c1d89b1ce,288086009,Suture open wound,17072.76,370247008,Facial laceration
+12/31/11,ad0f0573-f8c7-4704-9eef-50342d37ef50,060504ac-2005-4fbb-a497-65f6f03837ce,430193006,Medication Reconciliation (procedure),447.84,,
+11/2/18,7ee0db0b-6db5-41fa-8dfc-df96c6d67efc,8ffc4fd5-b070-427a-8578-cd64f2559074,73761001,Colonoscopy,10731.03,,
+12/29/14,d2ed482b-8ba9-4401-86e9-3fbaadf533cd,19181c8a-0b30-4f93-aa80-4e8259a9e521,430193006,Medication Reconciliation (procedure),283.45,,
+7/30/17,aabe3c81-5ac3-4136-bdc0-bbf887eb15ce,22874da2-2d8d-4daa-b9a3-b6edf82831f1,430193006,Medication Reconciliation (procedure),261.75,,
+12/19/09,0fbf1455-607c-44c9-9183-4259ba00222e,c08644e8-c041-4791-888f-7138c2f3bd58,68254000,Removal of intrauterine device,12404.53,,
+1/30/10,331ca448-c3df-4755-abcc-508ac4dbdf06,50cc90b3-bf0e-49d3-a9f1-f7f219a51347,117015009,Throat culture (procedure),2787.42,195662009,Acute viral pharyngitis (disorder)
+9/14/12,77fca23a-964f-489b-a27a-e5e0cc697b6b,a2dcef83-5184-44d4-a085-7db0a816e3d5,430193006,Medication Reconciliation (procedure),518.15,,
+7/28/11,9411b639-599c-4128-bd6b-ba9e7fbb097b,9818c1a8-3050-4d76-9d92-7405428fe521,430193006,Medication Reconciliation (procedure),485.47,,
+4/17/11,71e3d0af-39d4-416c-9bef-12c14f3bb821,5dc23270-a574-4fd0-b42d-77aeb6690172,80146002,Appendectomy,15004.01,74400008,Appendicitis
+1/20/10,9dec37cd-56da-4ea4-b3a6-2e46ffc84d32,7dffcc9d-b49c-4f29-98da-5e4101840371,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+1/12/10,65820eb1-550f-4766-be8a-f2c9ee1734c8,0e0361b9-6edc-4abe-b2d5-c7360bb39ec4,68254000,Removal of intrauterine device,15868.9,,
+6/2/12,91d46f0d-b2c3-4f3a-829d-fb95f60535a7,18c0a20e-d223-46ce-abdc-d1a9dcd6704c,76601001,Intramuscular injection,3302.72,,
+9/11/92,4b0e61b9-c2a0-485d-beb6-a9e0cd43e131,5227ed3c-f3aa-455c-827d-b6493c2d95cc,430193006,Medication Reconciliation (procedure),564.06,,
+1/15/12,dad6830d-e889-4c6c-9680-7e96f2e9fbf9,af888049-f14c-47d8-b076-8c17f4513cdf,430193006,Medication Reconciliation (procedure),765.65,,
+8/29/10,e767635d-e538-41ff-b1ad-a3bb3895855e,76c51063-90f6-4372-b5cd-34734e73c1ea,430193006,Medication Reconciliation (procedure),563.61,,
+5/1/10,14e81704-a7b0-4469-989e-d63b88f4aa25,bd758887-c712-4bec-9675-f3987f43832d,73761001,Colonoscopy,8740.16,,
+4/5/15,15219c2b-d3f4-486c-86c3-b6b2822ad4d7,eee7c319-54c7-481f-a45d-8760f85fb541,430193006,Medication Reconciliation (procedure),435.89,,
+9/22/09,68272835-3cf6-4484-a370-5cd49238c9d1,553273b0-d06e-482e-9cb3-0e546ddc0bbb,76601001,Intramuscular injection,1984.61,,
+12/2/10,cf2b7423-8e7a-41c9-ae8e-1dd3d1592d1f,e5d8ef6d-e08f-4caa-95cd-c77f9cfb7a9d,430193006,Medication Reconciliation (procedure),945.86,,
+8/15/12,746b448a-2afc-42ff-8272-5b94585d2376,b22ec6b9-45f4-4a7e-84e7-d468ffc9eb55,430193006,Medication Reconciliation (procedure),670.37,,
+12/30/09,43db60c1-b56d-4358-aa48-fa30ace21810,bbe60e11-5b40-42d6-9d07-9b23b0053ae5,430193006,Medication Reconciliation (procedure),528.24,,
+9/15/10,e33ad153-3319-48c5-aacb-600cdb212a46,6d913e17-ed05-42b7-bc57-f0790574bf2e,430193006,Medication Reconciliation (procedure),453.31,,
+8/15/11,7f843a5e-223a-4920-b937-37890c73551e,669076c9-93d5-4804-b5ef-a14790d47b8f,430193006,Medication Reconciliation (procedure),506.37,,
+7/20/10,792be1e3-308b-4093-b4fe-42919c8fd458,951073ec-8645-4d91-aa47-175471c7db95,46706006,Replacement of contraceptive intrauterine device,13223.78,,
+12/18/09,c71fe3c8-9b7e-4d14-ba20-32f93d975f94,3cf915a0-2f0e-44a6-ba33-944e1c5d7507,430193006,Medication Reconciliation (procedure),357.78,,
+2/22/10,1d761023-30e0-4326-96d9-74343c66fa9a,6e8070b1-ad21-41d2-8aca-286a8e90ae59,430193006,Medication Reconciliation (procedure),667.69,,
+1/12/10,5cb3f714-91f4-4b9f-bd58-dc64d8dd3a04,329d6da0-a5a6-4349-b88c-3b35b07f88bd,288086009,Suture open wound,14043.82,284551006,Laceration of foot
+9/30/10,a18018af-5b1a-4f47-8ef8-c4a5a6178086,c5ac72cd-a37f-4973-b366-ed280c7684c5,430193006,Medication Reconciliation (procedure),935.46,,
+3/19/10,b47515ef-302d-44cf-b4f0-6ac99e257adf,aed75a23-a891-4b7b-b33f-5a2c714ea55e,301807007,Removal of subcutaneous contraceptive,7224.64,,
+8/11/14,ccebc7f6-e217-4e5c-9594-bbb4b364f3d2,33f9b431-8b78-45cc-87a1-0af60fbf82be,430193006,Medication Reconciliation (procedure),346.1,,
+10/4/10,53d82273-242b-438d-8056-adc9dc3f3078,a64da7a6-e2d6-4a0b-8d20-6daec4b55156,22523008,Vasectomy,22045.62,,
+11/2/14,95da048f-5356-4562-b7a5-c4c65175127a,52eff559-e400-469b-b24f-c29b3e0dbea8,60027007,X-ray or wrist,516.65,,
+7/3/11,bcf14425-fe75-4a5a-b75b-c67ffe1873d2,44258589-b6ff-47c7-bf7b-ca15d80ebe14,73761001,Colonoscopy,15240.65,,
+3/18/13,ee641e76-ce1f-42d1-9d4b-2afcccb65f78,d083204e-588d-409f-b180-4436f25d5958,112790001,Nasal sinus endoscopy (procedure),10710.24,,
+12/7/10,2fa15bc7-8866-461a-9000-f739e425860a,f8616a1c-6130-439b-8497-4bcc3c5b0f5e,73761001,Colonoscopy,15269.76,,
+3/25/10,831247b6-bc45-49e6-a731-3000f197eab0,9f48ad25-a8fb-4bcc-ab73-ad3a8af6b95e,252160004,Standard pregnancy test,6041.71,72892002,Normal pregnancy
+3/9/10,ceec043c-c21a-4fa8-9b18-2bd261e2d3f0,344a588a-ae2d-4373-9dee-d29c3d798526,430193006,Medication Reconciliation (procedure),375.59,,
+11/16/09,c51c2aeb-81eb-42c6-84a3-cff702570054,64367883-59ef-4462-8629-850da11cdac7,288086009,Suture open wound,15720.83,283371005,Laceration of forearm
+10/23/09,0c671dba-1171-48f8-935b-44d85db8f457,2d27cd53-399b-451f-a299-b8b1ae3c9750,430193006,Medication Reconciliation (procedure),877.03,,
+9/23/10,64095052-ee73-49df-91e0-a99d61981287,18fa71fb-e803-4ee6-8823-aa628260f038,430193006,Medication Reconciliation (procedure),590.92,,
+11/30/14,20123c13-40e7-4134-8a18-58c57be98c74,71c96005-3adb-4601-9105-d3bdfc4dbf37,430193006,Medication Reconciliation (procedure),812.82,,
+9/17/10,bd74a328-6219-47f2-aa5c-43ae5e2689ac,200e50ac-b58e-408e-89d2-e9d6b26bdff5,430193006,Medication Reconciliation (procedure),400.73,,
+3/13/19,891a83bf-0d41-4cc0-bc15-a18a892c33c4,9abcce8b-a31f-4d14-80e4-8c05ffb48f51,430193006,Medication Reconciliation (procedure),912.56,,
+11/15/16,4bc69082-9614-4156-b3ef-81e70c2c107a,6f8fbb64-d7d7-4e8b-9fca-ff97ae004daf,430193006,Medication Reconciliation (procedure),634.25,,
+4/15/84,2205569f-ef28-42a4-a310-20414aa9c82a,b002ae04-580b-473c-9422-4d3742f2d641,117015009,Throat culture (procedure),2498.07,195662009,Acute viral pharyngitis (disorder)
+8/27/12,75b72703-7516-472e-b73f-c539638a5955,bd74572f-7c44-48c0-a3a0-1f06959a22b6,73761001,Colonoscopy,14252.8,,
+1/22/12,e88db27f-cb6a-4d3a-9f1e-0731ab339b93,61d46f3a-8173-40b8-b602-79e73a3d1ef7,430193006,Medication Reconciliation (procedure),536.32,,
+1/10/12,3d83919d-1ec1-4867-a8ca-c58be682f788,a887b62d-9f82-45e0-b768-64cb237eb85d,430193006,Medication Reconciliation (procedure),526.81,,
+5/31/10,ffd89c75-5428-4e3a-b506-c11590ec06f1,093493d8-58a4-44ec-8b59-46224a7be54d,252160004,Standard pregnancy test,5266.15,72892002,Normal pregnancy
+4/13/11,277bea41-b704-4be3-972a-4feee4e2712b,8dfefc68-20b6-4707-868a-78a4aa535218,430193006,Medication Reconciliation (procedure),917.79,,
+11/4/89,1f780a7a-bdc5-406a-a6d9-6a349187110c,25aea02c-81e5-4b64-9d38-aae5cd3e752e,430193006,Medication Reconciliation (procedure),674.28,,
+6/7/01,d1204b7d-1170-4fca-8488-a2b485d11240,e7dad631-997a-4606-952f-c1f8d64d96c7,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+7/31/11,fbbd8662-45fd-47f8-9b46-678f6acaf229,46b456fc-8a1d-4338-92d0-d1eac456074e,252160004,Standard pregnancy test,8875.53,72892002,Normal pregnancy
+2/10/04,4302646a-17c0-4b5b-83ea-1d3b909358c7,34e8e41b-10f9-4b83-a539-68efd676f48b,73761001,Colonoscopy,10284.08,,
+8/28/10,d8c908da-de6b-41da-8abf-96b27df2518f,d9a3c6a9-0b8e-419c-8807-cd90298f1bc0,288086009,Suture open wound,12489.88,370247008,Facial laceration
+9/23/09,2a77da6a-db5b-44fa-8a3e-af4d38c6cddc,11347d5f-e597-4dd0-88fe-9e2c7b2127fa,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+10/13/10,f0ee9e0e-77e7-478e-9e50-0ca2f8eb9f5b,d003acd4-17f2-46bf-a990-b64bccc2c18b,430193006,Medication Reconciliation (procedure),733.9,,
+3/10/73,a9f1ba5e-934b-4e0b-b3c8-615d31361a7c,04e2693e-f6cb-4aba-b60c-4dd634419b3b,430193006,Medication Reconciliation (procedure),466.69,,
+1/17/12,2d3b21e7-11ef-4dd4-9842-ddac21402a35,b836162d-dac5-4fd3-b1d5-0e018ad1bb73,46706006,Replacement of contraceptive intrauterine device,9373.55,,
+11/1/09,78480da7-7361-4c99-bfb9-339a403d9ae1,2195550a-965f-4181-b29a-de2d310a786f,430193006,Medication Reconciliation (procedure),705.19,,
+10/20/10,911063b9-9330-41c2-bafb-156e68b308f5,c5fb41b0-e136-442f-8fb4-3e6a0c053c27,430193006,Medication Reconciliation (procedure),520.17,,
+6/28/96,9be7f666-14f5-48bf-919d-5e6346cb11ed,28d8c77e-91c3-4d56-abbc-0904a4d43c93,73761001,Colonoscopy,19494.57,,
+5/4/10,5d2fc326-143a-4b65-a817-56f71d0e4260,fee69f7a-db1c-439f-a2f8-652c82731ded,430193006,Medication Reconciliation (procedure),309.69,,
+4/12/99,5b93c8fd-c90a-4350-a569-b7ecd1b67a44,0626e816-fbcb-4430-b76d-5c9348b95223,14768001,Peripheral blood smear interpretation,516.65,,
+3/16/10,6fe47a09-54ff-4be2-8909-922937c1fa05,7b883d82-d523-42f9-b67a-3700c3039833,430193006,Medication Reconciliation (procedure),341.6,,
+8/16/10,4bdcf6d9-6917-43bc-9263-21320abdb391,c52f28ca-0f4a-487c-9725-e5875d19d041,430193006,Medication Reconciliation (procedure),590,,
+5/30/87,8a2daaa0-3517-470f-b2fc-fab5a12b4bb1,09985e8d-272b-4047-8c8c-6cd5939bb228,430193006,Medication Reconciliation (procedure),725.92,,
+5/16/10,3a39e3aa-c627-4787-8a8f-37759dfeb868,a602e073-9bdf-430f-b5db-6a43ba430c38,430193006,Medication Reconciliation (procedure),476.3,,
+11/24/09,cb4d5260-f573-4f4f-8816-84a0818cbe39,77a7627c-4bd2-45c5-86e8-4d228aa225f6,76601001,Intramuscular injection,3726.33,,
+11/5/09,31421605-a6af-4616-adc0-892d00bdb89f,13761938-b2cc-4c03-9e61-b1627c019fa1,430193006,Medication Reconciliation (procedure),389.39,,
+4/19/10,041c384a-025b-4af9-b325-dd74dfb3d54b,073de4dc-da78-4574-8634-548780dd3082,430193006,Medication Reconciliation (procedure),495.69,,
+6/2/09,c3127664-ea4c-482c-953a-92f24da84bba,0a8ad852-274a-4173-a2b1-817861bc551e,71651007,Mammography (procedure),516.65,254837009,Malignant neoplasm of breast (disorder)
+10/19/09,736aec9a-fba2-4b15-ab38-09af9998c035,f248fbb3-9df8-437f-ba2f-7ffd299d1d10,430193006,Medication Reconciliation (procedure),469,,
+11/8/93,1b5a3b41-6c4b-40f6-86b0-32d19b2501f5,9ed38db2-47b9-442a-9872-1a42d5ad82ee,430193006,Medication Reconciliation (procedure),909.2,,
+4/11/11,6d13dea8-401d-42d1-8451-1b3e78ead850,dbd9348d-a571-43ec-b94c-6edbd6f40cba,430193006,Medication Reconciliation (procedure),368.98,,
+1/10/10,88b24045-dbba-4597-b84f-a198c0f9cdc5,5bdd9324-10b2-462b-a1d0-7e8db6e63fb2,430193006,Medication Reconciliation (procedure),726.71,,
+11/23/09,e7aee50f-661c-463b-a317-1a07f1ddf6ec,5f2caa27-a3a0-403b-8c52-92521fe458a1,430193006,Medication Reconciliation (procedure),600.84,,
+12/24/16,8b3ac024-8ef3-4950-b256-a8cbc4ea048d,5566e238-d39a-4471-9b18-7c5dcdddbd1a,169553002,Insertion of subcutaneous contraceptive,14605.15,,
+8/24/02,657650a4-2dda-45f7-8027-f13790152a85,e64cb327-c417-464f-b1d8-81d3e58ab5ae,430193006,Medication Reconciliation (procedure),511.14,,
+11/10/09,dfc2bcb0-ae02-4ce6-a1d8-216da26c2d20,faf88021-db1c-421d-b372-98c5ce16f286,430193006,Medication Reconciliation (procedure),640.56,,
+9/30/11,e9db3961-fe00-427f-a614-8820c1b55619,a4784e9e-6932-4ef8-8dce-37c91af1ce30,430193006,Medication Reconciliation (procedure),596.63,,
+12/13/99,1967373d-0925-4a5f-a0b7-4ac5932a8433,1632ca02-c353-42d8-a51a-d4117bf38ffa,430193006,Medication Reconciliation (procedure),691.29,,
+7/15/94,ba3e3f5e-8d8f-42cd-8022-dcae39204216,6a0581d1-507c-46f1-ba4a-dbdbfb1d13ad,430193006,Medication Reconciliation (procedure),495.05,,
+3/8/10,e0048ca7-58cd-4eff-ba8b-ef5433be8cc8,efc8a4c9-8385-49a1-8e31-1cd05b73831f,301807007,Removal of subcutaneous contraceptive,6486.7,,
+3/7/10,c6edf86a-da24-4f1b-aaa1-b151fbd68312,e525ae7a-0330-4ed5-ab81-8a6be3c96fac,430193006,Medication Reconciliation (procedure),501.7,,
+7/30/11,0b7679d8-df84-4dc4-9b69-74d7a2f73e9b,fbc5f474-b67c-44bd-9511-d2ba3217f467,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+4/29/17,dc9ab086-5b86-481f-a88f-a33d3a5c7338,1f28c017-7983-4ddf-b345-05e423f15800,288086009,Suture open wound,7993.63,284551006,Laceration of foot
+10/3/09,92c20c21-7ecd-47ab-89d8-0715dbfcb004,037d520b-8e66-421e-8870-36b73ec11827,430193006,Medication Reconciliation (procedure),483.91,,
+7/10/12,1eedc3ac-c5b5-425a-914f-8b923b1c329a,8bac651e-bdc9-4af7-8e5a-fb6ea7c30356,430193006,Medication Reconciliation (procedure),844.28,,
+11/22/09,86662c9c-fcc8-41a6-a2e8-61270bf8a3b0,6d0ab945-4708-474b-8151-ac019c2c40ce,430193006,Medication Reconciliation (procedure),531.67,,
+4/5/10,93f4871f-78c0-48dc-b50f-997034db2f43,28d19182-3a0f-4a1c-b090-d5f1dbfddfa1,168594001,Clavicle X-ray,516.65,,
+10/4/18,b7fa4e1d-879f-4e6d-a62c-e4ed54abda40,a0892287-4f89-49ad-88e1-d3395e9ae953,288086009,Suture open wound,10004.44,283385000,Laceration of thigh
+10/19/09,1021c2ea-2bbe-43fe-8c89-9345c8d2152a,31398b44-2f04-44bc-ad86-453483217820,5880005,Physical examination following birth,516.65,,
+9/20/13,185d26ad-fb9f-40ae-afb0-94d72827d887,ba974f92-4053-40ed-bdfb-9748a62bc2ee,430193006,Medication Reconciliation (procedure),434.42,,
+11/10/10,1f1ffbfb-2220-4dfc-a75a-00c6467dc7e7,15b8e2be-83c0-489b-9bf8-bf5e1095ec9c,117015009,Throat culture (procedure),1145.06,195662009,Acute viral pharyngitis (disorder)
+11/24/09,f56b73c1-4c29-4380-aa6b-623c5b1e0091,db02434f-6225-495f-8888-9b1cc6ba21a6,65546002,Extraction of wisdom tooth,7104.07,,
+7/12/13,21b25d6a-2b9f-4f71-b204-397f9fe3c4f4,b4242e27-b3e8-4f87-93e2-c6a3385386f3,117015009,Throat culture (procedure),2552.25,195662009,Acute viral pharyngitis (disorder)
+10/21/10,0681254b-77f5-496d-8f22-3a6e6abf2d81,5e1f2370-55b0-49b8-a392-dfb4a6e97a99,430193006,Medication Reconciliation (procedure),691.77,,
+1/9/85,04cd2931-f103-4b66-a32e-faf5d3de5527,b06e2fcc-fe38-485a-9b11-3feaa154ca68,54550000,Seizure Count Cerebral Cortex Electroencephalogram (EEG),6492.24,,
+6/4/11,e53afbb3-b9be-4253-a8a9-bbeb4bf447bc,a7faaeff-70ba-4bf9-8c31-a7db964f9d55,430193006,Medication Reconciliation (procedure),646.52,,
+5/2/94,ff88f189-bd54-43e7-a1cc-202b0afaae83,bd0e978b-ca9a-456f-a9c0-9898a12ecfc7,430193006,Medication Reconciliation (procedure),694.31,,
+3/21/88,e2b0f8da-4986-4f32-9030-d4c6bf5bc935,2c7a90ec-21c7-4961-a48b-814faeb02d01,430193006,Medication Reconciliation (procedure),571.36,,
+4/8/01,4eb5e041-e764-4fd6-b2ac-e4c7ecccf45f,1edaa5ec-220a-4fb3-ba00-4aeaa5272d14,265764009,Renal dialysis (procedure),516.65,,
+3/26/13,94ff25c8-3fcf-47fd-a0e2-e0dddb444045,4e7e2606-85dc-4421-a398-29d256c099a1,117015009,Throat culture (procedure),1939.8,43878008,Streptococcal sore throat (disorder)
+10/8/09,13cc7754-3c34-4eab-ad31-32a23e605587,e888f182-626b-42ba-9447-8b3a975cae02,5880005,Physical examination following birth,516.65,,
+2/11/10,2151224b-ab5e-4a39-80a3-333f57ae6379,12b8671e-71ff-4d1f-94a8-d9d1ee80546d,430193006,Medication Reconciliation (procedure),761.05,,
+6/13/15,8a820845-bca8-47e2-b944-f7ea13beeecb,96f5ae95-7adc-4c2d-99c6-d80495ef2f62,117015009,Throat culture (procedure),2190.99,43878008,Streptococcal sore throat (disorder)
+10/8/10,67173a93-5a9e-48ce-94a1-8cfc07161a54,7188effe-f6a9-4fdb-9d1b-cbd76a13adc8,430193006,Medication Reconciliation (procedure),692.17,,
+2/12/60,9f7267ca-8e36-4098-89ab-bdc34127a73c,a6728340-3b98-4098-8e84-796ceb75c848,430193006,Medication Reconciliation (procedure),783.24,,
+7/19/10,3707a5a8-088e-46d8-8744-bb6d4c28b52a,054b7de2-984e-4df7-a4bf-46a55c6ad7f2,430193006,Medication Reconciliation (procedure),789.38,,
+4/23/96,3d4bf6f0-8774-4028-8723-95f6fc5c0f90,324f75f7-6719-4cd1-841f-3aca008a52f1,288086009,Suture open wound,11175.47,283385000,Laceration of thigh
+8/8/11,7d0af1b0-ca16-4c06-ba34-fd919086b0a3,ce475da4-b577-4fa8-8e22-c9c664c7c04b,430193006,Medication Reconciliation (procedure),646.72,,
+10/11/09,497a9fad-1c67-4dc6-959e-562d3209abc4,337fef2c-0a9b-44b5-a6d5-05523a06cbd7,271442007,Fetal anatomy study,516.65,72892002,Normal pregnancy
+6/6/10,65b6a9bf-de93-47f2-a866-8d9d450b605a,f510cac2-9972-4e96-ad63-1430f7ed2f5c,430193006,Medication Reconciliation (procedure),547.53,,
+7/31/11,c5725028-9ff2-40a5-8e8b-06c3414122c8,7d7794e7-b64e-408f-9753-f024b3a5eeda,430193006,Medication Reconciliation (procedure),724.49,,
+11/9/97,ba6e0efe-c4f6-4756-8e19-677f1442ae49,f401bcd4-2399-4237-a962-a3539ca69a61,430193006,Medication Reconciliation (procedure),591.75,,
+1/16/10,33112308-5642-4aa5-b7fd-ec72b463129e,88fd86e7-7e8d-4468-896a-1cf466b8eaf7,430193006,Medication Reconciliation (procedure),509.44,,
+1/30/10,4fd6edb9-3751-4778-a013-ec38d80c2110,c1a6474f-0df6-4aa1-9051-5d325cc674b9,117015009,Throat culture (procedure),2264.13,195662009,Acute viral pharyngitis (disorder)
+10/15/10,7199010e-4f54-4027-875d-4277b4737fb4,d3fefb86-1bee-41fb-bc06-822a13e1d182,180325003,Electrical cardioversion,23706.58,49436004,Atrial Fibrillation
+10/6/09,deb1866a-e2e5-48c9-9731-a6f852652b78,46ccdd98-a943-410a-b47b-432c047e552c,252160004,Standard pregnancy test,6536.77,72892002,Normal pregnancy
+6/7/10,bbf89046-0c29-43a4-a678-4ccc93377f9b,370b1b02-b1cb-4f09-afd4-bc4d46043d44,430193006,Medication Reconciliation (procedure),835.83,,
+2/18/10,533bb688-e729-4394-a703-063f4bab21e9,4940d4e7-4641-4e5c-babb-d22dc1d96534,252160004,Standard pregnancy test,4703.42,72892002,Normal pregnancy
+1/16/10,ce700cdb-a37f-44c4-8b86-0be0851b06cf,b0321b28-e12a-4ef4-b97a-fa5f4123f608,430193006,Medication Reconciliation (procedure),387.31,,
+11/9/97,4287803c-1f09-4ded-aa69-9c832098e221,4da0197c-5b51-43d2-8226-1257e986556b,430193006,Medication Reconciliation (procedure),598.16,,
+11/16/09,01b94ddd-8997-4ee0-9a7d-73a240963755,553ec2fa-fe7c-4fbd-a28f-f5d63dccef25,430193006,Medication Reconciliation (procedure),581.78,,
+7/7/14,2940b759-14a8-43f6-9111-3e0baceebc20,09a74d1f-af29-4ccc-b59d-0be3fe8b78f4,23426006,Measurement of respiratory function (procedure),516.65,10509002,Acute bronchitis (disorder)
+5/12/11,57187634-5400-421d-9a16-21a093aa77b6,fdf55a14-3140-43e5-9549-c0202494825e,430193006,Medication Reconciliation (procedure),469.17,,
+2/8/10,f0893217-38a6-43d9-ab12-6fcc1fd5a8c5,824dfd5a-5eb3-4390-bc80-3fa0c17cc79c,430193006,Medication Reconciliation (procedure),611.84,,
+3/8/14,6ad7ab9c-5609-4da7-861e-657127e2d210,cc706829-cab1-42a7-8bcc-347147da1ddf,430193006,Medication Reconciliation (procedure),599.83,,
+6/11/12,3773d734-948e-423c-96cc-12a43408129f,a7f00fb4-2ce6-4a4f-8b82-0ddcd84fce09,430193006,Medication Reconciliation (procedure),703.38,,
+12/5/10,e7ce97d9-b58d-4bb8-9ce8-298327a48a45,d515bf28-1df0-4c94-9e3d-4ef0f25bdf8f,430193006,Medication Reconciliation (procedure),776.03,,
+10/21/13,8ee25c3b-88c8-442e-a1a6-46228be0ed58,2d8750bd-d0b4-471d-a7e1-06e20b6ee70b,430193006,Medication Reconciliation (procedure),590.2,,
+1/28/11,7e2d22aa-9a12-4709-9d45-d784fd9107ba,7c7e0383-68ba-417c-a185-47c4f27a316c,430193006,Medication Reconciliation (procedure),944.77,,
+9/21/10,8137fc2c-7348-4bbb-b7d9-1070f4c72831,5cbf29b0-0ec2-458c-a0f3-9774a0be82df,430193006,Medication Reconciliation (procedure),451.76,,
+8/28/04,95979b2d-d6ce-4725-a614-240ba6f8f572,6c435937-17f9-4aeb-8e4a-47f3495bd3f6,268425006,Pelvis X-ray,516.65,,
+3/30/10,a9b932bb-46ab-400f-b517-8ece63f73dee,fb4a7ca3-1b5a-41db-a276-84d8de173982,46706006,Replacement of contraceptive intrauterine device,12462.78,,
+12/10/09,a360910b-630c-4f30-aab9-63e6dc624359,70516c8a-7641-45f2-91c1-4262fa226d54,73761001,Colonoscopy,8484.34,,
+6/27/11,41eae685-6b8e-42d9-bb4f-16e26a23533b,15401e62-6675-42b7-bc21-1eba0f48fefb,288086009,Suture open wound,5749.73,283371005,Laceration of forearm
+1/10/15,cef7c91b-6a7f-4e26-90b1-ed244fca2ddb,058bacb8-2598-4135-ad04-a5825bbd3973,430193006,Medication Reconciliation (procedure),718.34,,
+1/31/17,d03b3520-c2f2-4784-8ad4-a218d40311c9,04cb0768-e8ed-44b2-9ee7-b2f60b5df95c,430193006,Medication Reconciliation (procedure),576.19,,
+1/30/10,71b447c3-f15d-40c6-8376-29be54e5ed31,71a60d59-fc26-48f8-a776-49ec4f6f979b,73761001,Colonoscopy,7763.98,,
+5/28/11,09d1e004-aa4d-4d45-8f3d-5c3af7f9c9ab,742734bc-fa17-42bd-8883-0de30c59f677,430193006,Medication Reconciliation (procedure),625.86,,
+12/8/09,3773e955-8a39-4c4e-92f7-3cbc5a7e8b25,1e6e8f5d-0525-43e4-8da8-231f236d4f49,76601001,Intramuscular injection,3107.26,,
+1/17/10,d059b106-8e18-4f7a-bcf1-a69f0eaae75a,b5dc8d25-2940-4daa-9260-596bb08be2d8,430193006,Medication Reconciliation (procedure),438.76,,
+9/21/09,b9b1e82a-d325-4d0f-bed6-f02cd5e4b45b,89a43277-6b72-4c8b-a8f5-7b6f25c98e6e,430193006,Medication Reconciliation (procedure),475.63,,
+1/6/08,5919de03-6363-41a7-b251-f5be75149adc,bff45ef0-01ec-4b88-ba79-d47d9a376518,180325003,Electrical cardioversion,31322.79,49436004,Atrial Fibrillation
+3/15/10,b027921a-7b7f-47a6-9cbd-85e9ee171085,7cff0153-5da7-43c1-896d-cb6bdea8a746,73761001,Colonoscopy,17617.34,,
+6/12/97,e65fdd89-d593-41ab-a780-f42f3792a44f,e424182e-fd9d-4315-a878-a660ef075669,430193006,Medication Reconciliation (procedure),440.1,,
+7/26/12,955b1b61-e049-4048-a42a-a45202060cf9,2cdc35b9-6b8a-40a9-8c89-88525ab911a8,430193006,Medication Reconciliation (procedure),519.37,,

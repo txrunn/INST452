@@ -1,0 +1,477 @@
+---
+title: "Module 5: Data Management & Preparation Part 2"
+subtitle: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Manipulating data tables with dplyr
+We will use the celebrity patient health survey dataset for this exercise. Make sure to load the dplyr package and the readxl package before proceeding with the following examples. Also, load the data into R.
+```{r results='hide', message=FALSE, warning=FALSE}
+# Check if packages are not already installed
+packages <- c("readxl", "dplyr")
+
+new_packages <- packages[!packages %in% installed.packages()]
+if (length(new_packages) > 0) {
+  install.packages(new_packages)
+}
+
+# load package
+library(dplyr)
+library(readxl)
+
+# import data
+dat <- read.csv("celebrity_patientsNA.csv", header=TRUE)
+```
+
+## Understand Your Data
+The first thing you should do after importing a dataframe is try to understand what is in your data (more on this next week). First, let's start by using the *head* function to view the first few observations, similar to what we learned in Module 4.
+```{r}
+head(dat, n=5)
+```
+
+Next, let's use the "summary" function to get a summary of all the numeric variables. When using the "summary" function, R provides summary statistics for each numeric variable in your data frame, including minimum, 1st quartile, median, mean, 3rd quartile, and maximum. Only the variable type is printed for categorical variables.
+```{r}
+summary(dat)
+```
+
+Next, let's further examine the categorical variables, which less detail is provided for above. To examine the counts, or frequencies, for each category of a categorical variable, we will use the *table* function:
+```{r}
+table(dat$SEX, useNA = "always")
+table(dat$MARITAL, useNA = "always")
+table(dat$GENHLTH, useNA = "always")
+```
+Note: If you ever see any variables in your data contain values of 99, 999, or 9999, such values are often placeholders for missing data. More on this later!
+
+Now that we have explored our data a little bit, let's do some data wrangling and manipulation! To do this, we'll use a package in R called dplyr.
+
+## The dplyr basics
+The basic set of R tools can accomplish many data table queries, but the syntax can be overwhelming and verbose. The dplyr package offers some nifty and simple querying functions as shown in the next subsections. Some of dplyr’s key data manipulation functions are summarized into a Data Wrangling Cheat Sheet here: https://rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+
+Note that all of these functions take the data frame name as the first argument. 
+
+## Subset by rows: filter
+Tables can be subsetted by rows based on column values. For example, we may wish to grab all rows for male patients only. Note that R is case sensitive, so make sure that you respect each letter’s case (i.e. upper or lower).
+```{r}
+# subset using the filter function
+dat.query1 <- filter(dat, SEX == "MALE")
+  
+```
+
+ALWAYS include a quality assurance (QA) check after subsetting to ensure the filter worked (recruiters/hiring managers look for things like this!). You can do this by running a frequency on the variable(s) that were filtered.
+```{r}
+table(dat.query1$SEX)
+```
+
+
+We can expand our query by including patients with excellent or very good health, in addition to limiting the dataset to males only, by separating the two conditions with a comma. The character | is the Boolean operator OR. The NOT operator, !, is also one of three Boolean operators you’ll be making good use of in this course; the other one being the AND operator, &. 
+```{r}
+dat.query2 <- filter(dat, GENHLTH   == "EXCELLENT" | GENHLTH   == "VERY-GOOD", SEX == "MALE")
+```
+
+Another way to do this is to put the possible values for GENHLTH into a vector, and use the %in% operator:
+```{r}
+dat.query3 <- filter(dat, GENHLTH %in% c("EXCELLENT", "VERY-GOOD"), SEX == "MALE")
+
+```
+
+Remember to always check your work. Since you are subsetting on two different variables, use a crosstab (instead of a simple frequency) to check your work. 
+```{r}
+table(dat.query2$GENHLTH, dat.query2$SEX)
+table(dat.query3$GENHLTH, dat.query3$SEX)
+```
+
+
+We can expand this query by also limiting our output to the patients between the ages of 20 and 40. Note the use of the AND Boolean operator (&) instead of the OR operator (|) for the Age query. We want the Age value to satisfy two criteria simultaneously: greater than or equal to 20 AND less than or equal to 40 
+```{r}
+dat.query3 <- filter(dat, GENHLTH   == "EXCELLENT" | GENHLTH   == "VERY-GOOD", SEX == "MALE", AGE >=20 & AGE <=40)
+dat.query4 <- filter(dat, GENHLTH   == "EXCELLENT" | GENHLTH   == "VERY-GOOD", SEX == "MALE", AGE %in% 20:40)
+
+```
+
+Checking our work:
+```{r}
+table(dat.query3$GENHLTH, dat.query3$SEX)
+table(dat.query4$GENHLTH, dat.query4$SEX)
+
+```
+
+Since we also included a numeric variable in our filter, we can check this subsetting using the summary function. We should expect a minimum no lower than 20 and a maximum no higher than 40.
+```{r}
+summary(dat.query3$AGE)
+```
+
+#### Checkpoint 1: Create a dataset called high_risk that contains patients whose maximum number of drinks (MAXDRNKS) in an outing reported is atleast 1 and at most 4, and they are female. Check your work. Also, find the average age for patients in this new dataset.
+
+```{r}
+
+```
+
+## Subset by column: select
+You can grab a subset of the table by column(s). To extract the columns Patient_Name, Sex, and Age, type:
+```{r}
+dat.subcol <- select(dat, Patient_Name, SEX, AGE)
+
+```
+
+Check your work by viewing the columns in the new dataframe:
+```{r}
+colnames(dat.subcol)
+```
+
+If you want all columns other than Patient_Name, Sex, and Age, add the negative - symbol before the column name:
+
+```{r}
+dat.subcol <- select(dat, -Patient_Name, -SEX, -AGE)
+```
+
+Check your work:
+```{r}
+colnames(dat.subcol)
+```
+
+#### Checkpoint 2: Create a dataset called m5pract that includes all variables from dat except for Patient_name. Check your work.
+
+```{r}
+
+```
+
+## Sort rows by column value: arrange
+You can sort a table based on a column’s values. For example, to sort dat alphabetically by patient's name:
+```{r}
+dat.sort1 <- arrange(dat, Patient_Name)
+```
+
+Check your work by viewing the top and bottom of the dataset.
+```{r}
+head(dat.sort1)
+tail(dat.sort1)
+```
+
+By default, the arrange function sorts by ascending order (i.e. A -> Z or 1 -> 99). To sort by descending order, wrap the column name with the function desc(). For example, to sort the table by Sex in ascending order then by Patient Name in descending order, type:
+
+```{r}
+dat.sort2 <- arrange(dat, SEX, desc(Patient_Name))
+head(dat.sort2, n=20)
+```
+
+#### Checkpoint 3: Create a new dataframe called *sorted* by sorting dat by marital status (MARITAL) (descending) and age (AGE) (ascending). Check your work.
+
+```{r}
+
+
+```
+
+## Creating and/or calculating column values: mutate
+You can add columns (and compute their values) using the mutate function. For example, below we add a column Age_Group based on the patient's age. Here, we make use of an embedded function, ifelse, which performs a conditional operation. (Hint, use n-1 "ifelse" statements and n closing parentheses, where n is the number of new groups created).
+
+```{r}
+dat.extended <- mutate(dat, Age_Group = ifelse(AGE %in% 0:19, "<20 Years",
+                                               ifelse(AGE %in% 20:29, "20 - 29 Years", 
+                                               ifelse(AGE %in% 30:39,"30 - 39 Years",
+                                               ifelse(AGE %in% 40:54, "40 - 54 Years",
+                                               ifelse(AGE >= 55, "55+",
+                                               NA)))))) # NEVER ENCLOSE NA'S IN QUOTES --> DO NOT USE "NA", USE NA INSTEAD!!
+
+# crosstab to make sure the variable was created properly
+table(dat.extended$AGE,dat.extended$Age_Group)
+
+```
+If you ever see any columns in your data contain values of 99, 999, or 9999, such values are often placeholders for missing data. If not dealt with properly, these values may be interpreted as valid data in subsequent analyses. One tell-tale sign that these values should be treated specially is their extreme values compared to the rest of the data batch. This is usually noted in the documentation.
+
+You can also use mutate to recompute values in existing columns. This is particularly helpful when you have missing values coded as high numbers (i.e. 9999), which could impact results. Notice how 9999 is included in the "55+" age group, but this should actually be set to missing since it in fact reflects a missing value. Let's FIRST recode 9999 to NA before creating the new Age_Group variable below: 
+
+```{r}
+# recode 9999 to NA
+dat.overwrite <- mutate(dat.extended, AGE = ifelse(AGE == 9999, NA, AGE))
+
+# confirm the recode worked
+summary(dat.overwrite$AGE)
+
+# create new Age_Group variable
+dat.extended <- mutate(dat.overwrite, Age_Group = ifelse(AGE %in% 0:19, "<20 Years",
+                                               ifelse(AGE %in% 20:29, "20 - 29 Years", 
+                                               ifelse(AGE %in% 30:39,"30 - 39 Years",
+                                               ifelse(AGE %in% 40:54, "40 - 54 Years",
+                                               ifelse(AGE >= 55, "55+",
+                                               NA)))))) # NEVER ENCLOSE NA'S IN QUOTES --> DO NOT USE "NA", USE NA INSTEAD!!
+
+# crosstab to make sure the variable was created properly
+table(dat.extended$AGE,dat.extended$Age_Group, useNA = "ifany")
+```
+In plane English, this tells R "if age = 9999, then set to NA. If not, retain the current age value."
+
+Variables can be coerced from one type to another using the mutate function along with one of several coercion functions:
+
+* as.character() - Convert to character
+* as.numeric() or as.double() - Convert to double
+* as.integer() - Convert to integer
+* as.factor() - Convert to factor
+* as.logical() - Convert to a Boolean
+
+For example, to coerce the MAXDRNKS variable from numeric to character, use the as.character() function.
+```{r}
+dat_coercion <- mutate(dat, MAXDRNKS = as.character(dat$MAXDRNKS))
+typeof(dat$MAXDRNKS)
+typeof(dat_coercion$MAXDRNKS)
+```
+
+
+Mutate can also be used to calculate a new column based on computations using existing columns. Let's demonstrate this by importing a new dataframe, which includes lab and medical information on patients from a doctor's office in Atlanta, GA.
+```{r}
+ATL <- read_excel("diabetes_m5.xlsx", sheet = "Atlanta")
+head(ATL)
+```
+
+Let's create a new variable, BMI, using the following formula: **(weight (lbs) / [height (in)]2) x 703**
+```{r}
+ATL <- mutate(ATL, BMI = (weight/height^2)*703)
+```
+
+Let's check our work:
+```{r}
+summary(ATL$BMI)
+```
+
+For more information on R operators, see https://www.statmethods.net/management/operators.html.
+
+#### Checkpoint 4: Create a new variable in the dat dataframe called 'Marital_History' that takes the value of 1 if a person is married, separated, widowed, or divorced, and 0 otherwise. Check your work.
+
+
+```{r}
+
+```
+
+## Renaming Variables/Columns - rename
+The rename() function changes the names of individual variables using new_name = old_name. Let's rename the HLTHPLN1 variable to INSURANCE.
+```{r}
+dat <- rename(dat, INSURANCE = HLTHPLN1)
+
+# Check
+colnames(dat)
+
+```
+
+
+## Using the Pipe Operator (%>%)
+The pipe operator (`%>%`) in R facilitates writing readable and efficient code for data manipulation tasks. The pipe operator takes the output from one function and passes it as the first argument to another function, allowing you to create a chain of operations without the need for nested function calls or intermediate variables. Here are some reasons why it's beneficial to use the pipe operator:
+
+1. **Improved Readability**: The pipe operator enables writing code in a more readable, left-to-right manner. This makes the code easier to understand, especially for complex data manipulation workflows.
+
+2. **Chain Operations**: It allows you to chain together multiple operations on a data frame or other objects. This reduces the need for intermediate variables and makes the code more concise.
+
+3. **Avoid Nested Functions**: Instead of nesting functions inside each other, which can make code harder to read and understand, the pipe operator allows you to chain functions one after another, making the code more modular and easier to follow.
+
+4. **Easier Debugging**: By breaking down complex data manipulation tasks into smaller, sequential steps, the pipe operator can make debugging easier. You can isolate and debug each step independently.
+
+5. **Consistency**: It promotes consistency in coding style across different data manipulation tasks and among team members. The use of pipes can make code more uniform and maintainable.
+
+Let's combine several data cleaning steps using dplyr and the pipe operator.
+
+```{r}
+# import data
+dat <- read.csv("celebrity_patientsNA.csv", header=TRUE)
+
+pipe_operator_eg <- dat %>%
+  # recode the age variable
+  mutate(Age_Group = ifelse(AGE %in% 0:19, "<20 Years",
+                                 ifelse(AGE %in% 20:29, "20 - 29 Years", 
+                                        ifelse(AGE %in% 30:39,"30 - 39 Years",
+                                               ifelse(AGE %in% 40:54, "40 - 54 Years",
+                                                      ifelse(AGE >= 55, "55+",
+                                                             NA)))))) %>%
+  # filter dataset to Males only
+  filter(SEX == "MALE") %>%
+  # select variables of interest
+  select(Patient_Name, SEX, AGE, Age_Group, HLTHPLN1) %>%
+  # sort dataset by Patient Name
+  arrange(Patient_Name) %>%
+  # rename the health insurance variable
+  rename(INSURANCE = HLTHPLN1)
+```
+
+Notice how we only specify the *dat* dataframe once, and the pipe operator takes the output from each function and passes it as the first argument to the next function, allowing you to create a chain of operations without the need for nested function calls or intermediate dataframes!
+
+As usual, let's check our work:
+```{r}
+table(pipe_operator_eg$AGE, pipe_operator_eg$Age_Group)
+
+table(pipe_operator_eg$SEX)
+
+colnames(pipe_operator_eg)
+
+head(pipe_operator_eg)
+```
+
+
+## Combining Data Tables
+Sometimes the individual datasets you have do not contain all of the information you need. You may need to combine multiple data sets into one data frame in order to pull information from multiple sources of data. There are two ways to pull information from multiple sources of data:
+
+- Combining columns - join
+- Combining rows - append
+
+### Combine columns (join)
+We can use dplyr’s join operations to join elements from one table to another table. Four such functions (with differing behaviors) are left_join, right_join, inner_join, and full join.
+
+There are 4 different join types:
+
+- Left: Include all rows from the left data frame
+- Right: Include all rows from the right data frame
+- Inner: Include only rows in both data frames
+- Full: Include all rows in left and right data frames
+
+![Join Types Diagram](joins.png)
+
+To demonstrate these functions, we’ll be joining two dataframes:
+
+- medications.csv - This file contains prescription information extracted from electronic health records (EHR) from all patients in the local doctor's office
+- procedures.csv - This file contains information on medical procedures performed during each office visit, for all patients in the local doctor's office. This information was extracted from claims data
+
+Let's start by importing the two files and examining the dataframes.
+
+```{r}
+# import data
+medications <- read.csv("medications.csv", header=TRUE)
+procedures <- read.csv("procedures.csv", header=TRUE)
+
+# preview data
+head(medications)
+head(procedures)
+```
+
+In the examples that follow, we will join both tables by the common column, ID.
+
+### Left join: Include all rows from the left data frame, even if they are not in the right dataframe
+In this example, if a row in *medications* does not exist in *procedures*, NA will be assigned to the columns in *procedures*. In other words, all elements in *medications* will exist in the output regardless of if a matching element is found in *procedures*.
+```{r}
+left_j <- left_join(medications, procedures, by="ID")
+str(left_j)
+```
+
+### Right join: Include all rows from the right data frame, even if they are not in the left dataframe
+If a join element in *medications* does not exist in *procedures*, that element is removed. All elements in *procedures* appear in the output (even if they don’t have a match in *medications* in which case an NA value is added),
+
+```{r}
+right_j <- right_join(medications, procedures, by="ID")
+str(right_j)
+```
+
+### Inner join: Include only rows in both data frames
+In this example, only matching elements in both *medications* and *procedures* are saved in the output.
+
+```{r}
+inner_j <- inner_join(medications, procedures, by="ID")
+str(inner_j)
+```
+
+### Full join: Include all rows in left and right data frames, even the ones that do not match
+In this example, all elements in both *medications* and *procedures* are present in the output. For non-matching pairs, NA values are supplied.
+
+```{r}
+full_j <- full_join(medications, procedures, by="ID")
+str(full_j)
+```
+
+### A note about column names
+If the common columns in both tables have different names, you will need to modify the by = argument as by = c("left_col" = "right_col"). For example, let's first rename the ID variable in the *medications* dataframe to "Patient_ID"
+
+```{r}
+medications <- rename(medications, Patient_ID = ID)
+colnames(medications)
+```
+
+Next, let's do a left join of *medications* and *procedures*, **even though they have different names for the ID variables**.
+```{r}
+left_j2 <- left_join(medications, procedures, by = c("Patient_ID" = "ID"))
+str(left_j2)
+```
+
+## Combine rows (append/bind)
+Let's say you have two different datasets that include the same variables, but for a different sample of patients. You can combine or append these rows into one dataframe using bind_rows. 
+
+For this example, let's import two new dataframes, which include lab and medical information on patients from two doctor's offices -- one in Atlanta, GA and one in Stone Mountain, GA. (We previously imported the ATL dataframe, but importing again to avoid confusion!)
+```{r}
+ATL <- read_excel("diabetes_m5.xlsx", sheet = "Atlanta")
+STMTN <- read_excel("diabetes_m5.xlsx", sheet = "Stone Mountain")
+
+```
+
+Let's peek at both files.
+```{r}
+head(ATL)
+head(STMTN)
+
+```
+
+
+Use bind_rows to append the two dataframes into one.
+```{r}
+combine_patients <- bind_rows(ATL, STMTN)
+dim(combine_patients)
+```
+
+Notice how the number of observations in the resulting dataframe is the same as the number of observations of both dataframes combined.
+
+## Removing rows with NA values
+Your analysis might require that all rows in a table have complete cases (i.e. no missing values). You can use the na.omit function to return just the rows that have complete cases. 
+
+Recall from a previous example: dat.extended has missing values for the AGE & Age_Group variables.
+```{r}
+table(dat.extended$AGE,dat.extended$Age_Group, useNA = "ifany")
+```
+
+Let’s create a new dataframe that we’ll name d.complete that only stores the rows for which we have complete cases (i.e. removes any records that have NA values).
+
+```{r}
+d.complete <- na.omit(dat.extended)
+```
+
+All rows with at least one NA value have been removed. Note that the number of rows has changed from 26 rows to 25.
+
+```{r}
+nrow(dat.extended)
+nrow(d.complete)
+
+```
+
+
+Next, let’s create a new dataframe that we’ll name d.complete2 that only stores the rows for which we have complete cases (i.e. no NA values) for a specific variable, REASONCODE, in the medications dataset. Before we remove these observations, let's check and see how many observations are missing a REASONCODE:
+
+```{r}
+summary(medications$REASONCODE)
+```
+
+Next, let's remove the observations that are missing a value for REASONCODE (i.e. REASONCODE = NA)
+```{r}
+d.complete2 <- filter(medications, !is.na(REASONCODE))
+```
+
+All rows with at least one NA value for REASONCODE have been removed. Note that the table’s dimension has changed from 1130 rows to 594, a difference of 536 (the number of rows removed due to missing REASONCODE).
+
+
+```{r}
+nrow(medications)
+nrow(d.complete2)
+
+```
+
+## Exporting Data
+
+### How to save R objects to data files
+#### Export to a CSV file
+To export a data object called d.complete2 as a comma delimited file into your R session’s working directory, run the following:
+
+```{r}
+write.csv(d.complete2, "medications_NA_rmved.csv")
+```
+
+#### Export to a Rds file
+To export a data object called dat to a .Rds (R) file format in the R session’s working directory, run the following:
+```{r}
+saveRDS(d.complete2, "medications_NA_rmved.rds")
+```
+
